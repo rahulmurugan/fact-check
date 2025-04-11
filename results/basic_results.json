@@ -1,0 +1,184 @@
+{
+    "claims": [
+        {
+            "claim": "Flublok ensures identical antigenic match with WHO- and FDA-selected flu strains.",
+            "match_source": [
+                {
+                    "document_name": "FlublokPI.pdf",
+                    "matching_text": "HIGHLIGHTS OF PRESCRIBING INFORMATION These highlights do not include all the information needed to use Flublok\u00ae safely and effectively. See full prescribing information for Flublok. Flublok (In\ufb02uenza...",
+                    "score": 0.12143134130269985
+                },
+                {
+                    "document_name": "Treanor et al. (2011).pdf",
+                    "matching_text": "Vaccine 29 7733\u2013 7739 Contents lists available at ScienceDirect Vaccine jou rn al h om epa ge: www.elsevier.com/locate/vaccine Protective ef\ufb01cacy of a trivalent recombinant hemagglutinin protein vacci...",
+                    "score": 0.07467662456769332
+                },
+                {
+                    "document_name": "Arunachalam et al. (2021).pdf",
+                    "matching_text": "REVIEW ARTICLE OPEN Unique features of a recombinant haemagglutinin in\ufb02uenza vaccine that in\ufb02uence vaccine performance Arun B. Arunachalam 1\u2709, Penny Post2 and Deborah Rudin3 The in\ufb02uenza vaccine \ufb01eld ...",
+                    "score": 0.04184044073514859
+                }
+            ]
+        },
+        {
+            "claim": "Flublok contains 3x the hemagglutinin (HA) antigen content of standard-dose flu vaccines, which has been linked to greater immunogenicity vs standard-dose flu vaccines.",
+            "match_source": [
+                {
+                    "document_name": "Hsiao et al. (2023).pdf",
+                    "matching_text": "The new engl and jour nal of medicine n engl j med 389;24 nejm.org December 14, 2023 2245 From the Kaiser Permanente Vaccine Study Center, Oakland, CA. Dr. Klein can be contacted at nicola.klein@kp.or...",
+                    "score": 0.16581862950997459
+                },
+                {
+                    "document_name": "Arunachalam et al. (2021).pdf",
+                    "matching_text": "REVIEW ARTICLE OPEN Unique features of a recombinant haemagglutinin in\ufb02uenza vaccine that in\ufb02uence vaccine performance Arun B. Arunachalam 1\u2709, Penny Post2 and Deborah Rudin3 The in\ufb02uenza vaccine \ufb01eld ...",
+                    "score": 0.13845805228787825
+                },
+                {
+                    "document_name": "Grohskopf et al. (2023).pdf",
+                    "matching_text": "Morbidity and Mortality Weekly Report Recommendations and Reports / Vol. 71 / No. 1 August 26, 2022 U.S. Department of Health and Human Services Centers for Disease Control and Prevention Prevention a...",
+                    "score": 0.11358504799615676
+                }
+            ]
+        },
+        {
+            "claim": "Cell- and egg-based flu vaccines have the potential to develop mutations during production, which may reduce their effectiveness.",
+            "match_source": [
+                {
+                    "document_name": "Liu et al. (2024).pdf",
+                    "matching_text": "Article Redirecting antibody responses from egg- adapted epitopes following repeat vaccina- tion with recombinant or cell culture-based versus egg-based in\ufb02uenza vaccines Feng Liu 1, F. Liaini Gross1,...",
+                    "score": 0.16941087855127412
+                },
+                {
+                    "document_name": "Arunachalam et al. (2021).pdf",
+                    "matching_text": "REVIEW ARTICLE OPEN Unique features of a recombinant haemagglutinin in\ufb02uenza vaccine that in\ufb02uence vaccine performance Arun B. Arunachalam 1\u2709, Penny Post2 and Deborah Rudin3 The in\ufb02uenza vaccine \ufb01eld ...",
+                    "score": 0.1258601921581665
+                },
+                {
+                    "document_name": "Grohskopf et al. (2023).pdf",
+                    "matching_text": "Morbidity and Mortality Weekly Report Recommendations and Reports / Vol. 71 / No. 1 August 26, 2022 U.S. Department of Health and Human Services Centers for Disease Control and Prevention Prevention a...",
+                    "score": 0.0930489214746833
+                }
+            ]
+        },
+        {
+            "claim": "Recombinant technology leads to a broader immune response that may provide cross-protection, even in a mismatch season.",
+            "match_source": [
+                {
+                    "document_name": "Arunachalam et al. (2021).pdf",
+                    "matching_text": "REVIEW ARTICLE OPEN Unique features of a recombinant haemagglutinin in\ufb02uenza vaccine that in\ufb02uence vaccine performance Arun B. Arunachalam 1\u2709, Penny Post2 and Deborah Rudin3 The in\ufb02uenza vaccine \ufb01eld ...",
+                    "score": 0.1086088508461991
+                },
+                {
+                    "document_name": "Hsiao et al. (2023).pdf",
+                    "matching_text": "The new engl and jour nal of medicine n engl j med 389;24 nejm.org December 14, 2023 2245 From the Kaiser Permanente Vaccine Study Center, Oakland, CA. Dr. Klein can be contacted at nicola.klein@kp.or...",
+                    "score": 0.0479503288739883
+                },
+                {
+                    "document_name": "Treanor et al. (2011).pdf",
+                    "matching_text": "Vaccine 29 7733\u2013 7739 Contents lists available at ScienceDirect Vaccine jou rn al h om epa ge: www.elsevier.com/locate/vaccine Protective ef\ufb01cacy of a trivalent recombinant hemagglutinin protein vacci...",
+                    "score": 0.047317839663357654
+                }
+            ]
+        },
+        {
+            "claim": "Vaccination with a higher-dose recombinant flu vaccine may induce a more robust antibody response than egg-based standard-dose vaccines.",
+            "match_source": [
+                {
+                    "document_name": "Hsiao et al. (2023).pdf",
+                    "matching_text": "The new engl and jour nal of medicine n engl j med 389;24 nejm.org December 14, 2023 2245 From the Kaiser Permanente Vaccine Study Center, Oakland, CA. Dr. Klein can be contacted at nicola.klein@kp.or...",
+                    "score": 0.26619768266727467
+                },
+                {
+                    "document_name": "Liu et al. (2024).pdf",
+                    "matching_text": "Article Redirecting antibody responses from egg- adapted epitopes following repeat vaccina- tion with recombinant or cell culture-based versus egg-based in\ufb02uenza vaccines Feng Liu 1, F. Liaini Gross1,...",
+                    "score": 0.23688634087591265
+                },
+                {
+                    "document_name": "Grohskopf et al. (2023).pdf",
+                    "matching_text": "Morbidity and Mortality Weekly Report Recommendations and Reports / Vol. 71 / No. 1 August 26, 2022 U.S. Department of Health and Human Services Centers for Disease Control and Prevention Prevention a...",
+                    "score": 0.20919610612164707
+                }
+            ]
+        },
+        {
+            "claim": "Flublok (quadrivalent) was evaluated in the pivotal trial against Fluarix (quadrivalent standard-dose vaccine).",
+            "match_source": [
+                {
+                    "document_name": "FlublokPI.pdf",
+                    "matching_text": "HIGHLIGHTS OF PRESCRIBING INFORMATION These highlights do not include all the information needed to use Flublok\u00ae safely and effectively. See full prescribing information for Flublok. Flublok (In\ufb02uenza...",
+                    "score": 0.2544732341938346
+                },
+                {
+                    "document_name": "Hsiao et al. (2023).pdf",
+                    "matching_text": "The new engl and jour nal of medicine n engl j med 389;24 nejm.org December 14, 2023 2245 From the Kaiser Permanente Vaccine Study Center, Oakland, CA. Dr. Klein can be contacted at nicola.klein@kp.or...",
+                    "score": 0.21094133920979988
+                },
+                {
+                    "document_name": "CDC Influenza vaccines.pdf",
+                    "matching_text": "Influenza (Flu) TABLE. Influenza vaccines \u2014 United States, 2023\u2013 24 influenza season* TABLE 1. Influenza vaccines \u2014 United States, 2023\u201324 influenza season* Trade name (manufacturer) Presentations Age...",
+                    "score": 0.19162164480238658
+                }
+            ]
+        },
+        {
+            "claim": "Flublok is produced using a novel production platform in which recombinant HA is expressed in insect cells using a baculovirus expression vector system (BEVS).",
+            "match_source": [
+                {
+                    "document_name": "Arunachalam et al. (2021).pdf",
+                    "matching_text": "REVIEW ARTICLE OPEN Unique features of a recombinant haemagglutinin in\ufb02uenza vaccine that in\ufb02uence vaccine performance Arun B. Arunachalam 1\u2709, Penny Post2 and Deborah Rudin3 The in\ufb02uenza vaccine \ufb01eld ...",
+                    "score": 0.22225826601830564
+                },
+                {
+                    "document_name": "Treanor et al. (2011).pdf",
+                    "matching_text": "Vaccine 29 7733\u2013 7739 Contents lists available at ScienceDirect Vaccine jou rn al h om epa ge: www.elsevier.com/locate/vaccine Protective ef\ufb01cacy of a trivalent recombinant hemagglutinin protein vacci...",
+                    "score": 0.12734439771682077
+                },
+                {
+                    "document_name": "FlublokPI.pdf",
+                    "matching_text": "HIGHLIGHTS OF PRESCRIBING INFORMATION These highlights do not include all the information needed to use Flublok\u00ae safely and effectively. See full prescribing information for Flublok. Flublok (In\ufb02uenza...",
+                    "score": 0.08440564047932732
+                }
+            ]
+        },
+        {
+            "claim": "Recombinant HA antigens produced using BEVS have been shown to induce significantly higher levels of broadly cross-reactive antibodies against highly conserved regions of HA compared with egg-derived vaccines.",
+            "match_source": [
+                {
+                    "document_name": "Arunachalam et al. (2021).pdf",
+                    "matching_text": "REVIEW ARTICLE OPEN Unique features of a recombinant haemagglutinin in\ufb02uenza vaccine that in\ufb02uence vaccine performance Arun B. Arunachalam 1\u2709, Penny Post2 and Deborah Rudin3 The in\ufb02uenza vaccine \ufb01eld ...",
+                    "score": 0.2757771325714317
+                },
+                {
+                    "document_name": "Liu et al. (2024).pdf",
+                    "matching_text": "Article Redirecting antibody responses from egg- adapted epitopes following repeat vaccina- tion with recombinant or cell culture-based versus egg-based in\ufb02uenza vaccines Feng Liu 1, F. Liaini Gross1,...",
+                    "score": 0.1306972867696982
+                },
+                {
+                    "document_name": "Treanor et al. (2011).pdf",
+                    "matching_text": "Vaccine 29 7733\u2013 7739 Contents lists available at ScienceDirect Vaccine jou rn al h om epa ge: www.elsevier.com/locate/vaccine Protective ef\ufb01cacy of a trivalent recombinant hemagglutinin protein vacci...",
+                    "score": 0.05655686489749661
+                }
+            ]
+        },
+        {
+            "claim": "Flublok contains 45 micrograms (mcg) of HA per strain vs 15 mcg of HA per strain in a standard-dose influenza vaccine.",
+            "match_source": [
+                {
+                    "document_name": "Grohskopf et al. (2023).pdf",
+                    "matching_text": "Morbidity and Mortality Weekly Report Recommendations and Reports / Vol. 71 / No. 1 August 26, 2022 U.S. Department of Health and Human Services Centers for Disease Control and Prevention Prevention a...",
+                    "score": 0.2435305537024126
+                },
+                {
+                    "document_name": "Hsiao et al. (2023).pdf",
+                    "matching_text": "The new engl and jour nal of medicine n engl j med 389;24 nejm.org December 14, 2023 2245 From the Kaiser Permanente Vaccine Study Center, Oakland, CA. Dr. Klein can be contacted at nicola.klein@kp.or...",
+                    "score": 0.22758312643029435
+                },
+                {
+                    "document_name": "Arunachalam et al. (2021).pdf",
+                    "matching_text": "REVIEW ARTICLE OPEN Unique features of a recombinant haemagglutinin in\ufb02uenza vaccine that in\ufb02uence vaccine performance Arun B. Arunachalam 1\u2709, Penny Post2 and Deborah Rudin3 The in\ufb02uenza vaccine \ufb01eld ...",
+                    "score": 0.16888293429243936
+                }
+            ]
+        }
+    ]
+}
