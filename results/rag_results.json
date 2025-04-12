@@ -1,0 +1,229 @@
+{
+    "claims": [
+        {
+            "claim": "Flublok ensures identical antigenic match with WHO- and FDA-selected flu strains.",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "96% of the in\ufb02uenza isolates obtained from subjects in Study 1 were not antigenically matched to the strains represented in the vaccine. An exploratory analysis of VE of Flublok against all strains, r..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Treanor et al. (2011).pdf",
+                    "matching_text": "Only 8 isolates in the study (<5% of the total) were antigeni- cally identical to the strains contained in the vaccine. All of these viruses were A/Wisconsin/67/2005-like H3N2 viruses. Two of these oc..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are manufactured using the same process and have overlapping compositions (see Descrip- tion [11]). Study 6 evaluated ..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "would not be effective in children younger than 3 years of age (6). Safety and effectiveness of Flublok have not been established in children 3 years to less than 18 years of age. 8.5 Geriatric Use Da..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "reported (Flublok 1.3%, IIV3 0.8%) over the 30 day follow-up period. Flublok Quadrivalent Flublok Quadrivalent has been administered to and safety data collected from 4328 adults 50 years of age and o..."
+                }
+            ]
+        },
+        {
+            "claim": "Flublok contains 3x the hemagglutinin (HA) antigen content of standard-dose flu vaccines, which has been linked to greater immunogenicity vs standard-dose flu vaccines.",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "would not be effective in children younger than 3 years of age (6). Safety and effectiveness of Flublok have not been established in children 3 years to less than 18 years of age. 8.5 Geriatric Use Da..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Treanor et al. (2011).pdf",
+                    "matching_text": "Vaccine 29 (2011) 7733\u2013 7739\n\nContents lists available at ScienceDirect\n\nVaccine\n\njou rn al h om epa ge: www.elsevier.com/locate/vaccine\n\nProtective ef\ufb01cacy of a trivalent recombinant hemagglutinin pr..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Treanor et al. (2011).pdf",
+                    "matching_text": "3.2. Immunogenicity\n\nSerum HAI antibody titers before and after immunization in FluBlok and placebo recipients are shown in Table 2. FluBlok induced serum antibody responses to all three components of..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Treanor et al. (2011).pdf",
+                    "matching_text": "Only 8 isolates in the study (<5% of the total) were antigeni- cally identical to the strains contained in the vaccine. All of these viruses were A/Wisconsin/67/2005-like H3N2 viruses. Two of these oc..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Treanor et al. (2011).pdf",
+                    "matching_text": "The rates and severities of\n\nFig. 1. Flow chart of subject participation in the study.\n\n7736\n\nJ.J. Treanor et al. / Vaccine 29 (2011) 7733\u2013 7739\n\nTable 2 Serum hemagglutination-inhibiting (HAI) antibo..."
+                }
+            ]
+        },
+        {
+            "claim": "Cell- and egg-based flu vaccines have the potential to develop mutations during production, which may reduce their effectiveness.",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/Arunachalam et al. (2021).pdf",
+                    "matching_text": "POTENTIAL ANTIGENIC MISMATCH OF INFLUENZA VACCINE VIRUS GROWN IN EGG OR CELLS DUE TO ADAPTIVE MUTATIONS IN THE HA PRIMARY STRUCTURE A known risk of traditional split or subunit vaccines is the potenti..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Hsiao et al. (2023).pdf",
+                    "matching_text": "References 1. Centers for Disease Control and Preven- tion. Disease burden of flu (https://www . cdc . gov/ flu/ about/ burden/ index . html). 2. Centers for Disease Control and Pre- vention. Seasonal..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Hsiao et al. (2023).pdf",
+                    "matching_text": "In traditional quadrivalent standard-dose in- activated influenza vaccines (SD-IIV4), chicken eggs are used to manufacture the influenza virus. Mutations in the hemagglutinin protein during egg-based ..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "Fluzone IIV4 and Fluarix IIV4, the two egg-based vaccines were analyzed separately for this exploratory analysis because the two vaccines have different egg-adaptated mutation on the HA of the A(H1N1)..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Hsiao et al. (2023).pdf",
+                    "matching_text": "The New England Journal of Medicine\n\nNo other uses without permission. Copyright \u00a9 2023 Massachusetts Medical Society. All rights reserved.\n\nDownloaded from nejm.org on August 22, 2024. For personal u..."
+                }
+            ]
+        },
+        {
+            "claim": "Recombinant technology leads to a broader immune response that may provide cross-protection, even in a mismatch season.",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/Arunachalam et al. (2021).pdf",
+                    "matching_text": "In addition to the above referenced studies, in a recent study by Shinde et al.83 baculovirus-expressed rHA generated cross- protective responses against both circulating and drifted A/H3N2 strains, i..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Arunachalam et al. (2021).pdf",
+                    "matching_text": "to these egg-protein, and thus potential adverse reactions impurities in vulnerable individuals are eliminated. This well- established and validated platform for vaccine manufacture could be extended ..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Arunachalam et al. (2021).pdf",
+                    "matching_text": "strains16,17. Such cross- protection can occur through the priming of the immune system infection and is primarily due to by vaccination or natural antibodies speci\ufb01c to conserved regions on the HA he..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Arunachalam et al. (2021).pdf",
+                    "matching_text": "in\ufb02uenza vaccine Interim estimates of 2016-17 seasonal effectiveness - United States, February 2017. MMWR Morb. Mortal. Wkly Rep. 66, 167\u2013171 (2017).\n\n27. Flannery, B. et al.\n\n28. Shu, Y. & McCauley, ..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Hsiao et al. (2023).pdf",
+                    "matching_text": "Our study also has several limitations. First, in our real-world setting, compliance with the weekly assigned vaccine schedule occasionally varied because of logistic constraints, including supply-cha..."
+                }
+            ]
+        },
+        {
+            "claim": "Vaccination with a higher-dose recombinant flu vaccine may induce a more robust antibody response than egg-based standard-dose vaccines.",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "Antibody responses to egg-adapted epitopes measured by antibody GMT egg/cell titer ratio in year 1 To assess the levels of antibody responses targeting the egg-adapted epitopes, we used the antibody \u201c..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "We previously reported that antibodies targeting the egg-adapted epitopes could be preferentially boosted from repeat vaccination with egg-based vaccines3. The potential of non-egg-based vaccines to m..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "e c / g g e f o o i t a r n a e m c i r t e m o e G\n\n6\n\n5\n\n4\n\n3\n\nB\n\n<0.0001\n\n<0.0001\n\n0.0084\n\n45-64 years\n\n0.011\n\nFluzone IIV4 Fluarix IIV4 ccIIV4 RIV4\n\n2\n\n1\n\n0\n\nA(H3N2)\n\nA(H1N1)pdm09\n\nB/VIC\n\nB/YAM\n\nF..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "vaccine groups and subtypes, even for A(H3N2), suggesting that unlike the neutralizing antibody responses, most total binding antibody responses do not target the egg-adapted epitopes on HA.\n\nRedirect..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Hsiao et al. (2023).pdf",
+                    "matching_text": "Several studies have shown benefit for the recombinant vaccine and other high-dose influ- enza vaccines as compared with standard-dose vaccines in adults who are 65 years of age or older, findings tha..."
+                }
+            ]
+        },
+        {
+            "claim": "Flublok (quadrivalent) was evaluated in the pivotal trial against Fluarix (quadrivalent standard-dose vaccine).",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are manufactured using the same process and have overlapping compositions (see Descrip- tion [11]). Study 6 evaluated ..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "reported (Flublok 1.3%, IIV3 0.8%) over the 30 day follow-up period. Flublok Quadrivalent Flublok Quadrivalent has been administered to and safety data collected from 4328 adults 50 years of age and o..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "HIGHLIGHTS OF PRESCRIBING INFORMATION These highlights do not include all the information needed to use Flublok\u00ae safely and effectively. See full prescribing information for Flublok. Flublok (In\ufb02uenza..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "FULL PRESCRIBING INFORMATION 1 INDICATIONS AND USAGE Flublok is a vaccine indicated for active immunization for the prevention of disease caused by in\ufb02uenza A virus subtypes and in\ufb02uenza type B virus ..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "would not be effective in children younger than 3 years of age (6). Safety and effectiveness of Flublok have not been established in children 3 years to less than 18 years of age. 8.5 Geriatric Use Da..."
+                }
+            ]
+        },
+        {
+            "claim": "Flublok is produced using a novel production platform in which recombinant HA is expressed in insect cells using a baculovirus expression vector system (BEVS).",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "use. It contains puri\ufb01ed HA proteins produced in a continuous insect cell line (expresSF+\u00ae) that is derived from Sf9 cells of the fall armyworm, Spodoptera frugiperda (which is related to moths, cater..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Treanor et al. (2011).pdf",
+                    "matching_text": "The use of recombinant DNA techniques to express proteins in cell culture has been a successful approach for generation of highly effective vaccines for the prevention of hepatitis B (HBV) and human p..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Arunachalam et al. (2021).pdf",
+                    "matching_text": "Harvest\n\nExtraction\n\nClarification\n\nLinearized BV DNA\n\nRecombination\n\nHA gene BV expression vector\n\nCapture\n\nPurify DNA removal\n\nPurification\n\nTFF=Tangential Flow Filtration\n\nTFF/Formulation\n\nFig. 1 G..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "would not be effective in children younger than 3 years of age (6). Safety and effectiveness of Flublok have not been established in children 3 years to less than 18 years of age. 8.5 Geriatric Use Da..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Arunachalam et al. (2021).pdf",
+                    "matching_text": "split-virion and subunit vaccines). RIV4 is an unadjuvanted vaccine containing 45 \u00b5g of HA/dose from each of the four strains. The production of RIV4 is based on a novel production platform in which r..."
+                }
+            ]
+        },
+        {
+            "claim": "Recombinant HA antigens produced using BEVS have been shown to induce significantly higher levels of broadly cross-reactive antibodies against highly conserved regions of HA compared with egg-derived vaccines.",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/Arunachalam et al. (2021).pdf",
+                    "matching_text": "Structural differences in the HA polypeptides and rosettes between recombinant and split vaccines have been shown to result in differences, both qualitative and quantitative, in the immune response to..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "We previously reported that antibodies targeting the egg-adapted epitopes could be preferentially boosted from repeat vaccination with egg-based vaccines3. The potential of non-egg-based vaccines to m..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "Repeat vaccination with egg-based in\ufb02uenza vaccines could preferentially boost antibodies targeting the egg-adapted epitopes and reduce immuno- genicity to circulating viruses. In this randomized tria..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "(Fig. 4B), suggesting the total HA binding antibody responses induced by vaccination cannot differentiate egg-adapted epitopes on HA even for A(H3N2). This is in stark contrast to the highly elevated ..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Liu et al. (2024).pdf",
+                    "matching_text": "Discussion In this study, we compared the antibody responses to egg- versus cell- propagated vaccine viruses following vaccination with RIV4, ccIIV4 or IIV4 among HCP aged 18\u221244 and 45\u221264 years. RIV4 ..."
+                }
+            ]
+        },
+        {
+            "claim": "Flublok contains 45 micrograms (mcg) of HA per strain vs 15 mcg of HA per strain in a standard-dose influenza vaccine.",
+            "match_source": [
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "mcg HA per 0.5 mL dose, with 45 mcg HA of each of the following 3 in\ufb02uenza virus strains: A/West Virginia/30/2022 (A/Wisconsin/67/2022 pdm09-like virus) (H1N1), A/Massachusetts/18/ 2022 (H3N2) and B/A..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Hsiao et al. (2023).pdf",
+                    "matching_text": "A Quick Take is available at NEJM.org\n\nRepresentatives of the study sponsor, Sanofi, did not have a role in the design or conduct of the study or in the analyses of the data. The Flublok Quadrivalent ..."
+                },
+                {
+                    "document_name": "data/Clinical Files/Treanor et al. (2011).pdf",
+                    "matching_text": "Only 8 isolates in the study (<5% of the total) were antigeni- cally identical to the strains contained in the vaccine. All of these viruses were A/Wisconsin/67/2005-like H3N2 viruses. Two of these oc..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "Presentation\n\nCarton NDC Number\n\nComponents and NDC Number\n\nSingle-Dose Pre\ufb01lled Syringe\n\n49281-724-10\n\nTen 0.5 mL single-dose pre\ufb01lled syringes [49281-724-88]\n\n16.2 Storage and Handling\n\nStore refrig..."
+                },
+                {
+                    "document_name": "data/Clinical Files/FlublokPI.pdf",
+                    "matching_text": "reported (Flublok 1.3%, IIV3 0.8%) over the 30 day follow-up period. Flublok Quadrivalent Flublok Quadrivalent has been administered to and safety data collected from 4328 adults 50 years of age and o..."
+                }
+            ]
+        }
+    ]
+}
