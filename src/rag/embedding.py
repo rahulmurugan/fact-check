@@ -1,60 +1,68 @@
-from google import genai
+
+
+import os
 import json
-import re
+from pathlib import Path
+from typing import List, Dict
 
-def get_embedding(api_key: str, text: str, model: str = "gemini-2.0-flash") -> list:
+import faiss
+import numpy as np
+import pickle
+from tqdm import tqdm
+from sentence_transformers import SentenceTransformer
+
+
+
+def load_records(pdf_folder: Path) -> List[Dict]:
+    """Collect paragraph, table, and figure‑OCR records."""
+    records = []
+    for fname in ("text_chunks.jsonl", "tables.jsonl", "image_ocr.jsonl"):
+        fpath = pdf_folder / fname
+        if not fpath.exists():
+            continue
+        with fpath.open("r", encoding="utf-8") as f:
+            for line in f:
+                rec = json.loads(line)
+                rec["source_pdf"] = pdf_folder.name  # add provenance
+                records.append(rec)
+    return records
+
+
+
+def build_corpus(data_dir: Path) -> List[Dict]:
+    corpus = []
+    for pdf_dir in sorted(data_dir.iterdir()):
+        if pdf_dir.is_dir():
+            corpus.extend(load_records(pdf_dir))
+    print(f" Loaded {len(corpus):,} records from {data_dir}")
+    return corpus
+
+
+def create_embeddings(
+        texts: list[str],
+        model_name: str = "sentence-transformers/paraphrase-MiniLM-L3-v2",
+    ) -> np.ndarray:
     """
-    Retrieves an embedding vector for the provided text using the Gemini model.
-    This function calls the Gemini API via the google.genai client.
-    
-    Parameters:
-        api_key (str): Your Gemini API key.
-        text (str): The text to embed.
-        model (str): Model name to be used for generating embeddings. Defaults to "gemini-2.0-flash".
-
-    Returns:
-        List[float]: The embedding vector as a list of numbers.
-    
-    Note:
-        This implementation assumes that you can instruct the model to output the embedding
-        in JSON format. If the response contains additional commentary text, the function
-        extracts the JSON block using regular expressions.
+    Encode every text one‑by‑one to minimise GPU / RAM spikes.
+    Returns a (N, dim) float32 matrix with unit‑length rows.
     """
-    client = genai.Client(api_key=api_key)
-    prompt = f"Generate a numerical embedding vector in JSON format for the following text:\n\n{text}"
-    response = client.models.generate_content(
-        model=model,
-        contents=prompt
-    )
-    
-    response_text = response.text.strip()
-    
-    # Try to extract a JSON block if it's wrapped in backticks or extra commentary.
-    # This regex looks for a block starting with '```json' and ending with '```'.
-    json_match = re.search(r"```json\s*(\{.*?\})\s*```", response_text, re.DOTALL)
-    if json_match:
-        json_str = json_match.group(1)
-    else:
-        # If no code block markers are found, assume the entire response is JSON.
-        json_str = response_text
+    model = SentenceTransformer(model_name)          # loads once
+    vecs  = []
 
-    try:
-        parsed = json.loads(json_str)
-    except Exception as e:
-        raise ValueError(f"Failed to parse embedding from response: {response_text}. Error: {e}")
-    
-    # Expecting the JSON to contain an "embedding" field (modify if needed).
-    if "embedding" in parsed and isinstance(parsed["embedding"], list):
-        embedding = parsed["embedding"]
-    else:
-        # If the JSON is directly a list, use it.
-        if isinstance(parsed, list):
-            embedding = parsed
-        else:
-            raise ValueError("Returned embedding is not in the expected format (not a list of numbers).")
-    
-    # Validate the embedding elements are numbers.
-    if all(isinstance(x, (int, float)) for x in embedding):
-        return embedding
-    else:
-        raise ValueError("Parsed embedding does not consist entirely of numbers.")
+    for txt in tqdm(texts, desc="🔗 embedding"):
+        emb = model.encode(txt, normalize_embeddings=True)
+        vecs.append(emb)
+
+    return np.vstack(vecs).astype("float32")
+
+def build_faiss_index(embeddings, metadata: List[Dict], vdb_dir: Path):
+    dim = embeddings.shape[1]
+    index = faiss.IndexFlatIP(dim)          # cosine similarity (embs already normalized)
+    index.add(embeddings)
+
+    vdb_dir.mkdir(parents=True, exist_ok=True)
+    faiss.write_index(index, str(vdb_dir / "index.faiss"))
+    with (vdb_dir / "docstore.pkl").open("wb") as f:
+        pickle.dump(metadata, f)
+
+    print(f"✅  Stored {len(metadata):,} vectors to {vdb_dir}")

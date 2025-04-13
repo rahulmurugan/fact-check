@@ -1,0 +1,144 @@
+{
+  "claims": [
+    {
+      "claim": "Flublok ensures identical antigenic match with WHO- and FDA-selected flu strains.",
+      "match_sources": [
+        {
+          "document_name": "FlublokPI",
+          "matching_text": "Flublok is a vaccine indicated for active immunization for the prevention of disease",
+          "score": 0.65
+        },
+        {
+          "document_name": "FlublokPI",
+          "matching_text": "antigenically resembling a strain represented in Flublok",
+          "score": 0.65
+        }
+      ]
+    },
+    {
+      "claim": "Flublok contains 3x the hemagglutinin (HA) antigen content of standard-dose flu vaccines, which has been linked to greater immunogenicity vs standard-dose flu vaccines.",
+      "match_sources": [
+        {
+          "document_name": "Hsiao et al. (2023)",
+          "matching_text": "vaccine (Flublok Quadrivalent) or one of two standard-dose influenza vaccines",
+          "score": 0.76
+        },
+        {
+          "document_name": "Hsiao et al. (2023)",
+          "matching_text": "hemagglutinin influenza vaccine provides",
+          "score": 0.75
+        }
+      ]
+    },
+    {
+      "claim": "Cell- and egg-based flu vaccines have the potential to develop mutations during production, which may reduce their effectiveness.",
+      "match_sources": [
+        {
+          "document_name": "Liu et al. (2024)",
+          "matching_text": "vaccines have different egg-adapted mutation on the HA of the",
+          "score": 0.78
+        },
+        {
+          "document_name": "Liu et al. (2024)",
+          "matching_text": "egg-based vaccines3. The potential of non-egg-based vaccines to miti-",
+          "score": 0.73
+        },
+        {
+          "document_name": "Liu et al. (2024)",
+          "matching_text": "strating the potential of non-egg-based vaccines to reduce the neu-",
+          "score": 0.73
+        }
+      ]
+    },
+    {
+      "claim": "Recombinant technology leads to a broader immune response that may provide cross-protection, even in a mismatch season.",
+      "match_sources": [
+        {
+          "document_name": "Hsiao et al. (2023)",
+          "matching_text": "that the recombinant vaccine may confer more",
+          "score": 0.63
+        },
+        {
+          "document_name": "Hsiao et al. (2023)",
+          "matching_text": "unique characteristic of the recombinant vaccine is likely related",
+          "score": 0.62
+        }
+      ]
+    },
+    {
+      "claim": "Vaccination with a higher-dose recombinant flu vaccine may induce a more robust antibody response than egg-based standard-dose vaccines.",
+      "match_sources": [
+        {
+          "document_name": "Liu et al. (2024)",
+          "matching_text": "non-egg-based vaccines mounted higher post-vaccination HI antibody",
+          "score": 0.8
+        },
+        {
+          "document_name": "Hsiao et al. (2023)",
+          "matching_text": "recombinant vaccine as compared with the standard-dose vaccines against each",
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "claim": "Flublok (quadrivalent) was evaluated in the pivotal trial against Fluarix (quadrivalent standard-dose vaccine).",
+      "match_sources": [
+        {
+          "document_name": "FlublokPI",
+          "matching_text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are receive Flublok Quadrivalent or a Comparator inactivated influenza vaccine (Fluarix®)",
+          "score": 0.81
+        },
+        {
+          "document_name": "FlublokPI",
+          "matching_text": "data for Flublok Quadrivalent are relevant to Flublok because both vaccines are ",
+          "score": 0.79
+        },
+        {
+          "document_name": "FlublokPI",
+          "matching_text": "[14]). Data for Flublok Quadrivalent are relevant to Flublok because both vaccines are",
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "claim": "Flublok is produced using a novel production platform in which recombinant HA is expressed in insect cells using a baculovirus expression vector system (BEVS).",
+      "match_sources": [
+        {
+          "document_name": "FlublokPI",
+          "matching_text": "Flublok contains recombinant HA proteins of the three strains of inﬂuenza virus speciﬁed",
+          "score": 0.67
+        }
+      ]
+    },
+    {
+      "claim": "Recombinant HA antigens produced using BEVS have been shown to induce significantly higher levels of broadly cross-reactive antibodies against highly conserved regions of HA compared with egg-derived vaccines.",
+      "match_sources": [
+        {
+          "document_name": "Arunachalam et al. (2021)",
+          "matching_text": "IN RECOMBINANT HA VACCINE IS LIKELY TO FAVOUR ITS",
+          "score": 0.71
+        },
+        {
+          "document_name": "Arunachalam et al. (2021)",
+          "matching_text": "the vaccine are inserted into the BEVS, from which high yields of ",
+          "score": 0.69
+        },
+        {
+          "document_name": "Arunachalam et al. (2021)",
+          "matching_text": "recombinant HA vaccine thus provide a number of beneﬁts in vaccine performance which can be extended to other viral targets, ",
+          "score": 0.69
+        }
+      ]
+    },
+    {
+      "claim": "Flublok contains 45 micrograms (mcg) of HA per strain vs 15 mcg of HA per strain in a standard-dose influenza vaccine.",
+      "match_sources": [
+        {
+          "document_name": "Grohskopf et al. (2023)",
+          "matching_text": "60 µg of HA per vaccine virus (240 µg total) in a 0.7-mL dose",
+          "score": 0.64
+        }
+      ]
+    }
+  ]
+}

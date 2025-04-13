@@ -1,0 +1,1068 @@
+{"id": "7c1fafd9-d483-4f8b-95b3-efbbdf34ac65", "page": 1, "type": "paragraph", "text": "REVIEW ARTICLE"}
+{"id": "9a8642c4-c7c8-41e5-a401-998fc39c8f16", "page": 1, "type": "paragraph", "text": "OPEN"}
+{"id": "f4e592c3-d24f-4425-bf66-0a115b6e565e", "page": 1, "type": "paragraph", "text": "Unique features of a recombinant haemagglutinin in\ufb02uenza"}
+{"id": "6eae22f7-5aca-4a94-bb1f-cb7173ffcdf7", "page": 1, "type": "paragraph", "text": "vaccine that in\ufb02uence vaccine performance"}
+{"id": "60b2221b-1148-4a2d-a055-9da623031f8a", "page": 1, "type": "paragraph", "text": "Arun B. Arunachalam"}
+{"id": "77171a6c-cb27-4998-b32b-ceade9ad6128", "page": 1, "type": "paragraph", "text": "1\u2709, Penny Post2 and Deborah Rudin3"}
+{"id": "a074edf0-dab0-44b2-b76a-44b6a5535622", "page": 1, "type": "paragraph", "text": "The in\ufb02uenza vaccine \ufb01eld has been constantly evolving to improve the speed, scalability, and \ufb02exibility of manufacturing, and to"}
+{"id": "e0014fdc-32a5-4032-8858-197e408b2b4a", "page": 1, "type": "paragraph", "text": "improve the breadth and longevity of the protective immune response across age groups, giving rise to an array of next generation"}
+{"id": "3207582e-f4ce-4abf-9eee-31d5ad097427", "page": 1, "type": "paragraph", "text": "vaccines in development. Among these, the recombinant in\ufb02uenza vaccine tetravalent (RIV4), using a baculovirus expression vector"}
+{"id": "ad4ead75-a725-413b-9500-f2261738d5e3", "page": 1, "type": "paragraph", "text": "system to express recombinant haemagglutinin (rHA) in insect cells, is the only one to have reached the market and has been"}
+{"id": "b9f063aa-227a-4718-8be1-f903dda9ffe3", "page": 1, "type": "paragraph", "text": "studied extensively. We describe how the unique structural features of rHA in RIV4 improve protective immune responses compared"}
+{"id": "b51c92fe-9282-4aac-b5e0-6ccefbfe71a3", "page": 1, "type": "paragraph", "text": "to conventional in\ufb02uenza vaccines made from propagated in\ufb02uenza virus. In addition to the sequence integrity, characteristic of"}
+{"id": "4df11d2b-39e7-4915-9f0b-9542ae2dd93d", "page": 1, "type": "paragraph", "text": "recombinant proteins, unique post-translational processing of the rHA in insect cells instills favourable tertiary and quaternary"}
+{"id": "aee4d872-fcd5-4078-9330-442bc1be954c", "page": 1, "type": "paragraph", "text": "structural features. The absence of protease-driven cleavage and addition of simple N-linked glycans help to preserve and expose"}
+{"id": "424ace47-6594-400a-abd8-934207d8cce4", "page": 1, "type": "paragraph", "text": "certain conserved epitopes on HA molecules, which are likely responsible for the high levels of broadly cross-reactive and protective"}
+{"id": "23a0052c-94ca-42cb-988d-e072d6e22f77", "page": 1, "type": "paragraph", "text": "antibodies with rare speci\ufb01cities observed with RIV4. Furthermore, the presence of uniform compact HA oligomers and absence of"}
+{"id": "a7291c28-4243-42a7-8f26-0eaffba45124", "page": 1, "type": "paragraph", "text": "egg proteins, viral RNA or process impurities, typically found in conventional vaccines, are expected to eliminate potential adverse"}
+{"id": "02844e01-3485-4c3c-a659-2de21f971c64", "page": 1, "type": "paragraph", "text": "reactions to these components in susceptible individuals with the use of RIV4. These distinct structural features and purity of the"}
+{"id": "7b705929-b489-405c-a0d4-dc4d1e22d2d4", "page": 1, "type": "paragraph", "text": "recombinant HA vaccine thus provide a number of bene\ufb01ts in vaccine performance which can be extended to other viral targets,"}
+{"id": "08490c05-20f7-4067-84da-d013922fbab3", "page": 1, "type": "paragraph", "text": "such as for COVID-19."}
+{"id": "4bc0b709-91a2-45ba-954c-2dac59a3c6db", "page": 1, "type": "paragraph", "text": "npj Vaccines (2021) 6:144 ; https://doi.org/10.1038/s41541-021-00403-7"}
+{"id": "f4aebcb1-1c14-4862-9eef-e136ad2d09a9", "page": 1, "type": "paragraph", "text": "INTRODUCTION"}
+{"id": "8afeae6f-323a-4444-af64-3c743abfae89", "page": 1, "type": "paragraph", "text": "Seasonal in\ufb02uenza is responsible for 290,000\u2013650,000 deaths per"}
+{"id": "ed6680c6-7cfa-450e-aee4-e48bdb5b42be", "page": 1, "type": "paragraph", "text": "year due to respiratory diseases alone and 3\u20135 million cases of"}
+{"id": "eb1056ee-b71b-497f-b4d2-57c44dc0417b", "page": 1, "type": "paragraph", "text": "severe illness worldwide1\u20133. In the USA, in\ufb02uenza was thought to"}
+{"id": "c17713e7-f1c8-4387-bd76-77c10a8df660", "page": 1, "type": "paragraph", "text": "account for 52.7 hospitalisations per 100,000 people during the"}
+{"id": "28f535db-562c-430f-8980-86bc46efee2e", "page": 1, "type": "paragraph", "text": "2019\u20132020 season. These numbers are signi\ufb01cantly higher in"}
+{"id": "62fe7073-5093-4ca3-bcea-be21f757c9ec", "page": 1, "type": "paragraph", "text": "young children and adults aged 65 and older1,2,4. Extra-pulmonary"}
+{"id": "f5aa795d-ce19-4192-ab48-768c109242f2", "page": 1, "type": "paragraph", "text": "complications of in\ufb02uenza infection constitute a further under-"}
+{"id": "4a87617e-25e3-4e14-bf2c-6eb94ea5ada4", "page": 1, "type": "paragraph", "text": "recognised disease burden4,5. Overall, such a high disease burden"}
+{"id": "ebdb6100-2273-44e3-bafb-2d50c8394d3a", "page": 1, "type": "paragraph", "text": "carries substantial social and economic cost6,7. Prevention of"}
+{"id": "9716c672-fbcd-4cdb-a0dc-a5b6503163c3", "page": 1, "type": "paragraph", "text": "seasonal in\ufb02uenza epidemics, as well as preparedness for future"}
+{"id": "1242e244-f1bd-44b2-9530-6bc949806b5f", "page": 1, "type": "paragraph", "text": "pandemics, is thus a global priority."}
+{"id": "40c7038f-d6e6-41c1-89bb-55f4b54de619", "page": 1, "type": "paragraph", "text": "In\ufb02uenza A subtypes H1N1 and H3N2, and in\ufb02uenza B lineages"}
+{"id": "dfa2a956-d8a6-47a0-b48f-2759b4025b52", "page": 1, "type": "paragraph", "text": "B/Yamagata and B/Victoria circulate routinely in humans and are"}
+{"id": "ef95b3af-c52f-4299-bc44-74f9acca19a7", "page": 1, "type": "paragraph", "text": "included in seasonal in\ufb02uenza vaccines8. In\ufb02uenza A subtypes can"}
+{"id": "fe132ab2-bd93-4a31-84fc-055d49ef9d01", "page": 1, "type": "paragraph", "text": "also give rise to highly pathogenic viruses through cross-over from"}
+{"id": "d0e5a8a8-c272-4202-9f81-acf1ca1ef170", "page": 1, "type": "paragraph", "text": "animal reservoirs to humans9. In the past century, four novel"}
+{"id": "b740999d-c6c3-4ab4-b704-c97f5e0738fa", "page": 1, "type": "paragraph", "text": "in\ufb02uenza A virus strains have emerged in this way, each leading to"}
+{"id": "17151b8d-b8f1-4408-95c1-dc0d776e754b", "page": 1, "type": "paragraph", "text": "a global pandemic (H1N1 in 1918; H2N2 in 1957; H3N2 in 1968;"}
+{"id": "f90ee4d0-90b3-4bf3-a89e-5ce5ed7c832f", "page": 1, "type": "paragraph", "text": "and H1N1 in 2009). Vaccines against such strains are prepared and"}
+{"id": "7984f7c9-4644-4733-8748-b7616b4755e2", "page": 1, "type": "paragraph", "text": "stockpiled as government initiatives for emergency use in"}
+{"id": "5c30fa6c-ab3e-4439-bf36-3f81f5d81390", "page": 1, "type": "paragraph", "text": "potential future pandemics."}
+{"id": "019f7fe1-5894-4e59-8280-d6b4139d19cd", "page": 1, "type": "paragraph", "text": "Haemagglutinin (HA) is the primary antigen in the induction of"}
+{"id": "435bd25a-21f9-429a-aaa2-f4be6bbf2bc9", "page": 1, "type": "paragraph", "text": "a protective immune response against the in\ufb02uenza virus, and"}
+{"id": "a7b486d3-4fa0-4388-9699-93dfdb365416", "page": 1, "type": "paragraph", "text": "thus a key vaccine target. Expressed as trimeric glycoproteins on"}
+{"id": "3455e43d-483a-4937-b894-15cab31db379", "page": 1, "type": "paragraph", "text": "the viral surface, HA binds to sialic acid on target cells to facilitate"}
+{"id": "11346e57-9857-432f-907b-f993dc22bd3c", "page": 1, "type": "paragraph", "text": "host cell entry and mediates the fusion of the viral envelope to the"}
+{"id": "9073b5d0-7ed2-4091-b8a7-a945f91dabc7", "page": 1, "type": "paragraph", "text": "late endosomal membrane. Neutralising antibodies that block HA"}
+{"id": "7fb510a7-2242-41e1-8241-af6f187ccf73", "page": 1, "type": "paragraph", "text": "effectively prevent viral entry into target cells and have been"}
+{"id": "75660981-cf54-41c1-9b0c-13a1558fec6f", "page": 1, "type": "paragraph", "text": "shown to protect the host from infection10,11. Another viral surface"}
+{"id": "1a3688b9-f251-4e5e-9343-fc24f62f9481", "page": 1, "type": "paragraph", "text": "protein, neuraminidase (NA), cleaves sialic acid and releases"}
+{"id": "d70dcbcd-539b-4627-9f76-703ccc890d56", "page": 1, "type": "paragraph", "text": "budding virus from the infected cells, thus serving as another"}
+{"id": "423100e3-8a0b-410f-839c-f2eedb3a2e01", "page": 1, "type": "paragraph", "text": "important vaccine target. Although the presence of NA is not"}
+{"id": "7f931e50-fd57-4743-a071-52060a2c93b9", "page": 1, "type": "paragraph", "text": "required for effective vaccine performance12, its inclusion in"}
+{"id": "48158ef6-2143-4aa0-9594-bb1e1d6ad435", "page": 1, "type": "paragraph", "text": "annual in\ufb02uenza vaccination may help to broaden protection and"}
+{"id": "9dab7920-9df8-4f73-9283-6063d1311a84", "page": 1, "type": "paragraph", "text": "reduce in\ufb02uenza severity13,14."}
+{"id": "c9ab12db-e73c-4716-8d79-131cb87ab87d", "page": 1, "type": "paragraph", "text": "The preparation of the annual in\ufb02uenza vaccine \ufb01rstly requires"}
+{"id": "152879df-9763-42b9-bfb6-6117e0b1d5a1", "page": 1, "type": "paragraph", "text": "the identi\ufb01cation of the in\ufb02uenza strains and their like strains,"}
+{"id": "9906cba9-f758-4af5-9c84-f6a8146551a8", "page": 1, "type": "paragraph", "text": "most likely to spread during the upcoming season, for inclusion in"}
+{"id": "57b0814d-ad74-4a59-abd4-9af164c50fe7", "page": 1, "type": "paragraph", "text": "the vaccine. Identi\ufb01cation of the target in\ufb02uenza strains is based"}
+{"id": "c4910570-4a41-4950-9a5a-d53f668c9393", "page": 1, "type": "paragraph", "text": "on surveillance data collected by World Health Organization"}
+{"id": "bb239fd8-8a48-4582-bace-5fbc84daef0f", "page": 1, "type": "paragraph", "text": "(WHO) collaborating centres at six locations in the UK, USA"}
+{"id": "dcabd73a-8f64-42f8-b60b-a139583e78c7", "page": 1, "type": "paragraph", "text": "(including the Centers for Disease Control and Prevention [CDC]),"}
+{"id": "374e516e-cca4-4c49-adb8-df6ed8e8392b", "page": 1, "type": "paragraph", "text": "Japan, China and Australia as part of the WHO Global In\ufb02uenza"}
+{"id": "c83293b5-f4cb-4fd6-932b-638ddde78f52", "page": 1, "type": "paragraph", "text": "Surveillance and Response System (GISRS)15. The \ufb01nal decision on"}
+{"id": "d524ae42-9604-495a-b63e-6ac614415d2e", "page": 1, "type": "paragraph", "text": "resulting vaccine targets is made by individual regulatory bodies."}
+{"id": "625a659b-8793-40e8-adc7-b925cb129004", "page": 1, "type": "paragraph", "text": "In\ufb02uenza vaccines can afford signi\ufb01cant protection against"}
+{"id": "06f3cb58-849f-408f-ad4a-ed280e6fdb4b", "page": 1, "type": "paragraph", "text": "in\ufb02uenza illness, even when there is an antigenic mismatch"}
+{"id": "c492c29a-b442-48f0-85ca-111da3cd8bb4", "page": 1, "type": "paragraph", "text": "against the predominant circulating virus strains16,17. Such cross-"}
+{"id": "8631b783-8bda-4527-aad9-e4090951f888", "page": 1, "type": "paragraph", "text": "protection can occur through the priming of the immune system"}
+{"id": "982bca6e-6e1e-48aa-a699-cb97aa4022fb", "page": 1, "type": "paragraph", "text": "by vaccination or natural infection and is primarily due to"}
+{"id": "0fe74ef3-883d-44ff-b18d-4f07ea2c2fc6", "page": 1, "type": "paragraph", "text": "antibodies speci\ufb01c to conserved regions on the HA head and"}
+{"id": "9ecf1544-86ef-44cf-80cf-af12176abd25", "page": 1, "type": "paragraph", "text": "stem18. Vaccines that can induce immunity speci\ufb01c to circulating"}
+{"id": "9b9c826b-d01c-441b-9952-104d70695362", "page": 1, "type": "paragraph", "text": "wild-type strains and cross-protection to related strains would be"}
+{"id": "a4ecbd6f-157e-4036-823c-e9258ad53d01", "page": 1, "type": "paragraph", "text": "ideal against constantly evolving in\ufb02uenza viruses. As such, the"}
+{"id": "5a31b8fa-3b47-45a4-a543-1bef98179ccb", "page": 1, "type": "paragraph", "text": "conserved regions on the HA head and stem present attractive"}
+{"id": "1f31f570-ed26-4769-9632-d528ee7aa95e", "page": 1, "type": "paragraph", "text": "targets for development of universal in\ufb02uenza vaccines19,20."}
+{"id": "00ee242e-c9e6-4f25-b56b-e204b04d9a0a", "page": 1, "type": "paragraph", "text": "The annual production of in\ufb02uenza vaccine through conven-"}
+{"id": "c2e00c97-c0d6-4e52-8950-423fd6bfcfb9", "page": 1, "type": "paragraph", "text": "tional, mostly egg-based platforms, is arduous and a race-"}
+{"id": "285534c5-a712-4e9a-9e86-b64129a583ed", "page": 1, "type": "paragraph", "text": "against-time21. The production process, from the selection of"}
+{"id": "ffdd825c-af01-4ea7-9d82-4296760a2c66", "page": 1, "type": "paragraph", "text": "in\ufb02uenza"}
+{"id": "24930e3b-650e-417d-8735-96e9fbc91c19", "page": 1, "type": "paragraph", "text": "strains"}
+{"id": "7253c3f8-db98-4492-9850-70cd3d4ae514", "page": 1, "type": "paragraph", "text": "to"}
+{"id": "5e08ec60-63a0-4fb6-810f-058fbb93aeee", "page": 1, "type": "paragraph", "text": "vaccine"}
+{"id": "d467d1a2-ab22-4f1d-9396-a1aa5ec4bb01", "page": 1, "type": "paragraph", "text": "manufacture"}
+{"id": "3e6adbbd-314f-4093-9952-1b61518e1a30", "page": 1, "type": "paragraph", "text": "and"}
+{"id": "fc64e68e-7e38-4f54-b85c-215769bf27be", "page": 1, "type": "paragraph", "text": "release"}
+{"id": "53e084f2-b37e-4066-89d8-e773830a2d98", "page": 1, "type": "paragraph", "text": "for"}
+{"id": "ebb830c6-1e9e-4aa2-9970-823b302c44bb", "page": 1, "type": "paragraph", "text": "distribution, takes eight to nine months each year. Agile, reliable"}
+{"id": "59e80087-32d0-4b84-bf75-0321f61042de", "page": 1, "type": "paragraph", "text": "1Analytical Sciences, R&D Sano\ufb01Pasteur, 1 Discovery Drive, Swiftwater, PA 18370, USA. 2Regulatory Affairs, Protein Sciences, a Sano\ufb01Company, 1000 Research Parkway, Meriden,"}
+{"id": "0c2e4656-d032-4a22-ac71-ef4b48a5e1a2", "page": 1, "type": "paragraph", "text": "CT 06450, USA. 3Global Medical Affairs, Sano\ufb01Pasteur, 1 Discovery Drive, Swiftwater, PA 18370, USA. \u2709email: Arun.Arunachalam@sano\ufb01.com"}
+{"id": "171ea8a1-7081-4200-a176-472980cb3f63", "page": 1, "type": "paragraph", "text": "www.nature.com/npjvaccines"}
+{"id": "5448eacc-eea0-429d-87fa-d4e8d3b890c9", "page": 1, "type": "paragraph", "text": "Published in partnership with the Sealy Institute for Vaccine Sciences"}
+{"id": "27819452-9183-46f4-a3d7-0b4def2ef7be", "page": 1, "type": "paragraph", "text": "1234567890():,;"}
+{"id": "a2302a32-1d52-4c3d-b6b5-8f2d50e7bafb", "page": 2, "type": "paragraph", "text": "and egg-free technologies allowing for guaranteed and faster"}
+{"id": "4ed86a85-4966-4763-b73d-3a471450d368", "page": 2, "type": "paragraph", "text": "manufacture of in\ufb02uenza vaccines are needed to ensure timely"}
+{"id": "68a832f9-ff09-4c27-93c6-28dc3bde5f15", "page": 2, "type": "paragraph", "text": "delivery for upcoming epidemic seasons and during potential"}
+{"id": "bfbfbfc8-fc59-4e8b-955b-1a62c3e0f653", "page": 2, "type": "paragraph", "text": "avian \ufb02u pandemics, when egg supply may be impacted. The"}
+{"id": "c47c2e1d-f242-43ac-ac33-206844e1201b", "page": 2, "type": "paragraph", "text": "adoption"}
+{"id": "b013a38e-a513-4df6-9bdc-e23924129fe2", "page": 2, "type": "paragraph", "text": "of"}
+{"id": "20f1038a-8c5f-4c94-88c8-80bd5e3a778d", "page": 2, "type": "paragraph", "text": "alternative"}
+{"id": "ac6ff5cd-8e5a-4c55-a1a8-1f0e292e18e6", "page": 2, "type": "paragraph", "text": "vaccine"}
+{"id": "3f63fcd3-79a5-4363-8f57-810c0ed0fde8", "page": 2, "type": "paragraph", "text": "development"}
+{"id": "810c98e5-9faa-447a-84a9-3c9ceca36e73", "page": 2, "type": "paragraph", "text": "approaches"}
+{"id": "4287113c-185a-413d-a1b4-d81b0ac1f858", "page": 2, "type": "paragraph", "text": "(including mRNA, vector, and recombinant protein strategies)"}
+{"id": "5856e8b4-55ad-4d51-8d04-14ba75148097", "page": 2, "type": "paragraph", "text": "in"}
+{"id": "36931e66-a324-4fa8-bcdb-ac97af822155", "page": 2, "type": "paragraph", "text": "the"}
+{"id": "446df187-6280-4e4c-84d0-90bf1dc5d2ea", "page": 2, "type": "paragraph", "text": "urgent"}
+{"id": "f80731cd-29e9-485e-8862-346274ad247c", "page": 2, "type": "paragraph", "text": "response"}
+{"id": "d2b58d2a-39e7-46db-b86f-fa349f74ecd5", "page": 2, "type": "paragraph", "text": "to"}
+{"id": "c42efddb-49a9-4e9e-aad1-c9eab35b24c0", "page": 2, "type": "paragraph", "text": "the"}
+{"id": "89895d63-f900-43be-b7ff-66250480fe9d", "page": 2, "type": "paragraph", "text": "COVID-19"}
+{"id": "8f94c3e2-feb8-422a-8f8f-57c201d6e527", "page": 2, "type": "paragraph", "text": "pandemic"}
+{"id": "e5b4e7c7-55c0-41a9-81b5-298eafb11da4", "page": 2, "type": "paragraph", "text": "has"}
+{"id": "b48f4b22-2d15-4c4c-b8e9-2e943b3d97fa", "page": 2, "type": "paragraph", "text": "demonstrated the feasibility of using more ef\ufb01cient methods to"}
+{"id": "b8755bc3-eb2c-4f1c-aadd-eeaf438552d9", "page": 2, "type": "paragraph", "text": "produce new, effective vaccines within accelerated development"}
+{"id": "83f19fc1-cb6d-4a61-941e-2c18c0a8006d", "page": 2, "type": "paragraph", "text": "timelines. The recombinant quadrivalent in\ufb02uenza vaccine (RIV4,"}
+{"id": "71c58fef-b3d6-48c1-b14c-4d8cc96e4742", "page": 2, "type": "paragraph", "text": "Flublok\u00ae, Supemtek\u00ae [EU, Canada], Sano\ufb01Pasteur) was the \ufb01rst"}
+{"id": "8e7bba3b-5d94-43eb-bf80-86935268b9bc", "page": 2, "type": "paragraph", "text": "licensed in\ufb02uenza vaccine to be produced using recombinant"}
+{"id": "1ed17e8a-5b80-4261-8469-424356ce4d4f", "page": 2, "type": "paragraph", "text": "viral proteins instead of antigens derived from live in\ufb02uenza virus"}
+{"id": "30e25444-111d-435c-9dd4-d13479c2d2a6", "page": 2, "type": "paragraph", "text": "(as for inactivated split-virion and subunit vaccines). RIV4 is an"}
+{"id": "8e260d24-fd51-4262-980b-85ce605a5b9c", "page": 2, "type": "paragraph", "text": "unadjuvanted vaccine containing 45 \u00b5g of HA/dose from each of"}
+{"id": "9b9815c6-446d-493f-a54c-e8510387ac6a", "page": 2, "type": "paragraph", "text": "the four strains. The production of RIV4 is based on a novel"}
+{"id": "aaaf5481-6e69-433c-a2ac-29f449cda5d1", "page": 2, "type": "paragraph", "text": "production platform in which recombinant HA (rHA) is expressed"}
+{"id": "1bccb2ce-3d04-49fd-b32b-4074da58102f", "page": 2, "type": "paragraph", "text": "in insect cells using a baculovirus expression vector system"}
+{"id": "21950ae5-3f68-48ba-919d-3ecedf493000", "page": 2, "type": "paragraph", "text": "(BEVS)22. In brief, expresSF+ insect cells are infected with"}
+{"id": "e51ca25b-0dff-4d91-a478-a0f508a073a7", "page": 2, "type": "paragraph", "text": "recombinant baculovirus carrying the relevant in\ufb02uenza HA"}
+{"id": "fa8ee597-4693-48f8-8be3-a18028d46a8f", "page": 2, "type": "paragraph", "text": "genes, which are expressed under the control of a baculovirus"}
+{"id": "725b8bf7-6a97-4d85-b336-613e8dae6e69", "page": 2, "type": "paragraph", "text": "polyhedrin promotor. rHA molecules from the infected cells are"}
+{"id": "b97f5de0-782e-458f-b38a-24eb51431c74", "page": 2, "type": "paragraph", "text": "extracted using detergent and puri\ufb01ed from the clari\ufb01ed cell"}
+{"id": "ab47eda0-e52c-4ca2-bbb0-e6d049ff31a7", "page": 2, "type": "paragraph", "text": "extract using column chromatographies followed by Q mem-"}
+{"id": "c9ab27a5-52ea-4a91-b77f-eb9a1f2175fe", "page": 2, "type": "paragraph", "text": "brane \ufb01ltration. Puri\ufb01ed rHA is suspended in relevant buffer"}
+{"id": "ce077dec-8b85-4809-ab0b-30d1fe54e188", "page": 2, "type": "paragraph", "text": "using tangential \ufb02ow \ufb01ltration and passed through sterile"}
+{"id": "02ca87c8-c95f-4fb3-af2f-949e8d5c4989", "page": 2, "type": "paragraph", "text": "\ufb01ltration for storage and formulation22. RIV4 has undergone"}
+{"id": "65720ce5-1e47-45a5-a9bc-9b873ae4d9b2", "page": 2, "type": "paragraph", "text": "extensive clinical assessment23, and was \ufb01rst approved by FDA in"}
+{"id": "4e8b7513-a4f1-4f71-aecf-09cd9aead876", "page": 2, "type": "paragraph", "text": "2013. It is now licensed in the USA, Canada, Europe, Australia,"}
+{"id": "f16e3479-190b-4d80-86ec-4c4ccaa8394b", "page": 2, "type": "paragraph", "text": "and various other countries."}
+{"id": "d80cdcd5-b804-4fc4-aca1-11ba15e647cc", "page": 2, "type": "paragraph", "text": "This review focuses on the structural features of BEVS-derived"}
+{"id": "cc3ae71e-e77b-4d49-8459-1c73c4814fb8", "page": 2, "type": "paragraph", "text": "rHA that make RIV4 unique from conventional vaccines, and how"}
+{"id": "db958e75-5511-46ed-8e7b-156203ab7f11", "page": 2, "type": "paragraph", "text": "these features help to maximise vaccine performance. Notably,"}
+{"id": "c6cef72e-23be-43d1-a584-d570e8be57f1", "page": 2, "type": "paragraph", "text": "the bene\ufb01ts of this manufacturing process can be extended to"}
+{"id": "6d639fe2-9024-4738-bfcd-58b1138d918c", "page": 2, "type": "paragraph", "text": "other viral targets, such as COVID-19, where the preservation of"}
+{"id": "8e08ce23-6579-47b3-8be6-447bf7fa604a", "page": 2, "type": "paragraph", "text": "conserved epitopes is critical for imparting cross-protection"}
+{"id": "f2f35d97-6350-4d52-be1c-333a021aa44b", "page": 2, "type": "paragraph", "text": "against a constantly evolving and mutating virus."}
+{"id": "b1ef8633-f785-48e6-a208-be60c85e85b8", "page": 2, "type": "paragraph", "text": "POTENTIAL ANTIGENIC MISMATCH OF INFLUENZA VACCINE"}
+{"id": "0e598538-13f9-4e03-a7c4-4d141b7897b6", "page": 2, "type": "paragraph", "text": "VIRUS GROWN IN EGG OR CELLS DUE TO ADAPTIVE"}
+{"id": "b0dee8f8-278d-46a9-9a62-5fa7c1916cec", "page": 2, "type": "paragraph", "text": "MUTATIONS IN THE HA PRIMARY STRUCTURE"}
+{"id": "80367cf3-eff8-42c2-902b-bb38201a9f99", "page": 2, "type": "paragraph", "text": "A known risk of traditional split or subunit vaccines is the potential"}
+{"id": "815209b4-34a0-49f6-954c-92a8487e6591", "page": 2, "type": "paragraph", "text": "for the candidate vaccine virus or working virus seeds to acquire"}
+{"id": "fab2756a-61f8-4494-9d8c-4c33a0a351c7", "page": 2, "type": "paragraph", "text": "adaptive mutations as they grow in embryonated chicken egg or"}
+{"id": "d222124e-fca8-4efb-bc36-0d05772dce7d", "page": 2, "type": "paragraph", "text": "mammalian host cells during vaccine manufacture. Such adaptive"}
+{"id": "8a3f1b95-9984-4911-b1d2-d917c5385231", "page": 2, "type": "paragraph", "text": "mutations in HA peptides may reduce the effectiveness of the"}
+{"id": "05a8a468-82a2-4fbd-9488-a09ccd62a21f", "page": 2, "type": "paragraph", "text": "resultant vaccine24\u201326. Raymond et al.24 showed that an egg-"}
+{"id": "2e780fff-3152-4c81-9204-c7e50a1f4ea4", "page": 2, "type": "paragraph", "text": "adapted A/California/07/2009 (H1N1) vaccine strain acquired a"}
+{"id": "6e920f06-98cf-48df-bc15-92934463c6af", "page": 2, "type": "paragraph", "text": "mutation resulting in the substitution of glutamine with arginine"}
+{"id": "c78ccd6e-954d-405b-a983-cb7e1fa80770", "page": 2, "type": "paragraph", "text": "at position 226 which in turn induced antibodies speci\ufb01c to"}
+{"id": "7db38510-fdba-4877-b204-b02eb66acc5b", "page": 2, "type": "paragraph", "text": "receptor binding site that bound to vaccine-derived HA preferen-"}
+{"id": "95a8d855-db7b-48ad-9d2a-cc7de1a18def", "page": 2, "type": "paragraph", "text": "tially over the circulating wild-type virus24. During the 2012\u20132013"}
+{"id": "1e9b0ef8-723f-416e-a627-a56dfb05a04f", "page": 2, "type": "paragraph", "text": "northern hemisphere in\ufb02uenza vaccination campaign, HA from an"}
+{"id": "1f00c2c8-cd60-4c61-ad59-7522b3fd4bad", "page": 2, "type": "paragraph", "text": "egg-adapted A/Victoria/361/2011 (H3N2) virus used for vaccine"}
+{"id": "a59857ec-4976-4220-9575-75a4dc12724d", "page": 2, "type": "paragraph", "text": "manufacturing differed from the WHO-recommended prototype"}
+{"id": "9b751832-c803-4e2a-b295-4a330d2cb151", "page": 2, "type": "paragraph", "text": "and several other wild-type in\ufb02uenza viruses in three positions,"}
+{"id": "9de9132c-52c1-485e-9950-3a1c2d80f8aa", "page": 2, "type": "paragraph", "text": "H156Q, G186V, and S219Y25. The low vaccine effectiveness (41%)"}
+{"id": "6f6220bc-c808-4806-b821-ec7d80d8de11", "page": 2, "type": "paragraph", "text": "observed for H3N2 in the 2012\u20132013 season was attributed to"}
+{"id": "043d9f6c-0c29-43fb-ad36-8d1ad771cf00", "page": 2, "type": "paragraph", "text": "these"}
+{"id": "9212ad5a-7a93-4c48-9046-92a5e29d1134", "page": 2, "type": "paragraph", "text": "three"}
+{"id": "8438681f-dd10-4c9a-85d7-5decf3271443", "page": 2, "type": "paragraph", "text": "mutations"}
+{"id": "11d1d542-e0c0-42e4-bdc7-ff97f1bb5cd4", "page": 2, "type": "paragraph", "text": "during"}
+{"id": "7e2eb97e-8677-4ae6-9996-c7971d10cde2", "page": 2, "type": "paragraph", "text": "vaccine"}
+{"id": "55c40dfe-f52e-4e8c-957d-1cf7ebdadaab", "page": 2, "type": "paragraph", "text": "production25."}
+{"id": "7ba8c81b-395b-412f-bf50-d32ea4f988f1", "page": 2, "type": "paragraph", "text": "Other"}
+{"id": "42871bb9-267d-41b6-b6ef-bfb29988513d", "page": 2, "type": "paragraph", "text": "antigenic mutations introduced by egg-adaptation of the vaccine"}
+{"id": "b40128af-0de6-4c9a-9d9a-d7a31dd9b8ad", "page": 2, "type": "paragraph", "text": "strain"}
+{"id": "2c8d5fc1-c87d-45ee-93b8-238f21a4e89e", "page": 2, "type": "paragraph", "text": "during"}
+{"id": "9ee15d34-d97f-4e61-9ef0-ff482e93ec46", "page": 2, "type": "paragraph", "text": "vaccine"}
+{"id": "6bbea120-7757-4b82-9b50-6cb3883bb623", "page": 2, "type": "paragraph", "text": "manufacturing"}
+{"id": "4b322790-8ade-41eb-b915-22c1737424d4", "page": 2, "type": "paragraph", "text": "are"}
+{"id": "808ab5d1-d7ce-4f7f-9d4f-f380ff54934a", "page": 2, "type": "paragraph", "text": "thought"}
+{"id": "3cfc8353-14bc-4578-8701-2ca493182916", "page": 2, "type": "paragraph", "text": "to"}
+{"id": "0aa02d9a-f388-4d7a-8bb4-a2a0883211b9", "page": 2, "type": "paragraph", "text": "have"}
+{"id": "543052d2-0924-4e3e-bb4b-804fec0be630", "page": 2, "type": "paragraph", "text": "contributed to low vaccine effectiveness estimates for H3N2 in"}
+{"id": "443e69e0-937a-4397-9829-34fdead1c4cf", "page": 2, "type": "paragraph", "text": "other in\ufb02uenza seasons26,27."}
+{"id": "efb3a5c8-a8ed-43e0-b884-cb549fee1195", "page": 2, "type": "paragraph", "text": "Lower vaccine effectiveness estimates have been observed for"}
+{"id": "e0c16714-ee3d-4794-af38-a3503ba52156", "page": 2, "type": "paragraph", "text": "H3N2 than for other strains since 2009, even during seasons when"}
+{"id": "abe8931b-a24b-4c99-955f-181db474b141", "page": 2, "type": "paragraph", "text": "the selected vaccine strain appeared to be well matched to"}
+{"id": "06737ccf-b088-4fed-9179-1587ef535c00", "page": 2, "type": "paragraph", "text": "circulating strains27. Differences in HA glycosylation between the"}
+{"id": "8e9a4f37-bdd2-4027-8249-30bb8b7c00c7", "page": 2, "type": "paragraph", "text": "vaccine strains and circulating strains are thought to have"}
+{"id": "e73ffe50-0385-4f95-af48-12a8e91534df", "page": 2, "type": "paragraph", "text": "contributed to this reduced vaccine effectiveness26. During the"}
+{"id": "d242b8e5-262a-41f4-91f8-eee6ab8cd6fb", "page": 2, "type": "paragraph", "text": "2014\u20132015 in\ufb02uenza season, a clade 3 C.2a H3N2 strain possessing"}
+{"id": "97ce53e5-fc6a-492f-b294-05c61af36ce4", "page": 2, "type": "paragraph", "text": "a new predicted HA glycosylation site emerged26. For the"}
+{"id": "a1304eda-ad71-46c9-a873-12dc8e3e86fe", "page": 2, "type": "paragraph", "text": "2016\u20132017 season, the in\ufb02uenza vaccine was updated to include"}
+{"id": "091082f0-81a7-4b87-b797-cd7c827fe1f9", "page": 2, "type": "paragraph", "text": "a clade 3 C.2a H3N2 strain (A/Colorado/15/2014) containing"}
+{"id": "ac1f94e9-ffd4-4184-8bfd-8e4dbb1cccf8", "page": 2, "type": "paragraph", "text": "the new glycosylation site26. However, this particular glycosylation"}
+{"id": "c05c4896-aa46-458c-9b8f-1acb299aa606", "page": 2, "type": "paragraph", "text": "site was absent in the egg-adapted virus. Consequently, anti-"}
+{"id": "2773b860-b171-4625-bf76-9b62a7ef8a7e", "page": 2, "type": "paragraph", "text": "bodies induced in humans, and in ferrets, poorly neutralised the"}
+{"id": "0c141eea-9f0e-404d-b81b-bc340dde5a45", "page": 2, "type": "paragraph", "text": "glycosylated clade 3 C.2a H3N2 strain26. Contrary to the egg-"}
+{"id": "677497f0-c203-49b7-8ddb-b5c813dfee34", "page": 2, "type": "paragraph", "text": "derived vaccines and as expected, rHA containing the new"}
+{"id": "65c14a2b-357f-4ecd-b149-eae5830f6ad7", "page": 2, "type": "paragraph", "text": "glycosylation site induced optimal levels of antibodies that"}
+{"id": "5a384578-cf21-49db-9fbe-a5c595b1a4bb", "page": 2, "type": "paragraph", "text": "ef\ufb01ciently recognised the glycosylated clade 3 C.2a H3N2 virus26."}
+{"id": "77352cca-963e-4bcd-8e88-41338fef9b05", "page": 2, "type": "paragraph", "text": "The chances of introducing deleterious mutations through the"}
+{"id": "a510f549-b607-4580-a331-3dc6bdbff4ae", "page": 2, "type": "paragraph", "text": "adaptation of seed virus during vaccine manufacturing today are"}
+{"id": "1bd0f53c-22b4-4314-9c53-f9f168111ca1", "page": 2, "type": "paragraph", "text": "low due to the stringent quality control of the working seed virus."}
+{"id": "01300c88-9ca8-46b1-b12b-606606f70aac", "page": 2, "type": "paragraph", "text": "Indeed, as per current regulatory requirements, seed viruses must"}
+{"id": "cca16165-13ad-4393-8191-a266cb5fd6f0", "page": 2, "type": "paragraph", "text": "be con\ufb01rmed for both genetic and antigenic match with their"}
+{"id": "143091c8-d914-4e96-980d-a98e7953d886", "page": 2, "type": "paragraph", "text": "originating wild-type virus before they can be used for vaccine"}
+{"id": "06375e3a-8bcc-4a88-b160-063fcb337b8a", "page": 2, "type": "paragraph", "text": "production. Nonetheless, the time it takes to generate appropriate"}
+{"id": "16931bdc-583b-4a51-b021-cdac23634f44", "page": 2, "type": "paragraph", "text": "seeds could hinder the timely availability of the vaccines."}
+{"id": "706af725-30f6-417c-b82c-19de12e9e33a", "page": 2, "type": "paragraph", "text": "Recombinant DNA technology avoids the risk of the virus"}
+{"id": "173de944-22a0-4d71-acb6-98ccab61f746", "page": 2, "type": "paragraph", "text": "acquiring egg- or cell-adapted mutations during the manufactur-"}
+{"id": "fa1e151a-f4db-4d7b-8a88-fcb9a7dcbc13", "page": 2, "type": "paragraph", "text": "ing process as it does not use \u2018live\u2019 in\ufb02uenza virus. Instead, DNA"}
+{"id": "3ab2f696-f6ac-4cc0-acc2-f9f0a5022e7e", "page": 2, "type": "paragraph", "text": "coding for HA is cloned from a reference virus published in the"}
+{"id": "cff5cd7d-4296-4faf-b6fb-337ee914b7ef", "page": 2, "type": "paragraph", "text": "Global Initiative on Sharing All In\ufb02uenza Data (GISAID) database"}
+{"id": "8de5ad6e-587e-44cd-8d2e-27d68be6a364", "page": 2, "type": "paragraph", "text": "and is con\ufb01rmed for \ufb01delity at the working virus bank level28. As"}
+{"id": "8aeec0d5-f712-4f20-8bb6-cc232222bb6c", "page": 2, "type": "paragraph", "text": "such, the primary amino-acid sequence of the rHA produced using"}
+{"id": "13dc0903-de18-46ee-8e10-2d1611664729", "page": 2, "type": "paragraph", "text": "baculovirus or other recombinant expression system is identical to"}
+{"id": "f8e9aa48-6b73-47ce-aaa6-03ab51f31c40", "page": 2, "type": "paragraph", "text": "the HA from the wild-type virus isolate selected for seasonal"}
+{"id": "0d3e9799-2314-4a85-b080-ace0d7d11a64", "page": 2, "type": "paragraph", "text": "in\ufb02uenza vaccine production. Thus, the risk of antigenic mismatch"}
+{"id": "3c00156b-f57e-4ee9-803b-a1f2fda83bbf", "page": 2, "type": "paragraph", "text": "of RIV4, or other rHA vaccines in development, with the wildtype"}
+{"id": "3d9dcb14-6f94-469e-b208-7f5e727fe7e9", "page": 2, "type": "paragraph", "text": "in\ufb02uenza strain selected for vaccines is eliminated."}
+{"id": "f61ae77b-60cc-4480-a0bf-d4cd31755895", "page": 2, "type": "paragraph", "text": "RECOMBINANT HA EXPRESSION SYSTEMS"}
+{"id": "fad2df5d-b675-44f9-85bc-aaa24bb3a8f3", "page": 2, "type": "paragraph", "text": "Both prokaryotic and eukaryotic expression systems have been"}
+{"id": "542b1255-6f20-442a-8b0c-b20138f58f32", "page": 2, "type": "paragraph", "text": "used for the manufacture of rHA vaccine antigens. The \ufb01rst"}
+{"id": "cf8afbbd-d4ef-48fb-bb34-261917de0a63", "page": 2, "type": "paragraph", "text": "candidate recombinant in\ufb02uenza vaccines to be successfully"}
+{"id": "34c39a83-efac-4fd0-a504-19b203a5e183", "page": 2, "type": "paragraph", "text": "manufactured using an Escherichia coli fermentation system"}
+{"id": "df2c8a58-8d61-4ba8-bdd5-4e0fa05999fd", "page": 2, "type": "paragraph", "text": "involved expression of the globular head domain of the HA"}
+{"id": "9168c5d6-bd4c-4d69-b452-35d7bafdeb3d", "page": 2, "type": "paragraph", "text": "protein genetically fused with the Toll-like receptor 5 agonist,"}
+{"id": "8fe32639-e655-4d16-8533-58071d108bd4", "page": 2, "type": "paragraph", "text": "Salmonella typhimurium \ufb02agellin type 229. The resultant vaccines"}
+{"id": "5342437a-05a3-450e-b4ce-ffc2e93f5cf3", "page": 2, "type": "paragraph", "text": "elicited strong and protective antibody responses in mouse"}
+{"id": "16d76c0c-1c11-4326-985c-af9d38941002", "page": 2, "type": "paragraph", "text": "models29. In Phase 1 clinical evaluation, a prototypic quadrivalent"}
+{"id": "dc440339-c157-4bbe-aad2-f4547b7fcac4", "page": 2, "type": "paragraph", "text": "vaccine developed using this E. coli platform elicited immune"}
+{"id": "33df9360-ade4-47b9-b5d2-c3cf2cf814b9", "page": 2, "type": "paragraph", "text": "responses in healthy adults with favourable tolerability30. The"}
+{"id": "ec274f24-77a6-41d4-8918-707dc49f80cf", "page": 2, "type": "paragraph", "text": "E. coli expression system has been shown to generate a high"}
+{"id": "b32a8a19-12a7-43dc-9921-5f40f8738244", "page": 2, "type": "paragraph", "text": "yields of rHA (200 mg/L of puri\ufb01ed HA protein) using a minimal"}
+{"id": "d515d861-2b75-4558-918d-1976153ad511", "page": 2, "type": "paragraph", "text": "number of bioreactors31. The authors projected that the strategy"}
+{"id": "dd531e5d-8f27-46f9-b77d-618441479309", "page": 2, "type": "paragraph", "text": "could yield up to half a billion doses of vaccine per month in a"}
+{"id": "67036fbd-d8f3-4690-8a42-f292aecce8ef", "page": 2, "type": "paragraph", "text": "medium-scale pharmaceutical production facility31. This approach"}
+{"id": "29d441c2-cc7d-4f04-bd05-4a5892b297b1", "page": 2, "type": "paragraph", "text": "will likely shorten the entire vaccine manufacturing process32."}
+{"id": "947431ce-e6a9-47c7-99a3-0b7809c4a8bc", "page": 2, "type": "paragraph", "text": "However, E. coli-expressed rHA proteins can be subject to mis-"}
+{"id": "a1393fe7-4fc7-4180-bbee-bb181e1b3860", "page": 2, "type": "paragraph", "text": "folding, contain impurities (e.g., host-cell proteins), and do not"}
+{"id": "6fe60ea3-f24f-4f8f-9b6a-32eb72b6e500", "page": 2, "type": "paragraph", "text": "undergo glycosylation33. They therefore need extensive proces-"}
+{"id": "5a63ecee-8250-4cd5-9132-07c3a1055d17", "page": 2, "type": "paragraph", "text": "sing to attain desired purity and to fold to their native"}
+{"id": "c15507ad-6abf-4982-91dc-8907aeac9757", "page": 2, "type": "paragraph", "text": "conformation31."}
+{"id": "72686a22-ff07-47a6-8446-09cccd64be5d", "page": 2, "type": "paragraph", "text": "The"}
+{"id": "5269d582-2060-4240-9796-dbfba0a982ac", "page": 2, "type": "paragraph", "text": "resulting"}
+{"id": "302697d0-86fd-4016-8107-3cde9ba1dfd4", "page": 2, "type": "paragraph", "text": "processed"}
+{"id": "a44af0d6-1853-4865-8b1a-7d9b5dc8509b", "page": 2, "type": "paragraph", "text": "proteins"}
+{"id": "25ed4557-4a0e-4d9c-a467-50d8f3dac652", "page": 2, "type": "paragraph", "text": "are"}
+{"id": "e61e70fa-871f-4f6b-9633-dcd2f5446603", "page": 2, "type": "paragraph", "text": "less"}
+{"id": "46f6ebe1-a237-4950-923d-54e7b9d938a0", "page": 2, "type": "paragraph", "text": "immunogenic than egg-derived antigens, with around a 10-fold"}
+{"id": "a6654006-2dbe-48eb-bee7-ad3eeaa49e54", "page": 2, "type": "paragraph", "text": "greater quantity needed to generate protective immunity in"}
+{"id": "2ba3b8cc-b172-4878-8aca-556ac1b5b202", "page": 2, "type": "paragraph", "text": "animal models31. These inherent complications have prevented"}
+{"id": "90486cb0-fa7e-4a1a-b5d4-ce5323b56bfb", "page": 2, "type": "paragraph", "text": "large scale manufacturing and eventual commercialisation of"}
+{"id": "c8f2cde9-b3ec-44e2-807a-507390492d6e", "page": 2, "type": "paragraph", "text": "E. coli-expressed in\ufb02uenza vaccines."}
+{"id": "e07bc64d-0a71-4865-aab5-c7bb67dfb754", "page": 2, "type": "paragraph", "text": "Vaccines containing plant-derived rHA either in soluble form or"}
+{"id": "558512e6-0cee-4034-8829-364519d6dc0e", "page": 2, "type": "paragraph", "text": "in virus-like particles (VLPs) have been shown to be safe and"}
+{"id": "e7e10d92-0920-4c83-953f-22e6e135b24d", "page": 2, "type": "paragraph", "text": "immunogenic"}
+{"id": "cadf7207-787a-4d0f-9a0b-d8c06c469d01", "page": 2, "type": "paragraph", "text": "in"}
+{"id": "c74d740f-31b3-4c20-94f8-399e9e715a18", "page": 2, "type": "paragraph", "text": "humans34\u201337."}
+{"id": "6f9a26e5-f747-4ae3-ba92-c6bac617b92f", "page": 2, "type": "paragraph", "text": "A"}
+{"id": "82228cc4-4f34-4ef8-978e-3c9a4e9145a2", "page": 2, "type": "paragraph", "text": "plant-derived"}
+{"id": "22d6f111-f30c-469c-950e-03968f01bc3a", "page": 2, "type": "paragraph", "text": "recombinant"}
+{"id": "a0da15d7-a91d-49e2-8cb1-bc875f8acb8e", "page": 2, "type": "paragraph", "text": "quadrivalent VLP (QVLP) at 30 \u00b5g dose per strain was found to"}
+{"id": "3ec3614b-ffbd-4c13-a0e7-b3ecade8cae4", "page": 2, "type": "paragraph", "text": "be non-inferior in terms of vaccine ef\ufb01cacy against respiratory"}
+{"id": "10f9299b-86d4-41ca-b270-9e6e0002417d", "page": 2, "type": "paragraph", "text": "A.B. Arunachalam et al."}
+{"id": "12b1df36-b3b2-4ccd-9247-09ec2ebbd9ac", "page": 2, "type": "paragraph", "text": "2"}
+{"id": "cd0f1026-0c72-4d23-8ec5-d74187e988e9", "page": 2, "type": "paragraph", "text": "npj Vaccines (2021) 144"}
+{"id": "68325188-2a62-4bbc-9629-6f59026d566f", "page": 2, "type": "paragraph", "text": "Published in partnership with the Sealy Institute for Vaccine Sciences"}
+{"id": "df177601-9c99-4792-a6be-b68143046c50", "page": 2, "type": "paragraph", "text": "1234567890():,;"}
+{"id": "155bbcda-5a84-43d9-b940-9190d30451c8", "page": 3, "type": "paragraph", "text": "illness and in\ufb02uenza-like illness to a quadrivalent inactivated"}
+{"id": "1d8aac02-3310-4f78-be75-2422d4926c31", "page": 3, "type": "paragraph", "text": "in\ufb02uenza vaccine (QIV; Fluarix Quadrivalent, GlaxoSmithKline)"}
+{"id": "ab98cc96-849c-4141-9592-48f6b242389f", "page": 3, "type": "paragraph", "text": "given at 15 \u00b5g dose/strain in adults aged 18 to 64 years37."}
+{"id": "0338abf0-5c86-4a31-b4c8-ec0eb66b2af1", "page": 3, "type": "paragraph", "text": "However, inconsistency in the expression levels of target proteins,"}
+{"id": "91902ed9-de63-44a0-a23c-70173bf19c12", "page": 3, "type": "paragraph", "text": "due to nonspeci\ufb01c integration of transgene(s) into the host"}
+{"id": "a232b6d8-ab72-419e-8b5c-8876cfc0b7e2", "page": 3, "type": "paragraph", "text": "genome, has been a major challenge with plant-based expression"}
+{"id": "c5de88c3-ccd9-4652-b140-87e7d6d6122f", "page": 3, "type": "paragraph", "text": "systems34. The unpredictable yield could adversely impact timely"}
+{"id": "66d69014-644f-43cc-b65e-e89c93918a3f", "page": 3, "type": "paragraph", "text": "vaccine production, which typically involves updating at least one"}
+{"id": "6dcad04a-c3e9-4159-9c0b-8f875c19ca8c", "page": 3, "type": "paragraph", "text": "HA component of the vaccine to re\ufb02ect antigenic change in"}
+{"id": "ffc93ad8-efa7-4009-ab22-868ac9f18826", "page": 3, "type": "paragraph", "text": "the circulating in\ufb02uenza viruses each season. A unique positive"}
+{"id": "2c13fe13-cc1c-4b58-9e98-d59cf8a69184", "page": 3, "type": "paragraph", "text": "attribute of plant-derived rHA is that it can stimulate innate"}
+{"id": "0410b3f6-934f-4ee7-9f64-9089562591de", "page": 3, "type": "paragraph", "text": "immunity that predominantly facilitates Type 1 pro-in\ufb02ammatory"}
+{"id": "7073a19d-2381-471e-a5b4-058a868c32a4", "page": 3, "type": "paragraph", "text": "cellular immune responses, potentially as a direct effect of the"}
+{"id": "e4afb353-d24a-4295-8cba-d13b3f01e08d", "page": 3, "type": "paragraph", "text": "plant-origin lipids/glycolipids in the vaccine formulation38. These"}
+{"id": "1df4e9d3-041f-4830-b0ea-e2cce20b168c", "page": 3, "type": "paragraph", "text": "stimulatory components in a plant-derived vaccine may need to"}
+{"id": "24f096e0-ff82-48db-936f-08e8facfd987", "page": 3, "type": "paragraph", "text": "be controlled and kept at a constant level, for commercialisation,"}
+{"id": "87e80ef3-c171-4b37-844d-eaf8fa282c21", "page": 3, "type": "paragraph", "text": "to avoid potential severe adverse events caused by enhanced"}
+{"id": "464c0b9b-8373-4251-9af9-0f1aaf9b9ab3", "page": 3, "type": "paragraph", "text": "immune responses in vaccinees."}
+{"id": "def44519-c951-44eb-984a-e0cb99bd3a73", "page": 3, "type": "paragraph", "text": "Several groups have explored the use of adenovirus (AdV),"}
+{"id": "bcb62934-c9de-49a3-931e-9e26701bfac3", "page": 3, "type": "paragraph", "text": "primarily as a replication-defective vector, for gene delivery and"}
+{"id": "548bda9a-4e5f-498c-8167-57e636a7cfce", "page": 3, "type": "paragraph", "text": "transgene expression of rHA in the host cells. AdV vectors induce"}
+{"id": "0858487f-4502-432f-bf6f-2e1616fba8f0", "page": 3, "type": "paragraph", "text": "both cell-mediated and humoral immunity against the expressed"}
+{"id": "be294822-8252-44c3-a9f0-7dc69ed361b4", "page": 3, "type": "paragraph", "text": "protein,"}
+{"id": "e68e7b45-4f79-49c4-85d9-b39433f78e24", "page": 3, "type": "paragraph", "text": "providing"}
+{"id": "04faf095-ef05-433b-be41-1a60c7efeaa1", "page": 3, "type": "paragraph", "text": "robust"}
+{"id": "277e51e8-dfa2-4512-a2c3-8c254cc0122a", "page": 3, "type": "paragraph", "text": "protection"}
+{"id": "9f195e1f-a9e3-4de4-9667-cce1af67984e", "page": 3, "type": "paragraph", "text": "against"}
+{"id": "9770e528-3145-4ced-b99f-57243a9a20c5", "page": 3, "type": "paragraph", "text": "the"}
+{"id": "8d917b10-c1ad-485c-b244-e63a74cdbb63", "page": 3, "type": "paragraph", "text": "targeted"}
+{"id": "3c01f0e1-20db-43e0-989d-dd5541db62d8", "page": 3, "type": "paragraph", "text": "disease39\u201341. However, pre-existing or acquired immunity against"}
+{"id": "1caee3b1-53a5-45af-8753-1eabaea9f341", "page": 3, "type": "paragraph", "text": "adenovirus can hamper vaccine effectiveness by neutralising"}
+{"id": "5728d315-2af7-44d5-abed-f988a7f826d8", "page": 3, "type": "paragraph", "text": "the vaccine vector and clearing the vector-infected cells. While"}
+{"id": "10678d7c-f39e-4aec-ab47-cc6fb60d5017", "page": 3, "type": "paragraph", "text": "the use of non-human adenovirus vectors could potentially"}
+{"id": "8c092c36-7df8-4efb-b6c5-b1f43d812cd2", "page": 3, "type": "paragraph", "text": "overcome this issue, AdV vector immunity developed through"}
+{"id": "b225701a-d7b2-4b1c-8e8e-b72ee3b8f32c", "page": 3, "type": "paragraph", "text": "repeated immunisation (for example during repeated annual"}
+{"id": "a09ce3ad-5376-4726-8fe4-06d795068226", "page": 3, "type": "paragraph", "text": "in\ufb02uenza vaccinations) can dampen the immune response"}
+{"id": "38426454-66ef-416c-a03c-cfd10e8b25c5", "page": 3, "type": "paragraph", "text": "against the vaccine antigens39,40."}
+{"id": "87eb5245-8ada-4644-b0da-665a0002c086", "page": 3, "type": "paragraph", "text": "RIV4 is one of only two available in\ufb02uenza vaccines that are"}
+{"id": "760f4ee3-f626-49b6-a7df-3ab2bd94a81e", "page": 3, "type": "paragraph", "text": "egg-free. Like other recombinant vaccines, expression of HA in"}
+{"id": "a5623558-b708-4789-aac2-98319f9a6035", "page": 3, "type": "paragraph", "text": "insect cells does not depend on the generation of reassortant"}
+{"id": "91c0ca0f-6c6a-4fd5-8f55-a00f49a6fce7", "page": 3, "type": "paragraph", "text": "candidate vaccine viruses selected for robust growth in embryo-"}
+{"id": "dc910ef5-e00a-430d-a646-d7e889c2cb39", "page": 3, "type": "paragraph", "text": "nated"}
+{"id": "81c28705-1e15-4e33-89d2-991645406bf2", "page": 3, "type": "paragraph", "text": "eggs"}
+{"id": "4c53e4c6-5818-41eb-ae78-ba11c46b1762", "page": 3, "type": "paragraph", "text": "or"}
+{"id": "d18644bd-fa97-44a4-a82f-f9879f77481a", "page": 3, "type": "paragraph", "text": "mammalian"}
+{"id": "23b343af-6378-4462-a354-7124c981c458", "page": 3, "type": "paragraph", "text": "cell-lines."}
+{"id": "5e42d280-9bb0-4c7f-9b8a-2a76849d58bf", "page": 3, "type": "paragraph", "text": "Instead,"}
+{"id": "023bcf58-85f7-4b30-ab23-a9af1bb9158e", "page": 3, "type": "paragraph", "text": "HA"}
+{"id": "5fcdf4ad-dc55-4106-ad09-1f576037a49e", "page": 3, "type": "paragraph", "text": "genetic"}
+{"id": "3891ee85-3f3b-4068-b7b4-aadfe203bb6e", "page": 3, "type": "paragraph", "text": "sequences from the wild-type strains selected for inclusion in"}
+{"id": "dd0e8a21-62e6-4502-95c7-3652285f6fb5", "page": 3, "type": "paragraph", "text": "the vaccine are inserted into the BEVS, from which high yields of"}
+{"id": "48a39744-c949-4dd3-8adf-04242a0aa555", "page": 3, "type": "paragraph", "text": "rHA are harvested and puri\ufb01ed (Fig. 1). This process requires less"}
+{"id": "7ccefbd8-29b6-49a7-b309-e216e1788432", "page": 3, "type": "paragraph", "text": "than half the time (2\u20133 months) required for the manufacture of"}
+{"id": "0948c975-f40c-4ac0-91e0-78b34dc9adf9", "page": 3, "type": "paragraph", "text": "conventional in\ufb02uenza vaccines42,43. This is a critical advantage for"}
+{"id": "12a5e66b-1ce3-482c-bc6b-bbbe2ea452b2", "page": 3, "type": "paragraph", "text": "the timely supply of in\ufb02uenza vaccine for both seasonal epidemics"}
+{"id": "c1efdb0d-6ae9-4e57-81df-5d78aaef36d1", "page": 3, "type": "paragraph", "text": "and in pandemic situations. VLPs have been produced successfully"}
+{"id": "832bc42a-eee8-470f-9556-3c43a751006e", "page": 3, "type": "paragraph", "text": "by integrating HA, capsid protein (M1) and neuraminidase (NA)"}
+{"id": "78e7bf88-5acf-4b7f-92b7-8d4e2254d35c", "page": 3, "type": "paragraph", "text": "expressed in insect cells44\u201346. Although presenting proteins in VLP"}
+{"id": "5ac592de-78cf-4139-9f4a-23824cb05e5e", "page": 3, "type": "paragraph", "text": "structures enhanced their immunogenicity, it compromised the"}
+{"id": "79257892-3995-4dfa-b7eb-6bf47cdd4b66", "page": 3, "type": "paragraph", "text": "purity of the vaccines considerably, as VLP structures also"}
+{"id": "c3816c35-70ff-4ec2-8541-a94c8f1ef359", "page": 3, "type": "paragraph", "text": "integrated both baculovirus and Sf9 cell proteins. Elimination of"}
+{"id": "0166d062-be0e-41a8-b63f-c23e1215eb8a", "page": 3, "type": "paragraph", "text": "these unwanted proteins from the vaccine required extensive"}
+{"id": "cfbcc64e-3b60-4215-9bad-e6b9dbf908e7", "page": 3, "type": "paragraph", "text": "disassembly and reassembly processing of puri\ufb01ed VLPs, which is"}
+{"id": "ba3dbc7c-aa2a-4290-972d-2f1df58c6dd0", "page": 3, "type": "paragraph", "text": "a constraint for the commercial scale manufacturing of vaccines"}
+{"id": "59fb2b8f-ee69-4fa6-98ca-9919ad248782", "page": 3, "type": "paragraph", "text": "annually. It also raises the cost and the time it takes to bring the"}
+{"id": "b703a144-c8ec-4c3a-b8bb-64cdaa0d6fe2", "page": 3, "type": "paragraph", "text": "vaccines to the market. The yield and the cost of various"}
+{"id": "64adca53-9361-456a-8cc1-dbd9cd7d2e65", "page": 3, "type": "paragraph", "text": "manufacturing processes and technologies are critical elements"}
+{"id": "78182aca-19f9-49e1-b70b-03ba1b47f519", "page": 3, "type": "paragraph", "text": "to ensure adequate supply of vaccine at an affordable cost,"}
+{"id": "53df99fb-e20f-4155-b5e5-0d4f06232c88", "page": 3, "type": "paragraph", "text": "especially in a pandemic situation. This aspect of the vaccine"}
+{"id": "27d058fe-11eb-40c8-902f-ca9cc3a3b928", "page": 3, "type": "paragraph", "text": "manufacturing has been discussed exhaustively in a report"}
+{"id": "16373044-5d21-4cdf-8074-3daf1d5b2e25", "page": 3, "type": "paragraph", "text": "published by the Program for Appropriate Technology in Health"}
+{"id": "15b44379-9b31-4b2a-8aaa-dceefd723f94", "page": 3, "type": "paragraph", "text": "(PATH) and is not covered here47."}
+{"id": "daa3a6ab-759f-4cd0-9371-6fc7b2b4dd74", "page": 3, "type": "paragraph", "text": "Insect cell-derived rHA (RIV4) has been studied extensively by"}
+{"id": "4bc46516-33c4-4da8-9e79-7d200cb260fa", "page": 3, "type": "paragraph", "text": "various groups in both pre-clinical models and humans. The rHA"}
+{"id": "676d1677-99ba-499b-a41f-620746b2e592", "page": 3, "type": "paragraph", "text": "contained in RIV4 differs from that expressed in other systems in"}
+{"id": "1d7d08e0-344d-4b15-909a-2349d77527ae", "page": 3, "type": "paragraph", "text": "terms of speci\ufb01c structural features, the nature of the source"}
+{"id": "99741607-31d5-43c9-99cb-1fe182928612", "page": 3, "type": "paragraph", "text": "material and the manufacturing process, which have an impact on"}
+{"id": "d571ef96-3b2c-4db9-b049-1f982221a91f", "page": 3, "type": "paragraph", "text": "certain aspects of vaccine safety and ef\ufb01cacy (Fig. 2). Based on"}
+{"id": "4d5980b1-f803-4781-a350-133dd5d96528", "page": 3, "type": "paragraph", "text": "these unique features, RIV4 received \u2018product exclusivity\u2019 protec-"}
+{"id": "e31dbec1-c56f-4187-a249-d96d8bb7b029", "page": 3, "type": "paragraph", "text": "tion from FDA, a \u2018new active substance\u2019 designation from EMA"}
+{"id": "e5e60e42-3e67-4d18-a869-805f8c03b677", "page": 3, "type": "paragraph", "text": "Committee for Medicinal Products for Human Use (CHMP)48 and"}
+{"id": "a152f122-b2ed-4e68-904d-23de993a51a9", "page": 3, "type": "paragraph", "text": "an \u2018innovative drug\u2019 designation from Health Canada49. The use of"}
+{"id": "a233b7df-4c01-43be-84db-55ac3ae9a0a3", "page": 3, "type": "paragraph", "text": "this technology, together with the molecular characterisation of"}
+{"id": "0b353a56-22fd-4d47-871c-7f3dbf50fe0c", "page": 3, "type": "paragraph", "text": "the product, should facilitate continued evolution of in\ufb02uenza"}
+{"id": "8582ebab-8321-4c1b-99e4-fae8b109f513", "page": 3, "type": "paragraph", "text": "vaccines with improved effectiveness and their timely availability"}
+{"id": "2a3a958a-62da-4ca1-8a1f-34a02482e39c", "page": 3, "type": "paragraph", "text": "to the public."}
+{"id": "74f7cc30-004f-4bc5-ae4e-7318881d66ee", "page": 3, "type": "paragraph", "text": "THE TERTIARY STRUCTURE OF RECOMBINANT HA PRODUCED"}
+{"id": "637c0737-3549-4199-9e72-41c9f6549dea", "page": 3, "type": "paragraph", "text": "IN INSECT CELLS CAN INFLUENCE VACCINE IMMUNOGENICITY"}
+{"id": "5f2b85d7-4136-4437-887c-79edd4a49602", "page": 3, "type": "paragraph", "text": "In\ufb02uenza HA is synthesised as a single precursor polypeptide"}
+{"id": "4eec3b24-2df6-4e3c-b484-824e1e5127c8", "page": 3, "type": "paragraph", "text": "(HA0), which is generally cleaved into two polypeptides (HA1 and"}
+{"id": "0dc9af18-10a3-40e2-beab-58e48c4f47b9", "page": 3, "type": "paragraph", "text": "HA2) extracellularly by trypsin-like serine proteases, furin and"}
+{"id": "2e87bc50-fa07-4730-af5d-912ab9066a53", "page": 3, "type": "paragraph", "text": "other subtilisin family endoproteases after newly synthesised"}
+{"id": "f7bbff6d-b524-4d9b-9f6a-9f219352fee7", "page": 3, "type": "paragraph", "text": "virions are released from infected cells50,51. HA cleavage is"}
+{"id": "4af6fd79-bdeb-4394-a76f-5b5c40df8a9d", "page": 3, "type": "paragraph", "text": "essential for the infectivity of in\ufb02uenza virus. Thus, expression of"}
+{"id": "89e8aa9e-d00f-406b-a38e-37581d1591b6", "page": 3, "type": "paragraph", "text": "these proteases exclusively in the respiratory tract is responsible"}
+{"id": "1e53e053-ade8-4bfb-81ef-dcb935302647", "page": 3, "type": "paragraph", "text": "for in\ufb02uenza virus tropism to epithelial cells of the upper and"}
+{"id": "d5c8afc6-f807-48ee-8fc5-a3301ec442e4", "page": 3, "type": "paragraph", "text": "lower respiratory tract. However, HA from in\ufb02uenza subtypes H5"}
+{"id": "021ae572-83fd-43f6-8a12-5fa964069ccc", "page": 3, "type": "paragraph", "text": "Full-length cDNA"}
+{"id": "5dc22063-f73b-41bf-b7b1-1eb17751874a", "page": 3, "type": "paragraph", "text": "Polyhedrin promoter"}
+{"id": "4cbd3b61-830a-4e8f-b6f4-22e70f46eb01", "page": 3, "type": "paragraph", "text": "Transfer plasmid"}
+{"id": "e2261caa-46ce-4033-8409-857a5ffb566e", "page": 3, "type": "paragraph", "text": "Processing Signals"}
+{"id": "d0aa1725-ce32-43c5-84d3-69dbe25bc125", "page": 3, "type": "paragraph", "text": "PCR-direct cloning"}
+{"id": "7be908d9-5bd1-4170-9f64-446d59993ee4", "page": 3, "type": "paragraph", "text": "Full-length cDNA"}
+{"id": "5e34502b-54ec-43b9-88b8-66f4775cf07e", "page": 3, "type": "paragraph", "text": "Linearized BV DNA"}
+{"id": "8c25e142-ddef-4bdf-9f6b-3449b4484984", "page": 3, "type": "paragraph", "text": "X"}
+{"id": "05b5ac40-427f-4800-91d8-fb6ec162e233", "page": 3, "type": "paragraph", "text": "X"}
+{"id": "1085d0ad-84a2-4b3d-868a-2f74d73b4534", "page": 3, "type": "paragraph", "text": "Recombination"}
+{"id": "de2fb861-9ed2-433a-b041-82c51457d291", "page": 3, "type": "paragraph", "text": "BV expression vector"}
+{"id": "b233c917-47f8-495f-bdcb-ee63bb3879bc", "page": 3, "type": "paragraph", "text": "HA gene"}
+{"id": "a52bc2ac-1756-4f55-8fed-d4fdac9b1eb7", "page": 3, "type": "paragraph", "text": "1. Cell seeding"}
+{"id": "05fe9d06-eb30-4064-8309-aaa0ea5c769a", "page": 3, "type": "paragraph", "text": "2. Infect with"}
+{"id": "0cf52ffa-c578-487a-a845-ddb0d17573cd", "page": 3, "type": "paragraph", "text": "Virus bank"}
+{"id": "e3c1bee1-39bb-4c53-96fc-24c5445b8a54", "page": 3, "type": "paragraph", "text": "Expansion"}
+{"id": "8b1051ca-28d3-4029-a3cc-a4e7375fd539", "page": 3, "type": "paragraph", "text": "in bioreactor"}
+{"id": "7de98111-23c8-4358-836a-9db4087b478e", "page": 3, "type": "paragraph", "text": "Capture"}
+{"id": "5f9c8404-2fad-429c-ac01-575cbdab9f01", "page": 3, "type": "paragraph", "text": "Purify"}
+{"id": "ca2f7291-6c18-45b1-90c9-a2019d22f1ac", "page": 3, "type": "paragraph", "text": "DNA removal"}
+{"id": "ae127ae0-4fb6-48a0-8fa3-52641504c8f1", "page": 3, "type": "paragraph", "text": "TFF/Formulation"}
+{"id": "0be5b86e-f61f-4aa2-876f-c943afc28648", "page": 3, "type": "paragraph", "text": "Purification"}
+{"id": "597967b0-34e2-4caa-a063-9bafdd0d4a69", "page": 3, "type": "paragraph", "text": "Disc-stack"}
+{"id": "92b56ea1-f8c9-4766-81c6-b122c1cb86db", "page": 3, "type": "paragraph", "text": "centrifugation"}
+{"id": "a75cb4e7-6133-4ad4-a282-e9b9a7a1e831", "page": 3, "type": "paragraph", "text": "Harvest"}
+{"id": "625a018f-38ed-4d82-8569-dd475b8affb2", "page": 3, "type": "paragraph", "text": "Extraction"}
+{"id": "8b7c39f9-4da5-4998-8fad-ceaa842e6037", "page": 3, "type": "paragraph", "text": "Depth"}
+{"id": "701390fe-5abe-4ab8-9b94-23d3d8ff6607", "page": 3, "type": "paragraph", "text": "Filtration"}
+{"id": "3a9b8f0a-e940-41a5-af8d-62c10b2fe54f", "page": 3, "type": "paragraph", "text": "Clarification"}
+{"id": "bee0e6d1-8d7e-44a1-a3d5-165a2f7d9316", "page": 3, "type": "paragraph", "text": "TFF=Tangential Flow Filtration"}
+{"id": "e0e95b3e-af94-4545-8a84-515ed575cf6b", "page": 3, "type": "paragraph", "text": "Fig. 1"}
+{"id": "d453bc12-1234-49c2-939e-7be6c912b0da", "page": 3, "type": "paragraph", "text": "Generation of rHA using the baculovirus-insect cell expression system for the manufacture of RIV4. BV baculovirus. Figure adapted"}
+{"id": "ecc160de-0683-4202-ab86-650e5e7215d7", "page": 3, "type": "paragraph", "text": "from Cox, M. M. & Hashimoto, Y (2011). A fast track in\ufb02uenza virus vaccine produced in insect cells. J Invertebr Pathol 107 Suppl, S31-41 \u00a9 2011"}
+{"id": "0db42969-eac7-4f18-b09b-11e5d41d9ae8", "page": 3, "type": "paragraph", "text": "Elsevier Inc, with permission from Elsevier23."}
+{"id": "4ce9c7c4-d3ec-41fe-a44a-6d285c9c78a1", "page": 3, "type": "paragraph", "text": "A.B. Arunachalam et al."}
+{"id": "ea8ee9a2-7e65-4477-a504-7d92dcdbbd6b", "page": 3, "type": "paragraph", "text": "3"}
+{"id": "89b2453c-0805-47ef-8e72-b8ddf3c82fe4", "page": 3, "type": "paragraph", "text": "Published in partnership with the Sealy Institute for Vaccine Sciences"}
+{"id": "8f4d856d-e873-4e01-8047-4346c8d90af0", "page": 3, "type": "paragraph", "text": "npj Vaccines (2021) 144"}
+{"id": "735ab0f4-6a51-404b-8d5e-c8fdc2d40f8f", "page": 4, "type": "paragraph", "text": "and H7 contains multi-basic cleavage sites that are cleaved by"}
+{"id": "dbdbe4f6-5250-4a3b-928b-110826de967f", "page": 4, "type": "paragraph", "text": "ubiquitously expressed furin in the trans-Golgi network, making"}
+{"id": "3adf78b3-1804-4e5c-bbba-2875f1e23313", "page": 4, "type": "paragraph", "text": "these strains highly virulent50,52,53. The HA1 and HA2 polypeptides"}
+{"id": "a66300ac-0f95-4c98-a566-4233ad9fc9fd", "page": 4, "type": "paragraph", "text": "remain covalently linked by a disul\ufb01de bond to form heterodimers"}
+{"id": "e1d3507e-b228-4f54-baa6-c7e1740577bd", "page": 4, "type": "paragraph", "text": "(Fig. 2). These molecules, either uncleaved HA0 or cleaved"}
+{"id": "785d767c-3a1e-461e-9d4a-375e892c31fb", "page": 4, "type": "paragraph", "text": "HA1\u2013HA2 heterodimers, are expressed on the viral membrane"}
+{"id": "07bd0a41-d9d0-4088-9848-ee6bd2f1f468", "page": 4, "type": "paragraph", "text": "surface as trimers (HA \u2018rosettes\u2019). The conversion of HA0 to"}
+{"id": "10ed6cb2-1b40-4312-8fb2-f68fbeaf6ba6", "page": 4, "type": "paragraph", "text": "HA1\u2013HA2 heterodimers leads to conformational changes that"}
+{"id": "0da079e8-e407-4fac-8d51-de2ae7e2a89e", "page": 4, "type": "paragraph", "text": "render the molecule fusion-competent, thus enabling the virus to"}
+{"id": "7af9565d-a0f9-4b45-9549-629ddfdc9d61", "page": 4, "type": "paragraph", "text": "infect a new host cell52,54. In inactivated (split and subunit)"}
+{"id": "09c61b96-c799-4833-80d2-86811373576e", "page": 4, "type": "paragraph", "text": "vaccines, the HA molecules derived from live in\ufb02uenza viruses are"}
+{"id": "e01016d6-e8d4-4832-bd76-b192e020316f", "page": 4, "type": "paragraph", "text": "present predominantly as HA1\u2013HA2 heterodimers. By contrast, the"}
+{"id": "1fae159a-6d92-45f0-91e5-5c0c1e2f2f3e", "page": 4, "type": "paragraph", "text": "rHA included in RIV4 is designed to yield predominantly as a single"}
+{"id": "b8f386be-b047-477b-97e5-2ccfab69e999", "page": 4, "type": "paragraph", "text": "HA0 polypeptide (Fig. 2). A previous biochemical study (using SDS-"}
+{"id": "e2347bc1-2d92-45bb-bb44-39157359e8a8", "page": 4, "type": "paragraph", "text": "PAGE under reducing conditions) clearly demonstrated the"}
+{"id": "614385ac-c8c2-4d49-9de3-cbe069bffc0e", "page": 4, "type": "paragraph", "text": "predominance of HA0 in recombinant HA H7 subunit complexes,"}
+{"id": "96f0be93-5643-4336-aae0-87f7a53f182d", "page": 4, "type": "paragraph", "text": "produced using a BEVS, with no protein bands indicative of HA1 or"}
+{"id": "53b7cd11-75df-42c8-8795-17d1c5f78cf1", "page": 4, "type": "paragraph", "text": "HA2 molecules55. Poor processing of HA0 to HA1 and HA2"}
+{"id": "1023678c-c7e6-463e-bb15-e31d9fb748bd", "page": 4, "type": "paragraph", "text": "polypeptides in Sf9 cells has been shown to be due to insuf\ufb01cient"}
+{"id": "bf5826d1-fb54-4c50-b9cb-49ec476549f0", "page": 4, "type": "paragraph", "text": "levels of furin-like proteases in the cells56."}
+{"id": "c72f30e9-a3b3-484a-9086-ec0f083a1328", "page": 4, "type": "paragraph", "text": "The conformational differences between pre-fusion and post-"}
+{"id": "12b36909-842e-4f77-ad72-4482ceebae81", "page": 4, "type": "paragraph", "text": "fusion states of HA and the process of exposure of the fusion"}
+{"id": "d18e53f3-acc1-44fb-8ea9-84c71e0be7d1", "page": 4, "type": "paragraph", "text": "peptide have been well described54. Webster et al.57 demon-"}
+{"id": "48f59a25-1842-4751-babc-701e989be922", "page": 4, "type": "paragraph", "text": "strated, using monoclonal antibodies, that neutralising epitopes"}
+{"id": "d1672739-e7a9-4306-886b-dd4539d10728", "page": 4, "type": "paragraph", "text": "present in the pre-fusion HA0 molecule were lost upon conversion"}
+{"id": "1831c98e-64ac-444b-8c51-adb66d26cff1", "page": 4, "type": "paragraph", "text": "to the post-fusion HA1\u2013HA2 heterodimer at an acidic pH57."}
+{"id": "94f29511-4a85-4abd-8f5b-b63ba074c521", "page": 4, "type": "paragraph", "text": "Similarly, several broadly neutralising antibodies directed against"}
+{"id": "54659541-0c20-4397-bdc4-a2017b61d376", "page": 4, "type": "paragraph", "text": "the highly conserved HA stem region have been shown to block"}
+{"id": "0801e63d-300e-460a-91bf-3a40bde858ef", "page": 4, "type": "paragraph", "text": "HA maturation and fusion58. Some of these antibodies are likely to"}
+{"id": "9074dfbb-294e-469a-81ce-7705171f92b9", "page": 4, "type": "paragraph", "text": "bind near the uncleaved fusion peptide that protrudes at the"}
+{"id": "7651eab4-2a41-409c-9cf3-909154e16365", "page": 4, "type": "paragraph", "text": "surface of the HA0 rosettes. Turner et al.59 identi\ufb01ed a monoclonal"}
+{"id": "ae843ba8-8591-460e-af9d-3b794dcb65cc", "page": 4, "type": "paragraph", "text": "antibody that binds to an epitope on HA molecules that are partly"}
+{"id": "bda8a807-819e-470d-9a67-8fa87735bb07", "page": 4, "type": "paragraph", "text": "and"}
+{"id": "3c1eca66-9071-43ea-abae-708712d3f49b", "page": 4, "type": "paragraph", "text": "transiently"}
+{"id": "d3a3f13e-d17b-4d38-a614-3ea5fddbb21d", "page": 4, "type": "paragraph", "text": "exposed"}
+{"id": "37ac33ae-6d50-4dae-ba8a-10016e7e7dad", "page": 4, "type": "paragraph", "text": "in"}
+{"id": "4299d16e-13ea-4164-85e6-96e386dacc6b", "page": 4, "type": "paragraph", "text": "the"}
+{"id": "252055b2-fde3-4578-90dd-c186ed6497b8", "page": 4, "type": "paragraph", "text": "pre-fusion"}
+{"id": "00754b68-cd00-4a09-b2df-aa9d952b0cde", "page": 4, "type": "paragraph", "text": "conformation59."}
+{"id": "3191a467-8d04-4e44-8159-5928e2a9c689", "page": 4, "type": "paragraph", "text": "Structural analysis of the antigen-antibody complex revealed a"}
+{"id": "327d8e3b-6e5f-4006-a897-974a404e60ae", "page": 4, "type": "paragraph", "text": "potential dynamic state where HA undergoes structural \ufb02uctua-"}
+{"id": "9d3a61a5-5593-4ba2-9708-36d9dae1e499", "page": 4, "type": "paragraph", "text": "tions in its pre-fusion state59. A recent study by Khurana et al.60"}
+{"id": "5efa39f2-0ced-4239-a901-6a1bf1f32888", "page": 4, "type": "paragraph", "text": "further demonstrated, using surface plasmon resonance technol-"}
+{"id": "47489e7b-cfa8-4aed-8135-89e021720279", "page": 4, "type": "paragraph", "text": "ogy, that the observed broader speci\ufb01city of antibodies induced"}
+{"id": "f98343d8-4d11-4cf7-b5b2-668a2a6c705d", "page": 4, "type": "paragraph", "text": "by RIV4 may be linked to the presence of unique epitopes on"}
+{"id": "d5fa4a1e-ee23-47e2-88df-ffa5481248b3", "page": 4, "type": "paragraph", "text": "HA060. Additionally, several groups have isolated, using HA0 as the"}
+{"id": "4ed3c94f-5b5c-49be-b51d-54695df2f399", "page": 4, "type": "paragraph", "text": "immunogen or from a phage display library, protective antibodies"}
+{"id": "a9244897-3926-4a3d-9502-5e41c566d1df", "page": 4, "type": "paragraph", "text": "speci\ufb01c to epitopes in the fusion loop region present only in"}
+{"id": "93e9d1ff-353a-4dcd-a4b4-8bef2c8f41e6", "page": 4, "type": "paragraph", "text": "HA061,62. These antibodies exhibited unprecedented breadth and"}
+{"id": "65d22d8a-ea99-4edb-adce-8aa9a9b50f23", "page": 4, "type": "paragraph", "text": "potency and neutralised a diverse panel of representative viruses"}
+{"id": "539a22c7-67f9-483d-87ef-2dfaa7c6efbd", "page": 4, "type": "paragraph", "text": "in group 1 and group 2 in\ufb02uenza A, blocked protease cleavage of"}
+{"id": "09df655f-6db4-48d0-8e44-80c13595201d", "page": 4, "type": "paragraph", "text": "HA0 and locked HA in the pre-fusion state. Thus, these antibodies"}
+{"id": "7c64d4f8-38bf-4c0b-8fd0-8596e6710903", "page": 4, "type": "paragraph", "text": "make the virus non-infectious by inhibiting the pH-induced"}
+{"id": "423a0595-4158-4263-86a0-f5d04718b00c", "page": 4, "type": "paragraph", "text": "conformation change and the HA-mediated membrane fusion"}
+{"id": "a40d24c2-dbdb-40c9-a41e-4c20f74be9de", "page": 4, "type": "paragraph", "text": "that are essential for the virus infectivity. HA molecules presented"}
+{"id": "63ff8f6d-2f46-481a-aa90-dd1fa511beb4", "page": 4, "type": "paragraph", "text": "on in\ufb02uenza virions are predominantly in the pre-fusion state."}
+{"id": "1982aa77-c9ff-4bc5-b997-cf942d3488f0", "page": 4, "type": "paragraph", "text": "Once the virus binds to a cell or enters the acidic endosome of"}
+{"id": "74fa4370-d57b-4d01-a684-f1fe80df069e", "page": 4, "type": "paragraph", "text": "infected cells, the fusion loop is cleaved to yield HA1 and HA2, and"}
+{"id": "c235bef5-70f4-4449-b23b-63bf675b26bd", "page": 4, "type": "paragraph", "text": "the hydrophobic fusion peptide in the N-terminus of HA2 is"}
+{"id": "ff8122b3-411e-48d3-82b5-6e5b839a147e", "page": 4, "type": "paragraph", "text": "sequestered away from membranes in a pocket, limiting its"}
+{"id": "a672954a-9a8e-4242-a776-b92159622a6c", "page": 4, "type": "paragraph", "text": "exposure52,63. Nonetheless, it would be of interest to examine the"}
+{"id": "92537bd4-4996-4235-9aa7-dd81842870e7", "page": 4, "type": "paragraph", "text": "immunogenicity of released HA fusion peptides in the post-fusion"}
+{"id": "bdbed69a-5455-4e69-a49c-8dd52bac3f1c", "page": 4, "type": "paragraph", "text": "state and their potential role in protection, as these are present in"}
+{"id": "da45fcb0-1e60-43f0-8e26-377101c5a11b", "page": 4, "type": "paragraph", "text": "conventional in\ufb02uenza vaccines. Together, these critical \ufb01ndings"}
+{"id": "3aa47c40-7fda-49fb-b72f-3e6436ac6aa4", "page": 4, "type": "paragraph", "text": "Globular"}
+{"id": "59af7053-5542-43ec-b7c0-e9cfe57e19dc", "page": 4, "type": "paragraph", "text": "Head"}
+{"id": "86b8a9db-7316-45d4-bda1-d56562fa4435", "page": 4, "type": "paragraph", "text": "Fibrous"}
+{"id": "ed73a924-03b2-4dfd-84c4-3b5ac713d779", "page": 4, "type": "paragraph", "text": "Stem"}
+{"id": "b07ad033-cb91-4b74-901c-b757681d7a8b", "page": 4, "type": "paragraph", "text": "Polysialylated"}
+{"id": "55ebf1b3-1e69-4fc5-8b00-d19bdd62f805", "page": 4, "type": "paragraph", "text": "complex glycans"}
+{"id": "fee725c4-c7b7-41c8-abec-ab92e762651e", "page": 4, "type": "paragraph", "text": "Inter-disulfide bond"}
+{"id": "fe97f99f-3794-4bfc-8ccc-3d63e7579297", "page": 4, "type": "paragraph", "text": "HA1"}
+{"id": "39ecfcd0-c409-472e-8cc7-d4e6fe3546f8", "page": 4, "type": "paragraph", "text": "HA2"}
+{"id": "8c1c5fcb-9922-477d-aa89-d8a0f1be4667", "page": 4, "type": "paragraph", "text": "External"}
+{"id": "2fe721ed-b071-4caf-91e4-0c2cb757f1bb", "page": 4, "type": "paragraph", "text": "Internal"}
+{"id": "2554018c-aeb2-4e24-a889-e612d6697db5", "page": 4, "type": "paragraph", "text": "Membrane"}
+{"id": "9681db68-e3e2-4df4-ba86-7285e7aa25ab", "page": 4, "type": "paragraph", "text": "C"}
+{"id": "e8723d51-a344-41d3-a939-5d8208134c5e", "page": 4, "type": "paragraph", "text": "N"}
+{"id": "2d2d00e8-b521-422f-961c-3f4827a51ffe", "page": 4, "type": "paragraph", "text": "-S-S-"}
+{"id": "d1a0cb0a-2b36-4820-b0f2-130f5fee15c0", "page": 4, "type": "paragraph", "text": "N"}
+{"id": "6f79c3d9-94e7-4b3f-95ae-64d9656a0687", "page": 4, "type": "paragraph", "text": "C"}
+{"id": "7902e2cf-402a-440c-a841-48a5c075824f", "page": 4, "type": "paragraph", "text": "External"}
+{"id": "ac6795a3-d9dc-4d79-a658-47ac4878d127", "page": 4, "type": "paragraph", "text": "Internal"}
+{"id": "1e149496-6c97-423f-9930-20e815be4c2e", "page": 4, "type": "paragraph", "text": "Membrane"}
+{"id": "9706667b-94b4-4293-87b5-64c477bb51fc", "page": 4, "type": "paragraph", "text": "C"}
+{"id": "b9db5901-4c9f-4e4b-9289-c0f8eecd6afb", "page": 4, "type": "paragraph", "text": "N"}
+{"id": "f646e4b7-cef6-4456-bead-7168adf3df7f", "page": 4, "type": "paragraph", "text": "-S-S-"}
+{"id": "fe7e0072-cd67-40e4-bb5d-3e9c50507f54", "page": 4, "type": "paragraph", "text": "Uncleaved fusion"}
+{"id": "99eec723-ef0f-4b44-9e2a-b912615abaa0", "page": 4, "type": "paragraph", "text": "peptide"}
+{"id": "c6d62fcf-df53-4a67-a202-10ac9f2f6442", "page": 4, "type": "paragraph", "text": "Paucimannose"}
+{"id": "fd415438-56d7-4a87-b38a-dad0e9e3d66c", "page": 4, "type": "paragraph", "text": "glycans"}
+{"id": "a8c57341-f046-481e-8cf5-e52b5f7411ed", "page": 4, "type": "paragraph", "text": "Disulfide bond"}
+{"id": "81c46575-f7ba-42e2-b35e-51e01a9049b7", "page": 4, "type": "paragraph", "text": "HA0"}
+{"id": "46c6dc1a-3c99-49ed-9de1-c0064b83e514", "page": 4, "type": "paragraph", "text": "HA0"}
+{"id": "771f75eb-5476-4acd-9959-5703402d8c9c", "page": 4, "type": "paragraph", "text": "a"}
+{"id": "1fe6e65d-13f4-48b8-9724-030a97065b3d", "page": 4, "type": "paragraph", "text": "b"}
+{"id": "08e29fb1-46f7-48cc-b522-12dca452f24c", "page": 4, "type": "paragraph", "text": "Cleaved fusion"}
+{"id": "ea5dba25-f101-4f13-a068-c80bc19650ac", "page": 4, "type": "paragraph", "text": "peptide"}
+{"id": "dc09c97a-4bab-4158-840f-9c3d6263c204", "page": 4, "type": "paragraph", "text": "Fig. 2"}
+{"id": "ede47a2d-6a08-439b-a968-b399e5a9fec3", "page": 4, "type": "paragraph", "text": "Structural features of native HA expressed on in\ufb02uenza virus and rHA produced in insect cells using the baculovirus expression"}
+{"id": "e699530f-69cb-4f78-be61-1062e1bca7b5", "page": 4, "type": "paragraph", "text": "vector system. a HA protein (shown as monomer) extracted from in\ufb02uenza virus is a heterodimer comprising HA1 (turquoise) and HA2"}
+{"id": "0fb58f0b-43f6-4d9b-b57c-7c5f12c1ee28", "page": 4, "type": "paragraph", "text": "(orange) linked though an inter-disul\ufb01de (S\u2013S) bond and contains complex-type sialylated N-linked glycans. Cleaved fusion peptides (green)"}
+{"id": "553fa268-8b13-41de-b2eb-1ac447870e78", "page": 4, "type": "paragraph", "text": "and complex glycans74 eliminate and mask unique epitopes on HA respectively. b Recombinant HA protein (shown as monomer) expressed in"}
+{"id": "a03f7c67-8dcc-45ed-9810-92b4ad743f01", "page": 4, "type": "paragraph", "text": "insect cells as a single precursor polypeptide (HA0) with amino acid sequence identical to wildtype HA sequence and contains unsialylated"}
+{"id": "bc442112-98c6-40f5-a06c-177275ff52d2", "page": 4, "type": "paragraph", "text": "paucimannosidic N-linked glycans74. HA0 is coloured in turquoise and orange to show HA1 and HA2 segments combined as a single"}
+{"id": "5248ea7a-311a-404f-8759-8931f585254f", "page": 4, "type": "paragraph", "text": "polypeptide. Uncleaved fusion-peptide loop (green) and simpler glycans preserve and expose unique epitopes on rHA."}
+{"id": "4452f57e-856e-4aa3-aaa5-374918101e70", "page": 4, "type": "paragraph", "text": "A.B. Arunachalam et al."}
+{"id": "ea127a13-3c53-4341-93ab-b3c4789f75d9", "page": 4, "type": "paragraph", "text": "4"}
+{"id": "81ab8a9b-fcd9-449f-a683-22223596eeca", "page": 4, "type": "paragraph", "text": "npj Vaccines (2021) 144"}
+{"id": "9b7528b0-8b30-4e3e-9e7d-599329abda02", "page": 4, "type": "paragraph", "text": "Published in partnership with the Sealy Institute for Vaccine Sciences"}
+{"id": "f113966b-2bb0-4db2-a239-1ce244b47198", "page": 5, "type": "paragraph", "text": "clearly demonstrate structural differences between HA pre-fusion"}
+{"id": "b16e233f-faeb-4c1e-8c9b-7b13149937b4", "page": 5, "type": "paragraph", "text": "and post-fusion states, and the presence of unique neutralising"}
+{"id": "dcbec996-adcd-41b2-8ec3-34f330dc86d6", "page": 5, "type": "paragraph", "text": "epitopes in the pre-fusion HA0 molecules, which are present in"}
+{"id": "4981c416-dae1-4d15-9c66-cba9a5a94cd9", "page": 5, "type": "paragraph", "text": "RIV4 (Fig. 2)."}
+{"id": "656b0b75-ea34-460a-9434-b71ec749bda5", "page": 5, "type": "paragraph", "text": "Structural differences in the HA polypeptides and rosettes"}
+{"id": "71ac6582-4a01-4e31-b3fe-42c097c0d951", "page": 5, "type": "paragraph", "text": "between recombinant and split vaccines have been shown to"}
+{"id": "f4ec6929-80f4-4fee-9876-aeff2f5752dd", "page": 5, "type": "paragraph", "text": "result in differences, both qualitative and quantitative, in the"}
+{"id": "ebbab327-65aa-4d8c-9cf0-5504ad9052cb", "page": 5, "type": "paragraph", "text": "immune response to vaccines in humans and animals. Portnoff"}
+{"id": "cdf4f14d-e261-42f5-89d5-d9122064b5a3", "page": 5, "type": "paragraph", "text": "et al.64 demonstrated that recombinant HA antigens (speci\ufb01cally"}
+{"id": "b3037897-1ebf-45ac-b98e-1531e90c67bb", "page": 5, "type": "paragraph", "text": "for the H3 strain) produced using BEVS (as used for RIV4), induced"}
+{"id": "077bd8c0-2ce8-469f-9f05-dd93d0c4d4f1", "page": 5, "type": "paragraph", "text": "signi\ufb01cantly higher levels of broadly cross-reactive antibodies"}
+{"id": "1e30f713-b0bd-452d-977b-07a4a003f858", "page": 5, "type": "paragraph", "text": "against highly conserved regions of the HA head and stem"}
+{"id": "311fc53e-520f-47df-91eb-2b372ed86deb", "page": 5, "type": "paragraph", "text": "domains than egg-derived split vaccines64. Recently Richards"}
+{"id": "c4b9a587-5968-4c8c-b206-345b46a5ccf1", "page": 5, "type": "paragraph", "text": "et al.65 examined CD4 T-cell and antibody responses in healthy"}
+{"id": "7dbedf93-9264-4f0c-bfc2-6485b0af9108", "page": 5, "type": "paragraph", "text": "adults who received egg-derived split vaccine, cell-derived split"}
+{"id": "39a07cc8-c81a-4146-9113-4a379e5c7dbb", "page": 5, "type": "paragraph", "text": "vaccine or RIV4 for three successive in\ufb02uenza seasons (2015\u20132016,"}
+{"id": "d821104c-6194-438b-a9c8-1176c3cdd527", "page": 5, "type": "paragraph", "text": "2016\u20132017, and 2017\u20132018)65. RIV4 elicited the most robust"}
+{"id": "64f829b5-0f89-4dc6-a488-33090da6bf3f", "page": 5, "type": "paragraph", "text": "responses, with signi\ufb01cantly higher T-cell and antibody levels than"}
+{"id": "941b57cf-23bd-4e89-a357-986ed3685f8b", "page": 5, "type": "paragraph", "text": "the other two vaccines. Authors postulated that simpler glycosyla-"}
+{"id": "553d08fa-c70c-41fe-8c0a-a46a4161dc4f", "page": 5, "type": "paragraph", "text": "tion of rHA and absence of other in\ufb02uenza viral proteins in RIV4"}
+{"id": "822ad6ca-7745-4504-9ba6-4cdaf210d52d", "page": 5, "type": "paragraph", "text": "contributed to the observed robust immune response for RIV4 and"}
+{"id": "99698ed8-c8b6-4916-a18d-82a924350b1a", "page": 5, "type": "paragraph", "text": "emphasised the relevance of these features in determining"}
+{"id": "113ab518-1b9c-48f4-8536-08a90fe252bb", "page": 5, "type": "paragraph", "text": "vaccine ef\ufb01cacy and long-term immunity65."}
+{"id": "a0f314a5-caa5-4a2f-b5f6-49f922269ed7", "page": 5, "type": "paragraph", "text": "THE HOMOGENEITY OF RECOMBINANT HA ANTIGENS IN RIV4"}
+{"id": "7cf2bb4c-ccfe-4210-ae90-a2d2e4f53869", "page": 5, "type": "paragraph", "text": "MAY IMPROVE THE SAFETY PROFILE OVER CONVENTIONAL"}
+{"id": "b94e5bc3-0c63-4c0f-b825-89a52a2633aa", "page": 5, "type": "paragraph", "text": "INFLUENZA VACCINES"}
+{"id": "5f0172d1-5aa9-496b-86c6-0486c88ecbe3", "page": 5, "type": "paragraph", "text": "As described above, HA is expressed on the viral surface as a HA"}
+{"id": "285bcfce-12e0-465b-a9fa-85af52b7e208", "page": 5, "type": "paragraph", "text": "trimer (rosette). When these are extracted from in\ufb02uenza viruses,"}
+{"id": "9401ff29-e198-402d-900b-5568e7aa9907", "page": 5, "type": "paragraph", "text": "they form clusters of varying sizes. This has been observed in"}
+{"id": "ad9eb02c-852f-4c01-abcb-49c64ad12279", "page": 5, "type": "paragraph", "text": "conventional in\ufb02uenza virus-derived vaccines, with estimates of 18"}
+{"id": "a80acadb-82b7-4bcd-9003-6bf5e7057e6f", "page": 5, "type": "paragraph", "text": "to 1100 trimers per cluster55,66,67. Two distinct populations of"}
+{"id": "8a0f0bdd-10f6-40ae-90c5-67c5c59d146e", "page": 5, "type": "paragraph", "text": "cluster have been observed; the majority have an average diameter"}
+{"id": "41628f2f-e215-4ea3-8556-b881a806bac5", "page": 5, "type": "paragraph", "text": "of 150 nm, while the remainder are larger (average diameter,"}
+{"id": "64bd3510-dae7-4a68-952e-56dc6b7e2f5a", "page": 5, "type": "paragraph", "text": "5500 nm)66. However, the rosette clusters in RIV4 are uniform in size"}
+{"id": "6d738537-e9e2-4903-a263-64d6b347b8ce", "page": 5, "type": "paragraph", "text": "and presentation, containing around six to eight HA trimers per"}
+{"id": "45472fad-bb58-42f9-877f-e45e27ec13df", "page": 5, "type": "paragraph", "text": "cluster at an average diameter of approximately 30\u201340 nm55,67. The"}
+{"id": "19c98999-6d5f-4e97-8beb-5b3e215e7d1f", "page": 5, "type": "paragraph", "text": "elution of rHA from RIV4 drug substance as a single peak in size-"}
+{"id": "6776ef81-9a18-448f-95a2-2bdfd9b05b07", "page": 5, "type": "paragraph", "text": "exclusion high-performance liquid chromatography is monitored"}
+{"id": "9388410d-8eeb-4f1a-a3f3-ffc253ca9e15", "page": 5, "type": "paragraph", "text": "for the release and the stability of RIV4."}
+{"id": "a1bdff94-eadf-4a7d-8dea-6e8f2b15fc48", "page": 5, "type": "paragraph", "text": "Further"}
+{"id": "eddd469d-73a6-431a-b0c2-1d3569d5e5c4", "page": 5, "type": "paragraph", "text": "characterisation"}
+{"id": "df1b05bc-fd50-40c6-ba6c-84301b6fc165", "page": 5, "type": "paragraph", "text": "by"}
+{"id": "b90c7081-f9a4-475c-a04d-a56feacface2", "page": 5, "type": "paragraph", "text": "cryo-electron"}
+{"id": "1027650a-6879-4d31-91da-850a4cb452a1", "page": 5, "type": "paragraph", "text": "microscopy"}
+{"id": "53bfd99b-6361-49d7-a4d3-49943fb324bc", "page": 5, "type": "paragraph", "text": "has"}
+{"id": "e0facb86-342e-42c4-a0f5-9851720cf97c", "page": 5, "type": "paragraph", "text": "revealed that the HA rosette clusters in RIV4 are uniformly"}
+{"id": "dafd08bd-9a6c-426c-99c3-eacabde71372", "page": 5, "type": "paragraph", "text": "star\ufb01sh-shaped; whereas in the split vaccine they are mostly non-"}
+{"id": "63a222a8-22a6-4c10-ba11-f3dc38e9e5c0", "page": 5, "type": "paragraph", "text": "symmetrical and agglomerated into huge structures, resulting in"}
+{"id": "e3c81def-45a3-461d-88eb-81898d88c911", "page": 5, "type": "paragraph", "text": "both star\ufb01sh- and peanut-shaped heterogeneous particles55."}
+{"id": "63a4ed65-4d72-4f3a-badf-c5054ea5ca62", "page": 5, "type": "paragraph", "text": "Additional electron microscopy analysis of split vaccine clusters"}
+{"id": "fdc27f93-368a-4c0e-96ba-ed63293f5cd3", "page": 5, "type": "paragraph", "text": "showed a highly heterogeneous mixture containing different"}
+{"id": "f6afeba2-c11e-411a-b14b-2a3ba95ec753", "page": 5, "type": "paragraph", "text": "types of viral particles containing HA and NA as well as split viral"}
+{"id": "ba6406d2-0f5f-492a-9fe1-d4ec8b705622", "page": 5, "type": "paragraph", "text": "membrane folded in various shapes, slightly disrupted virions, and"}
+{"id": "c1fda484-b86b-496d-8917-8071adacf141", "page": 5, "type": "paragraph", "text": "whole virions66."}
+{"id": "603f6d28-c427-4734-89af-ee938bdcc4fb", "page": 5, "type": "paragraph", "text": "In Canada between 2000 and 2004, an unusual number of"}
+{"id": "c3f0086f-496c-43fc-a9e8-b3799fb698ef", "page": 5, "type": "paragraph", "text": "cases of a syndrome termed as oculo-respiratory syndrome (ORS)"}
+{"id": "646a5b67-5bfb-4506-b210-cc6f87bd2a75", "page": 5, "type": "paragraph", "text": "were reported following immunisation with the inactivated"}
+{"id": "d378e51f-4d1f-4e21-9f55-a6b89db4e730", "page": 5, "type": "paragraph", "text": "in\ufb02uenza split-virus vaccine68. Detailed analysis revealed that"}
+{"id": "e0ff4789-483e-4a10-902f-4665e997fb1d", "page": 5, "type": "paragraph", "text": "ORS, induced within 2 to 24 h of vaccination, was suspected to"}
+{"id": "584e0587-0fb6-4a0c-a8df-188841eb88d4", "page": 5, "type": "paragraph", "text": "be due to the presence of micro-aggregates of unsplit virions in"}
+{"id": "b3900b14-ff58-4db4-ac6d-4ecac8039c86", "page": 5, "type": "paragraph", "text": "the conventional egg-derived in\ufb02uenza vaccines69. High levels of"}
+{"id": "69cdf8f1-0074-41b0-b849-e7473034dd49", "page": 5, "type": "paragraph", "text": "aggregate content in the split vaccine are believed to have"}
+{"id": "04a2adcf-1446-4d65-b7c1-44237c0ca17a", "page": 5, "type": "paragraph", "text": "induced a Type-2 polarised immune response resulting in ORS"}
+{"id": "aa432924-83c3-4b10-8d39-578d04138a31", "page": 5, "type": "paragraph", "text": "based on study results from a mouse model70. Although"}
+{"id": "fcb948f8-3138-49a5-ad5d-90e7fc1fe8ff", "page": 5, "type": "paragraph", "text": "extremely rare, this is unlikely to occur with RIV4 that contains"}
+{"id": "b4dcc139-4d02-4aa7-ba52-ed1aa0921822", "page": 5, "type": "paragraph", "text": "HA rosettes of small and uniform size."}
+{"id": "54ae6beb-ddf1-4e6e-b746-91346e6bc5c9", "page": 5, "type": "paragraph", "text": "THE N-LINKED GLYCAN STRUCTURE OF RECOMBINANT HA"}
+{"id": "e9e04c78-b731-4646-9825-b61f7bdf744b", "page": 5, "type": "paragraph", "text": "PRODUCED IN INSECT CELLS DIFFERS SIGNIFICANTLY FROM"}
+{"id": "aa5ffd76-64d1-4505-b20e-0cfe9150514f", "page": 5, "type": "paragraph", "text": "HA IN OTHER INFLUENZA VACCINES"}
+{"id": "2338650d-583c-435a-aa81-8c219202fa61", "page": 5, "type": "paragraph", "text": "In\ufb02uenza HA has a variable number of N-linked glycosylation sites"}
+{"id": "1de4972c-fed6-4580-8d7c-712d5dcfe78b", "page": 5, "type": "paragraph", "text": "(depending on the virus strain and subtype) in the globular head"}
+{"id": "6a3c0d0b-dd0b-443b-b842-8adcc9e882b7", "page": 5, "type": "paragraph", "text": "region and the conserved stem region71. The glycosylation of HA"}
+{"id": "996155bb-5fc7-4f46-badb-4e55df12ca33", "page": 5, "type": "paragraph", "text": "has various functions, including regulation of the virus life-cycle"}
+{"id": "f4ef0a01-435d-4a8a-98da-0026a072926f", "page": 5, "type": "paragraph", "text": "and a role in disease pathogenesis71. During vaccine manufacture,"}
+{"id": "e3d219df-9e0e-4e88-9494-1a2a11c706f8", "page": 5, "type": "paragraph", "text": "the host cells used for the production of HA play a major role in"}
+{"id": "7f3e6251-5376-4235-90f1-73a18eacf8db", "page": 5, "type": "paragraph", "text": "determining"}
+{"id": "4a197dc8-4bfa-435d-b3c0-2f01e51e7308", "page": 5, "type": "paragraph", "text": "HA"}
+{"id": "5066e557-0917-44af-bddc-4d0294e13794", "page": 5, "type": "paragraph", "text": "N-glycan"}
+{"id": "ac88283c-1250-4197-bc4d-9f1c1683cb33", "page": 5, "type": "paragraph", "text": "composition72,73."}
+{"id": "82820197-e55a-4630-a426-c93d5473d7cd", "page": 5, "type": "paragraph", "text": "Glycoproteins"}
+{"id": "01d21cbd-72a4-4ec7-b34e-9cdf69630570", "page": 5, "type": "paragraph", "text": "expressed in mammalian cells typically have sialylated complex-"}
+{"id": "a54357b1-2be4-4216-9a08-0309909af4ce", "page": 5, "type": "paragraph", "text": "type N-linked glycans, while those expressed in insect cells"}
+{"id": "48fee2db-83d1-4745-8307-13522f112984", "page": 5, "type": "paragraph", "text": "typically have simple unsialylated glycans (either truncated,"}
+{"id": "01507e7e-fd1b-422e-9056-c420d6552915", "page": 5, "type": "paragraph", "text": "paucimannosidic"}
+{"id": "4ff1249e-43ff-48e8-96db-bddbef7e8071", "page": 5, "type": "paragraph", "text": "or oligomannosidic"}
+{"id": "704916ec-82cb-4c9b-94c8-d56dc601d5d5", "page": 5, "type": "paragraph", "text": "glycans)74. An et al.72"}
+{"id": "de892d28-b448-4a02-925f-4a6264bff910", "page": 5, "type": "paragraph", "text": "showed that egg-derived and mammalian (Madin-Darby canine"}
+{"id": "624b14c0-53e2-4949-b005-76e2540d8fb0", "page": 5, "type": "paragraph", "text": "kidney) cell-derived HA predominantly contained highly-branched"}
+{"id": "f2affd23-51bf-4f7d-8cb4-b9f2cbc47b2d", "page": 5, "type": "paragraph", "text": "complex or high-mannose glycans, whereas HA expressed in Sf9"}
+{"id": "6f1226f1-fc54-4a59-b468-d65f8b7ca349", "page": 5, "type": "paragraph", "text": "insect cells had relatively small paucimannose glycans (Fig. 2)72."}
+{"id": "b47a6875-a5a4-4ec7-a070-2da715d2e6ed", "page": 5, "type": "paragraph", "text": "The peptide sequences around glycosylation sites are highly"}
+{"id": "15e378ce-6f8b-4877-9d4c-769d9ec16a0d", "page": 5, "type": "paragraph", "text": "conserved and, as such, antibodies directed against these regions"}
+{"id": "a21990de-53bb-45bf-bcf8-b1058248d551", "page": 5, "type": "paragraph", "text": "could provide broader speci\ufb01city. Antisera raised against simple"}
+{"id": "d158283f-cdd9-4d3d-a94d-9da917e6e966", "page": 5, "type": "paragraph", "text": "monoglycosylated HA in mice were shown to improve the breadth"}
+{"id": "506f4799-dc4e-485b-8cbf-1558e38e117c", "page": 5, "type": "paragraph", "text": "and capacity of HA-neutralising antibodies to protect against"}
+{"id": "ce9afcff-6c62-4874-bc7a-077467f8a117", "page": 5, "type": "paragraph", "text": "lethal challenge with H5N1 compared to antisera raised against"}
+{"id": "f014ee3e-5b40-42a6-89b5-f5505c66d944", "page": 5, "type": "paragraph", "text": "fully glycosylated HA75. Thus, elimination of parts of glycans that"}
+{"id": "e31b3c78-2fa9-469c-87a7-3ce851e5ffcc", "page": 5, "type": "paragraph", "text": "are not essential for HA structure may improve vaccine-induced"}
+{"id": "3aea7c59-14d7-4a22-893f-ecd1f0f05399", "page": 5, "type": "paragraph", "text": "protection. Subsequent studies showed that HA with simpler"}
+{"id": "b756bd70-f5e9-4d11-a13d-bef06cd31fe9", "page": 5, "type": "paragraph", "text": "glycans induce more broadly protective antibodies with superior"}
+{"id": "c7da0113-a967-4bc5-a1b3-19fd32dbd79c", "page": 5, "type": "paragraph", "text": "cross-clade protection compared to HA with more complex"}
+{"id": "554e7018-8b08-44db-b752-d03c0e0dcc75", "page": 5, "type": "paragraph", "text": "glycans76\u201379. The presence of simpler glycans appears to be"}
+{"id": "b47f263f-dcc8-4dec-bfd1-ae024512cb41", "page": 5, "type": "paragraph", "text": "equally ef\ufb01cient to that of chicken or mammalian cell-derived"}
+{"id": "ca1a0b83-608f-4408-9e0c-9015663b9d90", "page": 5, "type": "paragraph", "text": "glycosylation in ensuring the proper folding of HA, and exposes"}
+{"id": "c773ee79-baf0-4fdb-ba60-4564e2c40617", "page": 5, "type": "paragraph", "text": "conserved regions of the molecule for the induction of immunity"}
+{"id": "0ce17f7a-aac9-4673-a513-f3ab65151825", "page": 5, "type": "paragraph", "text": "with broader protection12,71,76\u201380."}
+{"id": "04355c39-937b-44ae-9451-e6d186ac2408", "page": 5, "type": "paragraph", "text": "In a study by Nachbagauer et al.78, RIV4 induced HA stem-"}
+{"id": "41001f8b-0875-42fe-b65c-6b063b7a54f6", "page": 5, "type": "paragraph", "text": "speci\ufb01c neutralising antibodies directed against in\ufb02uenza subtypes"}
+{"id": "98944d10-e711-4f4f-bc9b-79ca58eb1d44", "page": 5, "type": "paragraph", "text": "H1, H3 and B haemagglutinin in an age-dependent manner in"}
+{"id": "657c285f-b0c2-436c-bfa6-66cd9150e847", "page": 5, "type": "paragraph", "text": "humans, with the highest titres observed in the elderly78. RIV4 also"}
+{"id": "659d21d2-8703-4d37-a137-5aaab7b431c7", "page": 5, "type": "paragraph", "text": "induces antibodies, in both humans and mice, that are speci\ufb01c to"}
+{"id": "e277084c-556d-48fa-b7b1-098ad9803b81", "page": 5, "type": "paragraph", "text": "epitopes in the HA head region, at greater proportions than a"}
+{"id": "5dd88520-5b32-4b01-baf9-7756dfbcf88e", "page": 5, "type": "paragraph", "text": "traditional mammalian cell-derived subunit vaccine (Flucelvax\u00ae"}
+{"id": "f77b4e1c-b3c5-4dc3-8cc4-84950b4e1914", "page": 5, "type": "paragraph", "text": "[Trivalent])77. Higher magnitudes of haemagglutination inhibitory"}
+{"id": "7490e1fd-0233-4b6a-9d59-19587cb7d611", "page": 5, "type": "paragraph", "text": "antibody response against HA1 have also been observed with RIV4"}
+{"id": "2b65f4b2-319c-44bc-98c2-6ecda62a9ac1", "page": 5, "type": "paragraph", "text": "compared to egg- or mammalian cell-derived split vaccines"}
+{"id": "15887f2f-7226-49af-9faf-31848a40cbe5", "page": 5, "type": "paragraph", "text": "(Flucelvax\u00ae Tetra, Seqirus, and Fluzone\u00ae quadrivalent SD, Sano\ufb01"}
+{"id": "41b92d40-3e0a-4c75-92b2-9c551019fd93", "page": 5, "type": "paragraph", "text": "Pasteur)60. These data warrant additional studies to verify whether"}
+{"id": "e4dd3a3b-2233-4a62-8d36-37359ff76ee2", "page": 5, "type": "paragraph", "text": "rHA elicits a broader antibody repertoire than conventional"}
+{"id": "ff330fa6-b242-43aa-8e59-c293a18c6924", "page": 5, "type": "paragraph", "text": "vaccines and whether this underlies the cross-protection against"}
+{"id": "fdb2ae7c-ecfe-4c63-b14b-6632b9447963", "page": 5, "type": "paragraph", "text": "antigenic drift variants previously observed in clinical trials12,81."}
+{"id": "fb4aebc1-fe7e-418e-8e6f-b2e354dfaa77", "page": 5, "type": "paragraph", "text": "RIV4 has a unique ability to induce broadly cross-reactive"}
+{"id": "32b4dc47-c7b7-4247-be5c-577ecb4e2bae", "page": 5, "type": "paragraph", "text": "antibody responses to antigenically drifted A/H3N2 viruses in"}
+{"id": "2832b9c9-f4a0-45bf-9907-410c5aa4c3c3", "page": 5, "type": "paragraph", "text": "humans. In a small study by Belongia et al.82, participants aged"}
+{"id": "6e7a630e-0ab1-4f7f-8b8a-b8ac14c6471d", "page": 5, "type": "paragraph", "text": "65\u201374 years were immunised with RIV4, a high-dose split-virion"}
+{"id": "710d272c-68cd-40c5-ac23-e4d7f0de2258", "page": 5, "type": "paragraph", "text": "inactivated trivalent in\ufb02uenza vaccine (Fluzone\u00ae High Dose,"}
+{"id": "17453e15-258f-44d7-8d44-5d82e7aef17f", "page": 5, "type": "paragraph", "text": "Sano\ufb01Pasteur; HD-IIV3) or adjuvanted-IIV3 (aIIV3)82. Participant"}
+{"id": "565133e3-0aeb-4f02-a712-01f30dd48840", "page": 5, "type": "paragraph", "text": "sera were tested against four A/H3N2 viruses including a cell-"}
+{"id": "d5b7c022-57ca-4e02-949e-c37144e812e6", "page": 5, "type": "paragraph", "text": "propagated reference vaccine strain, two circulating viruses and"}
+{"id": "0d695c97-2e3f-4550-8bb8-b3a194993f43", "page": 5, "type": "paragraph", "text": "an antigenically advanced virus with evidence of antigenic drift."}
+{"id": "851be098-80f8-49a6-9ea1-cc82858a709e", "page": 5, "type": "paragraph", "text": "The post-vaccination geometric mean fold rise against the two"}
+{"id": "7195e03c-7ede-46b2-ba8b-c9bd9ea70bb6", "page": 5, "type": "paragraph", "text": "circulating viruses was twice as high for RIV4 as for HD-IIV3 or"}
+{"id": "8abde75e-e715-496f-8029-b7ffaa4da7fd", "page": 5, "type": "paragraph", "text": "aIIV3. Post-vaccination titre against the antigenically drifted"}
+{"id": "085b0d2e-a939-42b3-975d-253bc0cb821c", "page": 5, "type": "paragraph", "text": "H3N2 were generally low and similar across all groups, however,"}
+{"id": "4ca966dc-e61d-4f62-b752-357fc64e5388", "page": 5, "type": "paragraph", "text": "receipt of RIV4 was strongly associated with seroconversion to"}
+{"id": "4b3cc975-0877-4be9-b357-158bc92b9893", "page": 5, "type": "paragraph", "text": "this strain (p = 0.003). The investigators suggested that although"}
+{"id": "e2c7db40-b2cc-43c6-be60-0643a19f5c92", "page": 5, "type": "paragraph", "text": "the circulating A/H3N2 viruses were antigenically similar to the"}
+{"id": "2aecc06d-1fc9-44e6-b804-21157036053c", "page": 5, "type": "paragraph", "text": "cell-grown vaccine reference virus, egg propagation of the"}
+{"id": "fc7cc805-4299-4db2-adfd-534cd30a04eb", "page": 5, "type": "paragraph", "text": "vaccine strains had led to loss of a glycosylation site and"}
+{"id": "9fb76247-c8a4-48e3-932c-a01bec4ac379", "page": 5, "type": "paragraph", "text": "A.B. Arunachalam et al."}
+{"id": "cd5999ca-8862-475d-b150-6eeb811e89de", "page": 5, "type": "paragraph", "text": "5"}
+{"id": "8728bcc9-3a3c-4f43-ade2-17fa07214bdd", "page": 5, "type": "paragraph", "text": "Published in partnership with the Sealy Institute for Vaccine Sciences"}
+{"id": "6cec9842-1e2d-4403-b56f-d80661db389d", "page": 5, "type": "paragraph", "text": "npj Vaccines (2021) 144"}
+{"id": "60a62207-b8fb-400e-82b7-36ef1edb871d", "page": 6, "type": "paragraph", "text": "impaired antibody response to circulating viruses, consistent"}
+{"id": "2318bff3-2d6b-43c0-bdf8-1e90a4d7c07b", "page": 6, "type": "paragraph", "text": "with previous reports26."}
+{"id": "f35f56be-efbb-4aa6-8d01-6163e882c632", "page": 6, "type": "paragraph", "text": "In addition to the above referenced studies, in a recent study"}
+{"id": "91f76bde-a713-4f53-81dd-f1dafc88cf55", "page": 6, "type": "paragraph", "text": "by Shinde et al.83 baculovirus-expressed rHA generated cross-"}
+{"id": "c8b62855-963b-4932-b5a3-fcb46f74ce0e", "page": 6, "type": "paragraph", "text": "protective"}
+{"id": "6fa2865e-0185-4a09-bd6c-27a48a07d714", "page": 6, "type": "paragraph", "text": "responses"}
+{"id": "7fbb51b5-c1f3-48b2-81af-030b7be37191", "page": 6, "type": "paragraph", "text": "against"}
+{"id": "e708bab2-9525-4733-9d97-02a52faf92f0", "page": 6, "type": "paragraph", "text": "both"}
+{"id": "9dfd333c-70b2-45fe-b18f-a4bc2579aa46", "page": 6, "type": "paragraph", "text": "circulating"}
+{"id": "5b3108e9-a8da-4753-9e08-f526986fc9aa", "page": 6, "type": "paragraph", "text": "and"}
+{"id": "7543bd1a-1e6b-48bb-a02f-075c410fca1f", "page": 6, "type": "paragraph", "text": "drifted"}
+{"id": "14f901d1-61cb-4a0a-b651-4005ae2c8bc7", "page": 6, "type": "paragraph", "text": "A/H3N2 strains, including in older adults who are at a higher"}
+{"id": "f0d1d005-48dc-496d-abab-2c34e5acd58a", "page": 6, "type": "paragraph", "text": "risk for in\ufb02uenza and associated medical complications83,84. This"}
+{"id": "f6c244f6-010e-49a4-b02a-d9964a9ba2b4", "page": 6, "type": "paragraph", "text": "unique characteristic of the recombinant vaccine is likely related"}
+{"id": "762f45b0-4c28-4527-b66a-afcc5c11bf71", "page": 6, "type": "paragraph", "text": "to glycosylation of rHA in the insect cell line, leaving it uncleaved."}
+{"id": "c856d908-245b-413f-84eb-9684b9fc40bb", "page": 6, "type": "paragraph", "text": "The higher quantity and greater accessibility of the genetically"}
+{"id": "926aec31-2ef8-43d0-a906-81a801bebe5d", "page": 6, "type": "paragraph", "text": "conserved stem region of rHA produced in insect cells (resulting"}
+{"id": "3d185ca7-d798-4eca-a68e-c8a8ed7676c6", "page": 6, "type": "paragraph", "text": "in smaller N-linked glycans) may contribute to cross-protection"}
+{"id": "d90273d3-bed3-4b2c-b4b9-59d6d3ff66bd", "page": 6, "type": "paragraph", "text": "against mismatched in\ufb02uenza strains12,75. The study by Nachba-"}
+{"id": "4a1eeedb-aa64-4ece-a0ef-c9a1ff147187", "page": 6, "type": "paragraph", "text": "gaeur et al.78 supports the hypothesis that a recombinant"}
+{"id": "775166ff-f327-40b4-9fef-d6c81f75d110", "page": 6, "type": "paragraph", "text": "vaccine results in increased titre of broadly neutralising HA stem-"}
+{"id": "8a7aeb0a-19f7-4dd8-98ff-b63884ac5d7c", "page": 6, "type": "paragraph", "text": "reactive antibodies and that these immune responses increase"}
+{"id": "c4d2c160-2ad5-4146-b000-555afd55f1bd", "page": 6, "type": "paragraph", "text": "with age78. This increase with age is possibly due to repeated"}
+{"id": "e23219bb-aa6d-41b2-b013-f85642725d8b", "page": 6, "type": "paragraph", "text": "exposure to divergent in\ufb02uenza viruses similar to the multiple A/"}
+{"id": "37adadec-fc0f-469f-b214-6a6194108e83", "page": 6, "type": "paragraph", "text": "H3N2 virus strains evaluated by Belongia et al.82. Therefore,"}
+{"id": "199467c5-329c-4a61-819e-689f7f67f3a0", "page": 6, "type": "paragraph", "text": "vaccine constructs that preserve the highly conserved HA stem"}
+{"id": "750aaac3-4431-46e6-8971-221da17967d3", "page": 6, "type": "paragraph", "text": "can protect against drifted viruses and thus may confer a greater"}
+{"id": "36ec624a-46ea-4de0-9385-9fadfe8ad8d4", "page": 6, "type": "paragraph", "text": "breadth of protection against in\ufb02uenza."}
+{"id": "3c5331d1-c7c9-4fc2-bb29-8cdb9f26fdca", "page": 6, "type": "paragraph", "text": "RECOMBINANT HA ANTIGENS ARE NOT SUBJECTED TO"}
+{"id": "dab5548f-fc5f-48b0-9f9c-847cca4de17a", "page": 6, "type": "paragraph", "text": "CHEMICAL MODIFICATIONS"}
+{"id": "abd01dc9-eabb-42fd-8ce5-9d5468ce7844", "page": 6, "type": "paragraph", "text": "In all conventional in\ufb02uenza vaccines, whether derived from eggs"}
+{"id": "e31f544d-b52d-4c76-a89a-9c5805dd1767", "page": 6, "type": "paragraph", "text": "or mammalian cells, the antigens are exposed to inactivation"}
+{"id": "bdcfeda6-42b2-4326-92ca-d8099ef6535c", "page": 6, "type": "paragraph", "text": "agents such as formaldehyde or \u03b2-propiolactone (BPL). These"}
+{"id": "8f2f6455-80bf-45f0-b04c-03618e7913e4", "page": 6, "type": "paragraph", "text": "inactivating agents cause numerous modi\ufb01cations to the antigenic"}
+{"id": "90b82006-b0f7-4ce3-a527-a3f23952025a", "page": 6, "type": "paragraph", "text": "epitopes on HA through cross-linking or formation of bis-alkylated"}
+{"id": "2fe4c3c9-8411-4611-a6b2-7a5d77a44954", "page": 6, "type": "paragraph", "text": "groups85\u201387. These modi\ufb01cations often result in changes to protein"}
+{"id": "11218162-d9d5-4211-8481-8ac01dbe93f4", "page": 6, "type": "paragraph", "text": "folding, conformation, and stability88. Unlike conventional vac-"}
+{"id": "1e3aa67b-11e4-4a68-939b-723f06219328", "page": 6, "type": "paragraph", "text": "cines, RIV4 does not go through an inactivation step, thus"}
+{"id": "a55b0d3d-75a8-4327-a8fa-7f3dec70e1af", "page": 6, "type": "paragraph", "text": "preserving the native HA conformation of the wild-type virus,"}
+{"id": "5673329d-d17c-425c-a1db-b5a3c1ec0742", "page": 6, "type": "paragraph", "text": "required for optimal protective immune response."}
+{"id": "92c128d9-4a59-490e-8d45-5b8cc4f51d3f", "page": 6, "type": "paragraph", "text": "ABSENCE OF EGG OR OTHER INFLUENZA VIRAL COMPONENTS"}
+{"id": "51240396-b2ac-4788-9723-835f9d2d192c", "page": 6, "type": "paragraph", "text": "IN RECOMBINANT HA VACCINE IS LIKELY TO FAVOUR ITS"}
+{"id": "b4f71ec8-4a4d-4f0a-90d8-51a760ea24e5", "page": 6, "type": "paragraph", "text": "SAFETY PROFILE"}
+{"id": "4e23e478-fa7f-435b-a251-a469496aecd3", "page": 6, "type": "paragraph", "text": "As most split and subunit vaccines are prepared from in\ufb02uenza"}
+{"id": "75383e5e-2266-4f2d-a229-a978d020d8eb", "page": 6, "type": "paragraph", "text": "viruses that are grown in embryonated chicken eggs, they contain"}
+{"id": "cea42617-f661-479e-9f8e-0436fe93a128", "page": 6, "type": "paragraph", "text": "egg proteins. Testing of 58 vaccine lots covering six different"}
+{"id": "4133fb52-d025-45ca-a378-c880aae02d0b", "page": 6, "type": "paragraph", "text": "seasonal in\ufb02uenza vaccines produced by \ufb01ve different manufac-"}
+{"id": "e53b4e22-2444-4f93-9ea0-f568c72519cd", "page": 6, "type": "paragraph", "text": "turers showed that the median ovalbumin concentration was"}
+{"id": "45dd875c-4261-4759-8df3-697b5fe327f0", "page": 6, "type": "paragraph", "text": "350 ng/mL89. Moreover, another study of commercial in\ufb02uenza"}
+{"id": "8b642eee-ceb8-4f98-876d-3bf3b5e7213f", "page": 6, "type": "paragraph", "text": "vaccine preparations detected other viral proteins such as"}
+{"id": "9302c880-b00c-4255-a915-45deebf10d61", "page": 6, "type": "paragraph", "text": "nucleoprotein and matrix protein (con\ufb01rmed by a chromato-"}
+{"id": "a81c1935-d691-40b2-80c9-1aa016928176", "page": 6, "type": "paragraph", "text": "graphic separation) that are not shown to be relevant for vaccine"}
+{"id": "de4e7f15-cac9-4e26-8201-1f8a58f3c8af", "page": 6, "type": "paragraph", "text": "effectiveness, and viral RNA fragments (con\ufb01rmed by activity"}
+{"id": "8c3d37ce-51f5-4c5b-9300-32b38a1e4379", "page": 6, "type": "paragraph", "text": "assay)90,91. Such egg-derived or other in\ufb02uenza virus-derived"}
+{"id": "a07fe9ec-6b02-4937-8244-d3d44c83fed5", "page": 6, "type": "paragraph", "text": "proteins (as described above) and in\ufb02uenza viral RNA fragments"}
+{"id": "70e50c2a-1f5a-4a78-b770-35675b19b40b", "page": 6, "type": "paragraph", "text": "are not present in recombinant vaccines."}
+{"id": "d1902c31-0b46-48ce-8618-e44f75ddeae3", "page": 6, "type": "paragraph", "text": "Although uncommon, some individuals may be at increased"}
+{"id": "91f13342-c2c4-4b24-813b-3ad9824457a5", "page": 6, "type": "paragraph", "text": "risk of hypersensitivity reactions to component proteins such as"}
+{"id": "3853c0d8-1353-4905-87c4-73f3a54eed2f", "page": 6, "type": "paragraph", "text": "ovalbumin and those who are sensitised may be at higher risk of"}
+{"id": "e4759acf-99f6-458c-ac36-ab10cf3db8a4", "page": 6, "type": "paragraph", "text": "clinical manifestations of allergic disease upon exposure92. Egg"}
+{"id": "2ebadea6-efc8-4301-8140-ec8e3f9d1780", "page": 6, "type": "paragraph", "text": "protein, viral RNA, and process impurities such as inactivating"}
+{"id": "06978a51-489e-4881-8c5d-91c3b1d25c57", "page": 6, "type": "paragraph", "text": "agents or hydrocortisone that are typically present in conven-"}
+{"id": "42f846b3-bc8b-4aa6-8091-3f928ed50e01", "page": 6, "type": "paragraph", "text": "tional vaccines are absent in RIV4 would eliminate potential"}
+{"id": "12cfe7e5-c328-47ef-a450-e2b515c017ee", "page": 6, "type": "paragraph", "text": "adverse reactions, although rare, to these components in"}
+{"id": "daf3fd9b-f256-403e-83ad-a0e9e103ad53", "page": 6, "type": "paragraph", "text": "vulnerable individuals93."}
+{"id": "efd9d8df-964b-463b-bb60-c99876ff4c75", "page": 6, "type": "paragraph", "text": "CONCLUSIONS"}
+{"id": "cf3ff9ce-6ba4-4087-bb71-d1033234ca07", "page": 6, "type": "paragraph", "text": "The evidence reviewed here demonstrates several advantages of"}
+{"id": "c35ce113-31f2-4355-9972-e23b7511af3e", "page": 6, "type": "paragraph", "text": "the BEVS used in the manufacture of RIV4 over conventional"}
+{"id": "ff93e666-c362-43ce-b088-c7ff49dde3b7", "page": 6, "type": "paragraph", "text": "in\ufb02uenza vaccines that rely on in\ufb02uenza virions propagated in egg"}
+{"id": "421fc34f-0ce6-4105-ad29-22c5e7ba87df", "page": 6, "type": "paragraph", "text": "or mammalian cells, split with detergents with or without further HA"}
+{"id": "d16e4813-1aac-4bc9-9330-aa029ec2f905", "page": 6, "type": "paragraph", "text": "enrichment. The use of recombinant protein technology eliminates"}
+{"id": "1986579c-8d11-4fae-8a4f-18710642a923", "page": 6, "type": "paragraph", "text": "the risk of antigenic mismatch due to potential changes in primary"}
+{"id": "455babe7-9d0e-4305-afd3-468168d0d42b", "page": 6, "type": "paragraph", "text": "HA structure through egg- or cell-adaptation. We also describe"}
+{"id": "351db9f6-a1b3-446e-bbdc-ef4dface0c11", "page": 6, "type": "paragraph", "text": "features of the rHA tertiary structure that are likely to be responsible"}
+{"id": "789945e3-24ae-493b-893a-275d71e38553", "page": 6, "type": "paragraph", "text": "for the generation of broad cross-reactive and protective antibodies,"}
+{"id": "282f928a-71b7-4061-96ca-ead43ddba391", "page": 6, "type": "paragraph", "text": "together with the direct or indirect evidence supporting this. The"}
+{"id": "5fb4cb68-3cd4-428a-8fc6-6dcbaa8f83e2", "page": 6, "type": "paragraph", "text": "homogeneity of rHA rosettes and"}
+{"id": "bffd2ea9-b2dd-4caf-b28f-6425a9786541", "page": 6, "type": "paragraph", "text": "negligible"}
+{"id": "2dbff551-bead-44e8-898c-c085c7788483", "page": 6, "type": "paragraph", "text": "process-related"}
+{"id": "f08dc91f-6d05-4257-8c3b-3e4900ed5f42", "page": 6, "type": "paragraph", "text": "impurities are the hallmarks of RIV4. As rHA production bypasses"}
+{"id": "d951a1ee-6a9d-406a-8785-3f4444901492", "page": 6, "type": "paragraph", "text": "the need for a viral inactivation step and avoids the use of eggs,"}
+{"id": "142a8100-87d1-4fc9-89f9-6b8e30353ba0", "page": 6, "type": "paragraph", "text": "related process-impurities such as inactivating agents or residual"}
+{"id": "a5809206-7795-48cd-a8d0-f9b0c980d8a0", "page": 6, "type": "paragraph", "text": "egg-protein,"}
+{"id": "60f1f375-bc06-4fbf-b03a-495ea32e8d54", "page": 6, "type": "paragraph", "text": "and"}
+{"id": "9c0c8055-1abd-4af5-bcae-af23298f033b", "page": 6, "type": "paragraph", "text": "thus"}
+{"id": "2fac5bb3-3cfd-4ef7-a9e9-7ac1347ef10d", "page": 6, "type": "paragraph", "text": "potential"}
+{"id": "8da95f05-544c-4b26-8b5b-62c908e12577", "page": 6, "type": "paragraph", "text": "adverse"}
+{"id": "d9a14be8-13ff-483f-a77a-a0c291cfb3dd", "page": 6, "type": "paragraph", "text": "reactions"}
+{"id": "f4d7b2fb-5b59-4d6f-8ebb-7d449ffafc7b", "page": 6, "type": "paragraph", "text": "to"}
+{"id": "3a8086ac-7ae9-4641-8121-c4d812a39064", "page": 6, "type": "paragraph", "text": "these"}
+{"id": "28bba418-9d1b-4d36-bc26-0c98e4175d53", "page": 6, "type": "paragraph", "text": "impurities in vulnerable individuals are eliminated. This well-"}
+{"id": "e59116a6-163c-43e8-aa4f-0c23058f6e24", "page": 6, "type": "paragraph", "text": "established and validated platform for vaccine manufacture could"}
+{"id": "608405eb-ddbc-4f85-9d40-48c1156a7ca2", "page": 6, "type": "paragraph", "text": "be extended to address other emerging infectious diseases where"}
+{"id": "52618c5e-a948-401e-b34f-3ca1de5394b6", "page": 6, "type": "paragraph", "text": "cross-protection against constantly evolving variants is critical, such"}
+{"id": "76d8fcec-0e95-4800-b794-8dbdddb65bce", "page": 6, "type": "paragraph", "text": "as pandemic in\ufb02uenza and/or COVID-19."}
+{"id": "a30bc1d3-bcf5-4356-abc8-666bdcf98077", "page": 6, "type": "paragraph", "text": "DATA AVAILABILITY"}
+{"id": "8ee62eb4-b790-4beb-8e32-f5ea5c0fdab3", "page": 6, "type": "paragraph", "text": "No data were generated for the review article."}
+{"id": "19537757-b42a-44e4-82dc-39392abff9e2", "page": 6, "type": "paragraph", "text": "Received: 24 May 2021; Accepted: 3 November 2021;"}
+{"id": "114c297c-26ca-429a-a5b4-7bcb7c51c945", "page": 6, "type": "paragraph", "text": "REFERENCES"}
+{"id": "d9554d69-f535-4e7e-90c4-518278a60bf7", "page": 6, "type": "paragraph", "text": "1. Iuliano, A. D. et al. Estimates of global seasonal in\ufb02uenza-associated respiratory"}
+{"id": "5b9f5f21-8572-43b5-bc25-110c6176731e", "page": 6, "type": "paragraph", "text": "mortality: a modelling study. Lancet 391, 1285\u20131300 (2018)."}
+{"id": "13980b0e-5d6d-4262-9db5-c1de4f347370", "page": 6, "type": "paragraph", "text": "2. World Health Organization. Fact-sheet. In\ufb02uenza (Seasonal). Available at https://"}
+{"id": "60fe4898-6ea2-446d-8d22-124d329d1b02", "page": 6, "type": "paragraph", "text": "www.who.int/en/news-room/fact-sheets/detail/in\ufb02uenza-(seasonal). Accessed 12"}
+{"id": "bacbcb6b-16c8-4abd-80c4-b0ddd7b28d4f", "page": 6, "type": "paragraph", "text": "March 2021. (2018)."}
+{"id": "0063b54f-c3bb-46de-a04b-5686dc197cfa", "page": 6, "type": "paragraph", "text": "3. Lafond, K. E. et al. Global burden of in\ufb02uenza-associated lower respiratory tract"}
+{"id": "cedcbd3e-87b4-45bc-93f9-de1a8dd3198f", "page": 6, "type": "paragraph", "text": "infections and hospitalizations among adults: a systematic review and meta-"}
+{"id": "2f3c35fb-b41f-41b8-9f7c-9ec765adaeef", "page": 6, "type": "paragraph", "text": "analysis. PLoS Med. 18, e1003550 (2021)."}
+{"id": "eeed41a2-be8f-48d2-a81b-2a6c07a1cbc8", "page": 6, "type": "paragraph", "text": "4. US Centers for Disease Control and Prevention (CDC). Weekly U.S. In\ufb02uenza"}
+{"id": "9a46cae4-81d6-4952-90d0-f3d69d523daa", "page": 6, "type": "paragraph", "text": "Surveillance Report. https://www.cdc.gov/\ufb02u/weekly/index.htm. Accessed 16"}
+{"id": "895013a8-1ee3-4405-94b0-16c20c8917fd", "page": 6, "type": "paragraph", "text": "March 2021."}
+{"id": "f376e7fb-0608-497f-993c-406988bf5185", "page": 6, "type": "paragraph", "text": "5. Sellers, S. A., Hagan, R. S., Hayden, F. G. & Fischer, W. A. II The hidden burden of"}
+{"id": "f05218fd-7b42-4435-8359-d98adbfada73", "page": 6, "type": "paragraph", "text": "in\ufb02uenza: a review of the extra-pulmonary complications of in\ufb02uenza infection."}
+{"id": "685f9aa7-b331-4eb7-8fb3-e80d7080d7b1", "page": 6, "type": "paragraph", "text": "In\ufb02uenza Other Respir. Viruses 11, 372\u2013393 (2017)."}
+{"id": "2b07adbf-0263-448d-a4b4-ae7fa5e779dd", "page": 6, "type": "paragraph", "text": "6. de Francisco Shapovalova, N., Donadel, M., Jit, M. & Hutubessy, R. A systematic"}
+{"id": "0b0c1664-67e9-417d-a9b7-714ec52f740b", "page": 6, "type": "paragraph", "text": "review of the social and economic burden of in\ufb02uenza in low- and middle-"}
+{"id": "1beded8c-e5de-4567-bfb7-a57651ce350e", "page": 6, "type": "paragraph", "text": "income countries. Vaccine 33, 6537\u20136544 (2015)."}
+{"id": "46dfa5c4-1dd0-4e23-9525-dbef07ebcc13", "page": 6, "type": "paragraph", "text": "7. Szucs, T. The socio-economic burden of in\ufb02uenza. J. Antimicrob. Chemother. 44"}
+{"id": "8680615d-ee4b-4f82-9aba-6899ae37fa10", "page": 6, "type": "paragraph", "text": "Suppl B, 11\u201315 (1999)."}
+{"id": "00552d49-5bf8-4cc0-84db-affd874afa5a", "page": 6, "type": "paragraph", "text": "8. Krammer, F. et al. In\ufb02uenza. Nat. Rev. Dis. Prim. 4, 3 (2018)."}
+{"id": "9e3b0f18-b1a4-41fd-969a-e8d4a41da996", "page": 6, "type": "paragraph", "text": "9. Paules, C. & Subbarao, K. In\ufb02uenza. Lancet 390, 697\u2013708 (2017)."}
+{"id": "116cc978-399b-4e42-899d-651302121702", "page": 6, "type": "paragraph", "text": "10. Hobson, D., Curry, R. L., Beare, A. S. & Ward-Gardner, A. The role of serum"}
+{"id": "f259bded-cd7e-4149-868b-a925fd19ba53", "page": 6, "type": "paragraph", "text": "haemagglutination-inhibiting antibody in protection against challenge infection"}
+{"id": "2ec03c9d-5bc1-4d54-a90f-556214c950d1", "page": 6, "type": "paragraph", "text": "with in\ufb02uenza A2 and B viruses. Epidemiol. Infect. 70, 767\u2013777 (1972)."}
+{"id": "a38031ec-f4b6-45aa-a710-57036f437eaa", "page": 6, "type": "paragraph", "text": "11. Ohmit, S. E. et al. In\ufb02uenza hemagglutination-inhibition antibody titer as a cor-"}
+{"id": "e80c57e6-b127-4295-ba50-ffb8d60d3c94", "page": 6, "type": "paragraph", "text": "relate of vaccine-induced protection. J. Infect. Dis. 204, 1879\u20131885 (2011)."}
+{"id": "9b14c452-7ccc-4e90-a82f-68bf5a7817b2", "page": 6, "type": "paragraph", "text": "12. Dunkle, L. M. et al. Ef\ufb01cacy of recombinant in\ufb02uenza vaccine in adults 50 years of"}
+{"id": "6785d659-1074-424e-b0ee-88c75b30a38f", "page": 6, "type": "paragraph", "text": "age or older. N. Engl. J. Med. 376, 2427\u20132436 (2017)."}
+{"id": "e96953b0-3e25-4ce6-9169-8cb3dd377d7e", "page": 6, "type": "paragraph", "text": "13. Wohlbold, T. J. & Krammer, F. In the shadow of hemagglutinin: a growing interest"}
+{"id": "fa1bc06a-40cd-4a88-823c-ffa5093fa58a", "page": 6, "type": "paragraph", "text": "in in\ufb02uenza viral neuraminidase and its role as a vaccine antigen. Viruses 6,"}
+{"id": "b9fa84da-2f34-4c7b-bef6-24f8430ea318", "page": 6, "type": "paragraph", "text": "2465\u20132494 (2014)."}
+{"id": "13acc7a0-ee94-41f7-b4f1-471cf7bc44d0", "page": 6, "type": "paragraph", "text": "14. Giurgea, L. T., Morens, D. M., Taubenberger, J. K. & Memoli, M. J. In\ufb02uenza"}
+{"id": "2700109c-ef45-442e-9452-845370454b02", "page": 6, "type": "paragraph", "text": "neuraminidase: a neglected protein and its potential for a better in\ufb02uenza vac-"}
+{"id": "4cc12e24-9ae7-4192-be4d-6bb4db18cf99", "page": 6, "type": "paragraph", "text": "cine. Vaccines 8, 409 (2020)."}
+{"id": "a5678a54-f192-415e-9845-ff2390cdd98c", "page": 6, "type": "paragraph", "text": "15. World Health Organization. Global In\ufb02uenza Surveillance and Response System"}
+{"id": "e58eeda0-208c-419f-adfa-ef91b85c725d", "page": 6, "type": "paragraph", "text": "(GISRS). Available at https://www.who.int/in\ufb02uenza/gisrs_laboratory/en/. Acces-"}
+{"id": "ee97825e-deff-4f14-8943-fb452e8e0c93", "page": 6, "type": "paragraph", "text": "sed 17 February 2021. (2021)."}
+{"id": "bcd19031-c655-4304-b101-b9e1b8517440", "page": 6, "type": "paragraph", "text": "16. Camilloni, B., Neri, M., Lepri, E. & Iorio, A. M. Cross-reactive antibodies in middle-"}
+{"id": "71a466eb-72c9-46bc-93f5-0975c31bcdaa", "page": 6, "type": "paragraph", "text": "aged and elderly volunteers after MF59-adjuvanted subunit trivalent in\ufb02uenza"}
+{"id": "e7253fd0-74cd-4d0c-87a4-c25fc472d5d5", "page": 6, "type": "paragraph", "text": "vaccine against B viruses of the B/Victoria or B/Yamagata lineages. Vaccine 27,"}
+{"id": "93626c0c-1418-4ebe-8424-1489332faa3d", "page": 6, "type": "paragraph", "text": "4099\u20134103 (2009)."}
+{"id": "0d2f8dc5-cc99-4c47-ba36-ec2dfdb147d0", "page": 6, "type": "paragraph", "text": "17. Tricco, A. C. et al. Comparing in\ufb02uenza vaccine ef\ufb01cacy against mismatched and"}
+{"id": "949ff598-05c5-4821-9f78-c5ba7da6ddd4", "page": 6, "type": "paragraph", "text": "matched strains: a systematic review and meta-analysis. BMC Med. 11, 153 (2013)."}
+{"id": "46ba805c-3855-445f-aabc-c2702a4a7bbc", "page": 6, "type": "paragraph", "text": "A.B. Arunachalam et al."}
+{"id": "c9083a6c-730c-45bd-9b71-b7bdcdad7432", "page": 6, "type": "paragraph", "text": "6"}
+{"id": "8994a342-be0b-4613-ad6f-738326695b11", "page": 6, "type": "paragraph", "text": "npj Vaccines (2021) 144"}
+{"id": "d33f4d9e-88fc-403a-a635-a844ad97dca5", "page": 6, "type": "paragraph", "text": "Published in partnership with the Sealy Institute for Vaccine Sciences"}
+{"id": "097fab65-8656-4b0c-a510-f473cfc7de6e", "page": 7, "type": "paragraph", "text": "18. Raymond, D. D. et al. Conserved epitope on in\ufb02uenza-virus hemagglutinin head"}
+{"id": "05b4421c-3502-4204-986f-f81d41de215e", "page": 7, "type": "paragraph", "text": "de\ufb01ned by a vaccine-induced antibody. Proc. Natl Acad. Sci. USA 115, 168\u2013173"}
+{"id": "1d26fa1a-5301-433f-bb33-c96c8d8d5fd8", "page": 7, "type": "paragraph", "text": "(2018)."}
+{"id": "1f623b93-5141-4439-9245-92552799bcbf", "page": 7, "type": "paragraph", "text": "19. Sautto, G. A., Kirchenbaum, G. A. & Ross, T. M. Towards a universal in\ufb02uenza"}
+{"id": "4a71b3ef-2080-45fa-97d3-d94b0154d628", "page": 7, "type": "paragraph", "text": "vaccine: different approaches for one goal. Virol. J. 15, 17 (2018)."}
+{"id": "dc421ade-45dd-43df-baac-03940a96cc81", "page": 7, "type": "paragraph", "text": "20. Nachbagauer, R. et al. A chimeric hemagglutinin-based universal in\ufb02uenza virus"}
+{"id": "01b02f02-b776-4033-a491-85edd5029dfa", "page": 7, "type": "paragraph", "text": "vaccine approach induces broad and long-lasting immunity in a randomized,"}
+{"id": "0e99511c-97f4-4e0f-b6ba-c5725cb100c3", "page": 7, "type": "paragraph", "text": "placebo-controlled phase I trial. Nat. Med. 27, 106\u2013114 (2021)."}
+{"id": "68ed27ec-8ed0-460f-afe9-4692df703724", "page": 7, "type": "paragraph", "text": "21. Orenstein, W. A. & Schaffner, W. Lessons learned: role of in\ufb02uenza vaccine pro-"}
+{"id": "ea5023bc-82d5-4e38-93ce-02337442f834", "page": 7, "type": "paragraph", "text": "duction, distribution, supply, and demand\u2013what it means for the provider. Am. J."}
+{"id": "8cc833d4-15a7-4080-b998-9daa1b564b25", "page": 7, "type": "paragraph", "text": "Med. 121, S22\u2013S27 (2008)."}
+{"id": "21a5d9fd-69ce-4c62-bd0e-962dea365f96", "page": 7, "type": "paragraph", "text": "22. Felberbaum, R. S. The baculovirus expression vector system: a commercial"}
+{"id": "11442b2b-47ec-49ae-9df4-85f99303b6f3", "page": 7, "type": "paragraph", "text": "manufacturing platform for viral vaccines and gene therapy vectors. Biotechnol. J."}
+{"id": "9424366a-f510-4f25-95f5-790a6b417b2e", "page": 7, "type": "paragraph", "text": "10, 702\u2013714 (2015)."}
+{"id": "22f16c9c-c63b-4a4b-bac6-59a90b24b375", "page": 7, "type": "paragraph", "text": "23. Cox, M. M. & Hashimoto, Y. A fast track in\ufb02uenza virus vaccine produced in insect"}
+{"id": "1b707177-9b8b-4375-9ae5-a79bd181e35d", "page": 7, "type": "paragraph", "text": "cells. J. Invertebr. Pathol. 107, S31\u2013S41 (2011)."}
+{"id": "616f38f3-15d2-4f91-a240-84be4bbf55d5", "page": 7, "type": "paragraph", "text": "24. Raymond, D. D. et al. In\ufb02uenza immunization elicits antibodies speci\ufb01c for an"}
+{"id": "ad377a7b-8a06-4d38-ad64-340d7875f1d4", "page": 7, "type": "paragraph", "text": "egg-adapted vaccine strain. Nat. Med. 22, 1465\u20131469 (2016)."}
+{"id": "5b2051ff-4347-4bf9-a208-bb0110b20efd", "page": 7, "type": "paragraph", "text": "25. Skowronski, D. M. et al. Low 2012-13 in\ufb02uenza vaccine effectiveness associated"}
+{"id": "f3b24ad8-a13c-482d-bd43-b21acaa9849f", "page": 7, "type": "paragraph", "text": "with mutation in the egg-adapted H3N2 vaccine strain not antigenic drift in"}
+{"id": "6ff24a90-6a16-449a-aa89-2e00b7e5dd40", "page": 7, "type": "paragraph", "text": "circulating viruses. PLoS ONE 9, e92153 (2014)."}
+{"id": "4de0b468-42cf-491b-a3bd-ed72c36686b5", "page": 7, "type": "paragraph", "text": "26. Zost, S. J. et al. Contemporary H3N2 in\ufb02uenza viruses have a glycosylation site"}
+{"id": "b8678f88-6830-40dd-81c3-04199694b2e8", "page": 7, "type": "paragraph", "text": "that alters binding of antibodies elicited by egg-adapted vaccine strains. Proc."}
+{"id": "0517a0a3-21c1-479c-a981-03a102115965", "page": 7, "type": "paragraph", "text": "Natl Acad. Sci. USA 114, 12578\u201312583 (2017)."}
+{"id": "333d86b8-15fa-4dce-b0e7-bb878515c214", "page": 7, "type": "paragraph", "text": "27. Flannery, B. et al. Interim estimates of 2016-17 seasonal in\ufb02uenza vaccine"}
+{"id": "5d871cf5-05da-4c1a-924a-f3e547358891", "page": 7, "type": "paragraph", "text": "effectiveness - United States, February 2017. MMWR Morb. Mortal. Wkly Rep. 66,"}
+{"id": "81fbe05e-6cd9-4396-84bf-94b69e6bdc3f", "page": 7, "type": "paragraph", "text": "167\u2013171 (2017)."}
+{"id": "bfd37f14-e596-4a49-96cf-997eb975ffc6", "page": 7, "type": "paragraph", "text": "28. Shu, Y. & McCauley, J. GISAID: Global initiative on sharing all in\ufb02uenza data - from"}
+{"id": "a30b88d2-6906-4084-a26a-b8949ed30039", "page": 7, "type": "paragraph", "text": "vision to reality. Euro surveillance: bulletin Europeen sur les maladies transmis-"}
+{"id": "a164458f-e2dc-499d-8f53-4ff87eeb06b0", "page": 7, "type": "paragraph", "text": "sibles = European communicable disease bulletin 22, https://doi.org/10.2807/"}
+{"id": "b3aa1ca8-f91b-4796-a35d-e9b7e1dd880b", "page": 7, "type": "paragraph", "text": "1560-7917.Es.2017.22.13.30494 (2017)."}
+{"id": "c5d7307e-1c83-4d12-9b3a-d5b475c2619d", "page": 7, "type": "paragraph", "text": "29. Song, L. et al. Ef\ufb01cacious recombinant in\ufb02uenza vaccines produced by high yield"}
+{"id": "8b1a849b-ec94-4ab9-aeb4-a7b498de220b", "page": 7, "type": "paragraph", "text": "bacterial expression: a solution to global pandemic and seasonal needs. PLoS"}
+{"id": "d5b40cb9-1cf5-4ea9-88ea-efb3b68a79a7", "page": 7, "type": "paragraph", "text": "ONE 3, e2257 (2008)."}
+{"id": "93034696-63d7-4480-a200-28ec116f056d", "page": 7, "type": "paragraph", "text": "30. Tussey, L. et al. Phase 1 safety and immunogenicity study of a quadrivalent"}
+{"id": "7b19e0f8-8ddf-42d7-93a9-0bf016461501", "page": 7, "type": "paragraph", "text": "seasonal \ufb02u vaccine comprising recombinant hemagglutinin-\ufb02agellin fusion"}
+{"id": "a4fa2b49-6060-4342-a730-f15c3eb40eff", "page": 7, "type": "paragraph", "text": "proteins. Open Forum Infect. Dis. 3, ofw015 (2016)."}
+{"id": "f68dcbb1-ed5b-4e48-a702-793535ef0914", "page": 7, "type": "paragraph", "text": "31. Aguilar-Yanez, J. M. et al. An in\ufb02uenza A/H1N1/2009 hemagglutinin vaccine"}
+{"id": "5fc0223c-cac4-436e-847b-5fa4370bcd07", "page": 7, "type": "paragraph", "text": "produced in Escherichia coli. PLoS ONE 5, e11694 (2010)."}
+{"id": "99aec621-eb45-480a-946a-eb36820850db", "page": 7, "type": "paragraph", "text": "32. Saczynska, V. In\ufb02uenza virus hemagglutinin as a vaccine antigen produced in"}
+{"id": "557130ce-2e93-4b1f-80b6-8b9d5c2367ad", "page": 7, "type": "paragraph", "text": "bacteria. Acta Biochim Pol. 61, 561\u2013572 (2014)."}
+{"id": "802673b0-e1dc-43a9-8f0b-98c71c37122b", "page": 7, "type": "paragraph", "text": "33. Davis, A. R. et al. Immune response to human in\ufb02uenza virus hemagglutinin"}
+{"id": "f3d05418-4a5f-4737-b523-4eb9ce6b3d3b", "page": 7, "type": "paragraph", "text": "expressed in Escherichia coli. Gene 21, 273\u2013284 (1983)."}
+{"id": "28e7fb6a-4000-439f-b72f-a3eb291362c3", "page": 7, "type": "paragraph", "text": "34. Rosales-Mendoza, S. et al. What does plant-based vaccine technology offer to the"}
+{"id": "2af52245-9ad5-4b3f-9aad-bdae5df5fee3", "page": 7, "type": "paragraph", "text": "\ufb01ght against COVID-19? Vaccines 8, 183 (2020)."}
+{"id": "c113df08-6b94-4352-80b6-424155442c50", "page": 7, "type": "paragraph", "text": "35. Pillet, S. et al. A plant-derived quadrivalent virus like particle in\ufb02uenza vaccine"}
+{"id": "07048e32-4f29-4097-bf50-573087814479", "page": 7, "type": "paragraph", "text": "induces cross-reactive antibody and T cell response in healthy adults. Clin."}
+{"id": "e978d294-5c99-4b05-9eb5-099fb8a05387", "page": 7, "type": "paragraph", "text": "Immunol. 168, 72\u201387 (2016)."}
+{"id": "e67e16a1-761d-46c4-9ba3-5acced97ca5a", "page": 7, "type": "paragraph", "text": "36. Pillet, S. et al. Immunogenicity and safety of a quadrivalent plant-derived virus"}
+{"id": "1f531f95-e9dc-4d43-a27a-94e0fbce0eac", "page": 7, "type": "paragraph", "text": "like particle in\ufb02uenza vaccine candidate-two randomized Phase II clinical trials in"}
+{"id": "4df14e97-4e97-4ce4-9f05-2f7692499522", "page": 7, "type": "paragraph", "text": "18 to 49 and >/=50 years old adults. PLoS ONE 14, e0216533 (2019)."}
+{"id": "c3de2ad2-3e99-40d7-a5e7-fdd8d3ae8e73", "page": 7, "type": "paragraph", "text": "37. Ward, B. J. et al. Ef\ufb01cacy, immunogenicity, and safety of a plant-derived, quad-"}
+{"id": "a512d92b-c9fc-4476-a7d2-5ef58f4c9063", "page": 7, "type": "paragraph", "text": "rivalent, virus-like particle in\ufb02uenza vaccine in adults (18-64 years) and older"}
+{"id": "bcc61f42-a932-4b54-8289-32c5d6920197", "page": 7, "type": "paragraph", "text": "adults (>/=65 years): two multicentre, randomised phase 3 trials. Lancet 396,"}
+{"id": "2e109551-4fc4-41be-a3d7-4bf043a84bfa", "page": 7, "type": "paragraph", "text": "1491\u20131503 (2020)."}
+{"id": "6b974f32-0f1f-4167-8809-2f14b51853d5", "page": 7, "type": "paragraph", "text": "38. Won, S. Y. et al. Characterization of the innate stimulatory capacity of plant-"}
+{"id": "0b2d7040-eaad-469d-8d63-51d303f8e143", "page": 7, "type": "paragraph", "text": "derived"}
+{"id": "979cbff6-bd22-4689-b5cf-c4900952d5c2", "page": 7, "type": "paragraph", "text": "virus-like"}
+{"id": "f31afa19-0e85-43ea-973d-90e638c7f4af", "page": 7, "type": "paragraph", "text": "particles"}
+{"id": "730f33ec-facb-4ccc-acb0-eabe29dcdd19", "page": 7, "type": "paragraph", "text": "bearing"}
+{"id": "cf340e2c-5f4f-47c5-837f-3d2c026c47b7", "page": 7, "type": "paragraph", "text": "in\ufb02uenza"}
+{"id": "a21564ea-8a44-4477-a4bb-0e292460e617", "page": 7, "type": "paragraph", "text": "hemagglutinin."}
+{"id": "7c373c51-9633-4dd3-af53-7255bbb8c314", "page": 7, "type": "paragraph", "text": "Vaccine"}
+{"id": "23ce3de5-35ca-4a6a-8b12-39fbdc45e34d", "page": 7, "type": "paragraph", "text": "36,"}
+{"id": "4ce0c001-4bac-4c5f-9637-2be8175f464c", "page": 7, "type": "paragraph", "text": "8028\u20138038 (2018)."}
+{"id": "227556e5-7e52-4820-9283-2813ba71f1c3", "page": 7, "type": "paragraph", "text": "39. Pandey, A. et al. Impact of preexisting adenovirus vector immunity on immu-"}
+{"id": "937ae478-4664-4d37-ae47-db8f316ac2a2", "page": 7, "type": "paragraph", "text": "nogenicity and protection conferred with an adenovirus-based H5N1 in\ufb02uenza"}
+{"id": "e222d049-bbd5-4998-8653-f00ce2aa8d97", "page": 7, "type": "paragraph", "text": "vaccine. PLoS ONE 7, e33428\u2013e33428 (2012)."}
+{"id": "8c16f5e4-f2e9-4e47-9029-34016bc1d19d", "page": 7, "type": "paragraph", "text": "40. Sayedahmed, E. E. et al. Adenoviral vector-based vaccine platforms for devel-"}
+{"id": "5fb1897f-0bb5-4efe-be98-994d64c36d55", "page": 7, "type": "paragraph", "text": "oping the next generation of in\ufb02uenza vaccines. Vaccines 8, 574 (2020)."}
+{"id": "3f034692-dccd-4dab-b191-2a05c4d64ead", "page": 7, "type": "paragraph", "text": "41. Xiang, K. et al. Progress on adenovirus-vectored universal in\ufb02uenza vaccines."}
+{"id": "e5696ccb-170d-4c20-9d78-474932e001d8", "page": 7, "type": "paragraph", "text": "Hum. Vaccin Immunother. 11, 1209\u20131222 (2015)."}
+{"id": "54a3c136-8a13-469e-9590-6c7ce6ec7569", "page": 7, "type": "paragraph", "text": "42. Chen, J. R. et al. Better in\ufb02uenza vaccines: an industry perspective. J. Biomed. Sci."}
+{"id": "f913717e-86f2-47e2-ad80-0b6e2ee51863", "page": 7, "type": "paragraph", "text": "27, 33 (2020)."}
+{"id": "8aa51521-3119-42e7-b5b2-585f8b5ac344", "page": 7, "type": "paragraph", "text": "43. Report to the president on reengeneering the in\ufb02uenza vaccine production"}
+{"id": "7d98ba44-ad96-4e01-a329-4af178e28e00", "page": 7, "type": "paragraph", "text": "enterprise to meet the challenges of pandemic in\ufb02uenza. Available at https://"}
+{"id": "2206edaa-144d-436b-a24e-0702ebbaec56", "page": 7, "type": "paragraph", "text": "obamawhitehouse.archives.gov/sites/default/\ufb01les/microsites/ostp/PCAST-"}
+{"id": "bd28ebb2-e008-4b7e-8583-290a3fdadd9e", "page": 7, "type": "paragraph", "text": "In\ufb02uenza-Vaccinology-Report.pdf. Accessed August 2021."}
+{"id": "c418e3cb-1178-4925-aa9e-6b0a0e43db5d", "page": 7, "type": "paragraph", "text": "44. L\u00f3pez-Mac\u00edas, C. et al. Safety and immunogenicity of a virus-like particle pan-"}
+{"id": "afb657dc-4368-4d2a-b723-2f1699237196", "page": 7, "type": "paragraph", "text": "demic in\ufb02uenza A (H1N1) 2009 vaccine in a blinded, randomized, placebo-"}
+{"id": "487914f5-8adb-4d77-adb1-2b5d9ed5b472", "page": 7, "type": "paragraph", "text": "controlled trial of adults in Mexico. Vaccine 29, 7826\u20137834 (2011)."}
+{"id": "ab7ffe9e-a0d3-4440-8a8b-2cfa2abe93d0", "page": 7, "type": "paragraph", "text": "45. Pincus, S. et al. Release and stability testing programs for a novel virus-like par-"}
+{"id": "f7134a6c-6d2a-4d96-9e3a-0e32846b0c64", "page": 7, "type": "paragraph", "text": "ticle vaccine. Biopharm. Int 23 Suppl 10, 26\u201334 (2010)."}
+{"id": "ce59b483-ddb1-4c0e-b8eb-46692d9a051a", "page": 7, "type": "paragraph", "text": "46. Fernandes, F. et al. Insect cells as a production platform of complex virus-like"}
+{"id": "8b90faa0-02ce-4005-9fcc-c6f18b9bb2ec", "page": 7, "type": "paragraph", "text": "particles. Expert Rev. Vaccines 12, 225\u2013236 (2013)."}
+{"id": "d2335cd8-cd3e-40cc-8923-9b64cb0c617f", "page": 7, "type": "paragraph", "text": "47. In\ufb02uenza vaccine strategies for broad global access. Available at https://path."}
+{"id": "5451d2c3-432f-43af-ac2d-3c2050b928e9", "page": 7, "type": "paragraph", "text": "azureedge.net/media/documents/VAC_in\ufb02_publ_rpt_10-07.pdf. Accessed August"}
+{"id": "6e7a0e27-3324-4ca9-adb1-4b88a5cf57ed", "page": 7, "type": "paragraph", "text": "2021."}
+{"id": "43455585-eb5b-471e-a1f3-077a09ad24a8", "page": 7, "type": "paragraph", "text": "48. European Medicines Agency. Assessment report. Supemtek. Procedure No."}
+{"id": "5fb00011-20e8-4b28-864e-a067980124dd", "page": 7, "type": "paragraph", "text": "EMEA/H/C/005159/0000. Available at https://www.ema.europa.eu/en/documents/"}
+{"id": "f66a35d2-cd3f-42b0-bf15-60933fa45e54", "page": 7, "type": "paragraph", "text": "assessment-report/supemtek-epar-public-assessment-report_en.pdf. Accessed 17"}
+{"id": "be6324a4-88f9-4236-a921-5718dd2cf47d", "page": 7, "type": "paragraph", "text": "February 2021."}
+{"id": "5abd16fe-9255-4415-ad9d-862e74e7c593", "page": 7, "type": "paragraph", "text": "49. Health Canada. Register of Innovative Drugs [Updated 15 April 2021]. Available"}
+{"id": "a08901ed-a548-4fec-ac54-b3f784ac40de", "page": 7, "type": "paragraph", "text": "from"}
+{"id": "15ef580b-9119-45e4-8f90-5c7137047193", "page": 7, "type": "paragraph", "text": "https://www.canada.ca/en/health-canada/services/drugs-health-products/"}
+{"id": "a4c8a737-0822-46ff-8f29-a35883bc06f4", "page": 7, "type": "paragraph", "text": "drug-products/applications-submissions/register-innovative-drugs.html."}
+{"id": "7a5d18c9-9971-424a-946b-e26bb4694102", "page": 7, "type": "paragraph", "text": "Acces-"}
+{"id": "51fc1f5d-3bf2-403b-9f14-794f9ecf9780", "page": 7, "type": "paragraph", "text": "sed 19 April 2021."}
+{"id": "6b48b846-f8a8-4b6a-b9e5-14f28d0eb55b", "page": 7, "type": "paragraph", "text": "50. Taubenberger, J. K. In\ufb02uenza virus hemagglutinin cleavage into HA1, HA2: no"}
+{"id": "db15af05-13b8-499a-ad5c-acb406fe66a7", "page": 7, "type": "paragraph", "text": "laughing matter. Proc. Natl Acad. Sci. USA 95, 9713\u20139715 (1998)."}
+{"id": "cac5ba44-ed6a-4ca5-bc03-982f45e85ac5", "page": 7, "type": "paragraph", "text": "51. Stieneke-Gr\u00f6ber, A. et al. In\ufb02uenza virus hemagglutinin with multibasic cleavage"}
+{"id": "2b9e6153-7cbb-4a89-809a-cc03e036a64b", "page": 7, "type": "paragraph", "text": "site is activated by furin, a subtilisin-like endoprotease. EMBO J. 11, 2407\u20132414"}
+{"id": "14c5f8fe-e8a4-43b6-bcc5-bf004adc863b", "page": 7, "type": "paragraph", "text": "(1992). PMC556715."}
+{"id": "ca91a486-32b5-4972-a894-bafb1dc7318a", "page": 7, "type": "paragraph", "text": "52. Chen, J. et al. Structure of the hemagglutinin precursor cleavage site, a deter-"}
+{"id": "10d5dc85-9d4e-4a0f-8cd9-9a689bf2f263", "page": 7, "type": "paragraph", "text": "minant of in\ufb02uenza pathogenicity and the origin of the labile conformation. Cell"}
+{"id": "a4618514-4d8e-4643-a1c3-e1475dc2f68e", "page": 7, "type": "paragraph", "text": "95, 409\u2013417 (1998)."}
+{"id": "44f5ec11-a2cc-4bb2-bcf6-8f011bbb3447", "page": 7, "type": "paragraph", "text": "53. Luczo, J. M. et al. Molecular pathogenesis of H5 highly pathogenic avian in\ufb02u-"}
+{"id": "a9eda245-ec1a-4f97-8282-617b8218bf17", "page": 7, "type": "paragraph", "text": "enza: the role of the haemagglutinin cleavage site motif. Rev. Med Virol. 25,"}
+{"id": "22484084-5176-4774-9d3d-0a077fe167c6", "page": 7, "type": "paragraph", "text": "406\u2013430 (2015)."}
+{"id": "91adc8c9-ff7f-4c21-9a5a-7c3c8f1a90c1", "page": 7, "type": "paragraph", "text": "54. Boonstra, S. et al. Hemagglutinin-mediated membrane fusion: a biophysical"}
+{"id": "eb76874b-5dbe-438b-906c-c3f11040dd66", "page": 7, "type": "paragraph", "text": "perspective. Annu Rev. Biophys. 47, 153\u2013173 (2018)."}
+{"id": "3787ad6a-48f1-49ed-9cc0-04d8b7ec0f7d", "page": 7, "type": "paragraph", "text": "55. McCraw, D. M., Gallagher, J. R. & Harris, A. K. Characterization of in\ufb02uenza vaccine"}
+{"id": "87a1f953-f11c-4757-909a-463e584e6e68", "page": 7, "type": "paragraph", "text": "hemagglutinin complexes by cryo-electron microscopy and image analyses"}
+{"id": "d51922df-533c-4689-b462-6ab962d3d089", "page": 7, "type": "paragraph", "text": "reveals structural polymorphisms. Clin. Vaccin. Immunol. 23, 483\u2013495 (2016)."}
+{"id": "efffa728-6c1d-493a-9d9c-07f2b40319e7", "page": 7, "type": "paragraph", "text": "56. Kost, T. A. & Condreay, J. P. Recombinant baculoviruses as expression vectors for"}
+{"id": "120b9203-f383-4e7e-9503-0a4de03ef6f9", "page": 7, "type": "paragraph", "text": "insect and mammalian cells. Curr. Opin. Biotechnol. 10, 428\u2013433 (1999)."}
+{"id": "2219e925-fc36-4398-8a50-1a2b560f8ffb", "page": 7, "type": "paragraph", "text": "57. Webster, R. G., Brown, L. E. & Jackson, D. C. Changes in the antigenicity of the"}
+{"id": "82e84113-9962-4652-9e01-3383b3c30f56", "page": 7, "type": "paragraph", "text": "hemagglutinin molecule of H3 in\ufb02uenza virus at acidic pH. Virology 126, 587\u2013599"}
+{"id": "f52b1ba9-3d22-4e1f-8da7-1a8feb2fc6ce", "page": 7, "type": "paragraph", "text": "(1983)."}
+{"id": "1543c6d2-009e-4ae2-a895-ac349d6928e6", "page": 7, "type": "paragraph", "text": "58. Lee, P. S. & Wilson, I. A. Structural characterization of viral epitopes recognized by"}
+{"id": "923ac68b-830d-4d07-9805-56625d44f570", "page": 7, "type": "paragraph", "text": "broadly cross-reactive antibodies. Curr. Top. Microbiol. Immunol. 386, 323\u2013341"}
+{"id": "96c5bd4e-2c91-4e12-8905-d22b13e1408d", "page": 7, "type": "paragraph", "text": "(2015)."}
+{"id": "95b9a8c1-1bab-4266-a98a-34ce0c78ccc7", "page": 7, "type": "paragraph", "text": "59. Turner, H. L. et al. Potent anti-in\ufb02uenza H7 human monoclonal antibody induces"}
+{"id": "7de4c49d-6c92-4f7f-bfd0-93b088156d3e", "page": 7, "type": "paragraph", "text": "separation of hemagglutinin receptor-binding head domains. PLoS Biol. 17,"}
+{"id": "ca7b93bd-67f8-4348-87bb-fc57df429811", "page": 7, "type": "paragraph", "text": "e3000139 (2019)."}
+{"id": "d997a929-42ff-4be2-9061-d6dc2eb8bcf6", "page": 7, "type": "paragraph", "text": "60. Khurana, S. et al. Repeat vaccination reduces antibody af\ufb01nity maturation across"}
+{"id": "e6601a14-dedf-4123-b09d-03b4f9f8d419", "page": 7, "type": "paragraph", "text": "different in\ufb02uenza vaccine platforms in humans. Nat. Commun. 10, 3338 (2019)."}
+{"id": "371fc663-a3e6-4b6a-bcb9-6645d418d0f2", "page": 7, "type": "paragraph", "text": "61. Ekiert, D. C. et al. Antibody recognition of a highly conserved in\ufb02uenza virus"}
+{"id": "7c57272f-bbf0-4687-9c5a-4a62ce148f73", "page": 7, "type": "paragraph", "text": "epitope. Science 324, 246\u2013251 (2009)."}
+{"id": "8532f488-ae8c-41de-9357-0faf7e97b504", "page": 7, "type": "paragraph", "text": "62. Kallewaard, N. L. et al. Structure and function analysis of an antibody recognizing"}
+{"id": "e8e6dbee-9172-4e34-b187-cb66a53ccd69", "page": 7, "type": "paragraph", "text": "all in\ufb02uenza A subtypes. Cell 166, 596\u2013608 (2016)."}
+{"id": "9e670ec6-698b-473c-83a7-e40a7b704345", "page": 7, "type": "paragraph", "text": "63. Benhaim, M. A. et al. Structural monitoring of a transient intermediate in the"}
+{"id": "66145e91-bc5f-49f2-9f9f-d947535f49a1", "page": 7, "type": "paragraph", "text": "hemagglutinin fusion machinery on in\ufb02uenza virions. Sci. Adv. 6, eaaz8822 (2020)."}
+{"id": "1c384094-5691-455d-9364-1f40ccd5b1be", "page": 7, "type": "paragraph", "text": "64. Portnoff, A. D. et al. In\ufb02uenza hemagglutinin nanoparticle vaccine elicits broadly"}
+{"id": "caa82926-ee66-48c3-ae0d-74a9b1fbb52b", "page": 7, "type": "paragraph", "text": "neutralizing antibodies against structurally distinct domains of H3N2 HA. Vaccines"}
+{"id": "c408783e-f907-4fe8-bad3-dcd983f590dc", "page": 7, "type": "paragraph", "text": "8, 99 (2020)."}
+{"id": "d11af68e-ff39-42cd-9971-5034881b38db", "page": 7, "type": "paragraph", "text": "65. Richards, K. A. et al. Recombinant HA-based vaccine outperforms split and sub-"}
+{"id": "51b86bb9-a07c-42ec-a152-38215287018b", "page": 7, "type": "paragraph", "text": "unit vaccines in elicitation of in\ufb02uenza-speci\ufb01c CD4 T cells and CD4 T cell-"}
+{"id": "82ca11f4-081c-44d5-abbc-58f74020bc23", "page": 7, "type": "paragraph", "text": "dependent antibody responses in humans. NPJ Vaccines 5, 77 (2020)."}
+{"id": "340ceda3-3107-4548-9e43-445c1c77e8de", "page": 7, "type": "paragraph", "text": "66. Tay, T. et al. Investigation into alternative testing methodologies for characteriza-"}
+{"id": "a3dffba6-272c-42bf-b9c0-77180b75982e", "page": 7, "type": "paragraph", "text": "tion of in\ufb02uenza virus vaccine. Hum. Vaccines Immunother. 11, 1673\u20131684 (2015)."}
+{"id": "6c769bdf-5682-4e22-a30c-c535db50cf14", "page": 7, "type": "paragraph", "text": "67. Gallagher, J. R. et al. Characterization of hemagglutinin antigens on in\ufb02uenza"}
+{"id": "93a4fbd6-5ee6-469d-a70e-62053161152e", "page": 7, "type": "paragraph", "text": "virus and within vaccines using electron microscopy. Vaccines https://doi.org/"}
+{"id": "6a4f09da-fc06-4373-aa79-924396d0cf82", "page": 7, "type": "paragraph", "text": "10.3390/vaccines6020031 (2018)."}
+{"id": "cd8fe4e9-b707-4ec2-9685-ff3a4abdd8fb", "page": 7, "type": "paragraph", "text": "68. Public Health Agency of Canada. Oculo-respiratory syndrome following in\ufb02uenza"}
+{"id": "a77a147d-5f0b-4e42-9e1e-a9a642aa1427", "page": 7, "type": "paragraph", "text": "vaccination: review of post-marketing surveillance through four in\ufb02uenza sea-"}
+{"id": "6e60be43-47dc-4e4e-8d49-c9975db197a4", "page": 7, "type": "paragraph", "text": "sons in Canada. Can. Commun. Dis. Rep. 31, 217\u2013225 (2005)."}
+{"id": "45554103-42ee-448f-8782-2c07323d8d01", "page": 7, "type": "paragraph", "text": "69. Choudhri, Y. & Walop, W. In\ufb02uenza vaccine-associated adverse events: results of"}
+{"id": "58536c40-60b1-4762-8442-915d7c875568", "page": 7, "type": "paragraph", "text": "passive surveillance, Canada 2001-2002. Can. Commun. Dis. Rep. 28, 189\u2013196"}
+{"id": "89c611dc-7201-4daf-a0e7-3d27a58497a1", "page": 7, "type": "paragraph", "text": "(2002)."}
+{"id": "4b881c41-6f43-4428-aa04-417d22014876", "page": 7, "type": "paragraph", "text": "70. Babiuk, S. et al. Aggregate content in\ufb02uences the Th1/Th2 immune response to"}
+{"id": "88daaeae-1056-4926-8361-0531ee48ff2f", "page": 7, "type": "paragraph", "text": "in\ufb02uenza vaccine: evidence from a mouse model. J. Med. Virol. 72, 138\u2013142 (2004)."}
+{"id": "2bf173e8-d2d7-4572-ad05-709965dbb25c", "page": 7, "type": "paragraph", "text": "71. Wei, C. J. et al. Cross-neutralization of 1918 and 2009 in\ufb02uenza viruses: role of"}
+{"id": "7d77c014-c2f8-4fae-94df-c82d3b4f72cd", "page": 7, "type": "paragraph", "text": "glycans in viral evolution and vaccine design. Sci. Transl. Med. 2, 24ra21 (2010)."}
+{"id": "9ec092f8-421a-41a1-892f-1a65386b3369", "page": 7, "type": "paragraph", "text": "72. An, Y. et al. N-glycosylation of seasonal in\ufb02uenza vaccine hemagglutinins:"}
+{"id": "a027188c-28cf-49b5-b4a8-8cc729f984db", "page": 7, "type": "paragraph", "text": "implication for potency testing and immune processing. J Virol. https://doi.org/"}
+{"id": "b9ad9f5d-b56a-4d30-82be-7a1c6c8d0371", "page": 7, "type": "paragraph", "text": "10.1128/JVI.01693-18 (2019)."}
+{"id": "4ea45d93-5043-4b19-82db-64d0444c09d3", "page": 7, "type": "paragraph", "text": "A.B. Arunachalam et al."}
+{"id": "fc491927-fb4f-4d83-a710-32d8df889459", "page": 7, "type": "paragraph", "text": "7"}
+{"id": "0993fd82-0f40-4f35-a32a-9f5ee2de9c7b", "page": 7, "type": "paragraph", "text": "Published in partnership with the Sealy Institute for Vaccine Sciences"}
+{"id": "29a628de-c928-4153-99d6-8cd5f030a211", "page": 7, "type": "paragraph", "text": "npj Vaccines (2021) 144"}
+{"id": "356eab16-d425-4b6f-904d-9bdeae5eadec", "page": 8, "type": "paragraph", "text": "73. Schwarzer, J. et al. Glycan analysis in cell culture-based in\ufb02uenza vaccine pro-"}
+{"id": "36e19f2f-1ed1-40d9-9e44-48918216190d", "page": 8, "type": "paragraph", "text": "duction: in\ufb02uence of host cell line and virus strain on the glycosylation pattern of"}
+{"id": "b5da2528-3642-4606-8731-73d66ce30e5c", "page": 8, "type": "paragraph", "text": "viral hemagglutinin. Vaccine 27, 4325\u20134336 (2009)."}
+{"id": "8566e955-020f-4387-a4ea-ee8e44d8057c", "page": 8, "type": "paragraph", "text": "74. Chung, C. Y. et al. SnapShot: N-glycosylation processing pathways across king-"}
+{"id": "6fed46f3-ef14-480b-b488-f933d79e1cfd", "page": 8, "type": "paragraph", "text": "doms. Cell 171, 258\u2013258.e251 (2017)."}
+{"id": "0c24451f-163b-4917-b08b-fc7b3d00f94a", "page": 8, "type": "paragraph", "text": "75. Wang, C. C. et al. Glycans on in\ufb02uenza hemagglutinin affect receptor binding and"}
+{"id": "8cc06115-9de7-44bc-9740-bd5b7dbba790", "page": 8, "type": "paragraph", "text": "immune response. Proc. Natl Acad. Sci. USA 106, 18137\u201318142 (2009)."}
+{"id": "6ecfaa7d-81d8-41e2-9089-080f5abe1631", "page": 8, "type": "paragraph", "text": "76. Chen, J. R. et al. Vaccination of monoglycosylated hemagglutinin induces cross-"}
+{"id": "899efd9d-6d50-44ad-950a-4cbfc486a307", "page": 8, "type": "paragraph", "text": "strain protection against in\ufb02uenza virus infections. Proc. Natl Acad. Sci. USA 111,"}
+{"id": "41017bd7-a1c9-4452-b130-b539a20986b3", "page": 8, "type": "paragraph", "text": "2476\u20132481 (2014)."}
+{"id": "d048341c-e8f6-45db-94df-1bca208a7472", "page": 8, "type": "paragraph", "text": "77. Henry, C. et al. Monoclonal antibody responses after recombinant hemagglutinin"}
+{"id": "1d4db86a-161c-4f5e-9b1c-ad44dc4cced0", "page": 8, "type": "paragraph", "text": "vaccine versus subunit inactivated in\ufb02uenza virus vaccine: a comparative study. J."}
+{"id": "a682d607-9e5f-410f-94d8-576961c4bf27", "page": 8, "type": "paragraph", "text": "Virol. https://doi.org/10.1128/JVI.01150-19 (2019)."}
+{"id": "a9377fa3-ea8a-4daa-b614-c987d93f6b96", "page": 8, "type": "paragraph", "text": "78. Nachbagauer, R. et al. Age dependence and isotype speci\ufb01city of in\ufb02uenza virus"}
+{"id": "8f8828c5-0abe-41e9-b570-3905b69eec2f", "page": 8, "type": "paragraph", "text": "hemagglutinin stalk-reactive antibodies in humans. mBio 7, e01996\u201301915 (2016)."}
+{"id": "02a8e37b-5f3a-43a5-88c2-35be93134657", "page": 8, "type": "paragraph", "text": "79. Reichert, T. et al. Does glycosylation as a modi\ufb01er of original antigenic sin explain"}
+{"id": "a8a62527-999d-4f0c-b41a-89b846f44c33", "page": 8, "type": "paragraph", "text": "the case age distribution and unusual toxicity in pandemic novel H1N1 in\ufb02uenza?"}
+{"id": "a36d3fc1-cfc5-4bad-91c0-d6218c00bd5a", "page": 8, "type": "paragraph", "text": "BMC Infect. Dis. 10, 5 (2010)."}
+{"id": "4dbc1998-c693-4010-b13d-ff94edc7f79c", "page": 8, "type": "paragraph", "text": "80. Wang, K. et al. Expression and puri\ufb01cation of an in\ufb02uenza hemagglutinin\u2013one"}
+{"id": "8cda8b27-4331-4382-87b7-546beb26bcc6", "page": 8, "type": "paragraph", "text": "step closer to a recombinant protein-based in\ufb02uenza vaccine. Vaccine 24,"}
+{"id": "18dc2775-8743-40a2-aeb9-cef885d52408", "page": 8, "type": "paragraph", "text": "2176\u20132185 (2006)."}
+{"id": "7bfd1772-f0ce-4e5a-bd6f-0efa62208886", "page": 8, "type": "paragraph", "text": "81. Treanor, J. J. et al. Protective ef\ufb01cacy of a trivalent recombinant hemagglutinin"}
+{"id": "eb64942f-2536-4656-8767-79516fa86696", "page": 8, "type": "paragraph", "text": "protein vaccine (FluBlok(R)) against in\ufb02uenza in healthy adults: a randomized,"}
+{"id": "00e87fee-dc04-496c-af37-252b9b361fd9", "page": 8, "type": "paragraph", "text": "placebo-controlled trial. Vaccine 29, 7733\u20137739 (2011)."}
+{"id": "3d01791f-447e-449a-8bd3-825b77b0f2ca", "page": 8, "type": "paragraph", "text": "82. Belongia, E. A. et al. Clinical trial to assess immunogenicity of high-dose, adju-"}
+{"id": "4397c25c-c399-44c4-bf18-c13892c694bd", "page": 8, "type": "paragraph", "text": "vanted, and recombinant in\ufb02uenza vaccines against cell-grown A(H3N2) viruses"}
+{"id": "eeb6fa88-dfa8-4430-93c2-1b22675ae194", "page": 8, "type": "paragraph", "text": "in adults 65 to 74 years, 2017-2018. Vaccine 38, 3121\u20133128 (2020)."}
+{"id": "5812d1e6-874b-49e6-acc5-1a2db90f35bc", "page": 8, "type": "paragraph", "text": "83. Shinde, V. et al. Induction of cross-reactive hemagglutination inhibiting antibody"}
+{"id": "e8452e6d-ccb6-4622-bc2d-e5693193b65c", "page": 8, "type": "paragraph", "text": "and"}
+{"id": "45e9f7f2-6e5d-4eda-9c92-43821ed78cf5", "page": 8, "type": "paragraph", "text": "polyfunctional"}
+{"id": "3ad8c67f-6553-42dd-a8ff-3e5e6ad4b389", "page": 8, "type": "paragraph", "text": "CD4+"}
+{"id": "4d8fefce-d347-481c-ac9b-ecad3c514b3c", "page": 8, "type": "paragraph", "text": "T-cell"}
+{"id": "b2a95a74-9648-4298-ab58-617d4bc456bc", "page": 8, "type": "paragraph", "text": "responses"}
+{"id": "d0df2d37-efdb-4718-9a3b-1eac0a50144c", "page": 8, "type": "paragraph", "text": "by"}
+{"id": "bfe2f2b2-0a66-4f0c-8aff-ed124ad2c126", "page": 8, "type": "paragraph", "text": "a"}
+{"id": "3b26dd23-5e40-4d59-9d43-9a61cc7472b6", "page": 8, "type": "paragraph", "text": "recombinant"}
+{"id": "d437f594-2a44-46d2-9082-e812cb30de53", "page": 8, "type": "paragraph", "text": "matrix-M-"}
+{"id": "be7e4d58-522a-4081-ac38-00b2ad407566", "page": 8, "type": "paragraph", "text": "adjuvanted hemagglutinin nanoparticle in\ufb02uenza vaccine. Clin. Infect. Dis."}
+{"id": "3b7ca284-e850-49c7-bc1d-9976759bed6d", "page": 8, "type": "paragraph", "text": "https://doi.org/10.1093/cid/ciaa1673 (2020)."}
+{"id": "7f6ace23-de2e-4be8-8a68-1e0ec7fc63e8", "page": 8, "type": "paragraph", "text": "84. Centers for Disease Control Prevention. Estimates of deaths associated with"}
+{"id": "84ace245-dc57-41e0-a921-64ada6af14b7", "page": 8, "type": "paragraph", "text": "seasonal in\ufb02uenza \u2014 United States, 1976-2007. MMWR Morb. Mortal. Wkly Rep."}
+{"id": "76ef7637-aec9-42f3-ad95-687b2811496c", "page": 8, "type": "paragraph", "text": "59, 1057\u20131062 (2010)."}
+{"id": "c0fc0642-412e-408c-a694-fcbf8b29b5b2", "page": 8, "type": "paragraph", "text": "85. Goldstein, M. A. & Tauraso, N. M. Effect of formalin, beta-propiolactone, mer-"}
+{"id": "fb16a6e5-a104-4496-91d6-d4e3db1262bb", "page": 8, "type": "paragraph", "text": "thiolate, and ultraviolet light upon in\ufb02uenza virus infectivity chicken cell agglu-"}
+{"id": "01253be7-8772-46ae-951b-d4abe5684909", "page": 8, "type": "paragraph", "text": "tination, hemagglutination, and antigenicity. Appl. Microbiol. 19, 290\u2013294 (1970)."}
+{"id": "f8f4c53f-107b-44d9-8b89-49ef8aa3c4bb", "page": 8, "type": "paragraph", "text": "86. Uittenbogaard, J. P., Zomer, B., Hoogerhout, P. & Metz, B. Reactions of beta-"}
+{"id": "c689ea44-c554-4e53-884e-9cbb15d889c0", "page": 8, "type": "paragraph", "text": "propiolactone with nucleobase analogues, nucleosides, and peptides: implica-"}
+{"id": "51b30ce4-6602-4233-96d7-ed24537cac00", "page": 8, "type": "paragraph", "text": "tions for the inactivation of viruses. J. Biol. Chem. 286, 36198\u201336214 (2011)."}
+{"id": "dd2f7bb7-40c2-483f-b74a-ef402539a2d5", "page": 8, "type": "paragraph", "text": "87. She, Y. M. et al. Surface modi\ufb01cations of in\ufb02uenza proteins upon virus inactiva-"}
+{"id": "3cc83bd6-1806-4947-921e-294690e8be58", "page": 8, "type": "paragraph", "text": "tion by \u03b2-propiolactone. Proteomics 13, 3537\u20133547 (2013)."}
+{"id": "392a9552-ad72-4f89-b21b-944d2d89e0ae", "page": 8, "type": "paragraph", "text": "88. Herrera-Rodriguez, J. et al. Inactivated or damaged? Comparing the effect of"}
+{"id": "d7786f69-80f0-42af-a8b3-32fb09c18210", "page": 8, "type": "paragraph", "text": "inactivation methods on in\ufb02uenza virions to optimize. Vaccin. Prod. Vaccin. 37,"}
+{"id": "005ba0c8-4f71-44bc-99bd-d7c3997c3ea3", "page": 8, "type": "paragraph", "text": "1630\u20131637 (2019)."}
+{"id": "1c3c1d62-5e30-46c0-8edb-eadcc6f1ef7b", "page": 8, "type": "paragraph", "text": "89. Li, J. T., Rank, M. A., Squillace, D. L. & Kita, H. Ovalbumin content of in\ufb02uenza"}
+{"id": "304288c9-b5df-4e15-92e4-d309f4e4c7f1", "page": 8, "type": "paragraph", "text": "vaccines. J. Allergy Clin. Immunol. 125, 1412\u20131413 (2010). author reply 1413-1414."}
+{"id": "1fede864-b12f-4f6e-a9d5-5dc43b86ea6b", "page": 8, "type": "paragraph", "text": "90. Garcia-Canas, V. et al. Selective and quantitative detection of in\ufb02uenza virus"}
+{"id": "ec5270af-7ade-4dab-8820-a3a96300587e", "page": 8, "type": "paragraph", "text": "proteins in commercial vaccines using two-dimensional high-performance liquid"}
+{"id": "feead2d7-8bca-4e6d-b6ed-b57602f53704", "page": 8, "type": "paragraph", "text": "chromatography and \ufb02uorescence detection. Anal. Chem. 79, 3164\u20133172 (2007)."}
+{"id": "2c0e5714-8fce-4e8c-9a28-9248cab5a304", "page": 8, "type": "paragraph", "text": "91. Garcia-Canas, V., Lorbetskie, B. & Girard, M. Rapid and selective characterization of"}
+{"id": "a037146f-7106-4d5b-893a-9bb65ff13b8e", "page": 8, "type": "paragraph", "text": "in\ufb02uenza virus constituents in monovalent and multivalent preparations using"}
+{"id": "6e85b175-25ee-4d68-b6c6-ebc355624dcf", "page": 8, "type": "paragraph", "text": "non-porous reversed-phase high performance liquid chromatography columns. J."}
+{"id": "35fc006d-32c1-41e9-8f15-e7833c4a4ce1", "page": 8, "type": "paragraph", "text": "Chromatogr. A 1123, 225\u2013232 (2006)."}
+{"id": "b8552eaa-0b5c-4171-b4f4-1954d22b7a24", "page": 8, "type": "paragraph", "text": "92. Lin, Y. T. et al. Correlation of ovalbumin of egg white components with allergic"}
+{"id": "f58edee6-2e5a-4b60-ad05-3ab285374a74", "page": 8, "type": "paragraph", "text": "diseases in children. J. Microbiol. Immunol. Infect. 49, 112\u2013118 (2016)."}
+{"id": "c67d241f-9465-4931-a404-9c0103bd1ec3", "page": 8, "type": "paragraph", "text": "93. Vaccine excipient summary. Available at https://www.cdc.gov/vaccines/pubs/"}
+{"id": "5dd9ef72-83b1-4154-afa9-eb973dad373e", "page": 8, "type": "paragraph", "text": "pinkbook/downloads/appendices/b/excipient-table-2.pdf. Accessed August"}
+{"id": "99d0a824-0eaa-4200-bdba-5bd995899963", "page": 8, "type": "paragraph", "text": "2021."}
+{"id": "d12d8282-c2e8-4d8a-b407-fb579ca06967", "page": 8, "type": "paragraph", "text": "ACKNOWLEDGEMENTS"}
+{"id": "8ff2b5a6-f48f-4907-9fdc-9d5a21b8b8b8", "page": 8, "type": "paragraph", "text": "Editorial assistance with the preparation of the manuscript was provided by Juliette"}
+{"id": "f7006e9b-c3c8-42c4-8199-1b4cbf6df06b", "page": 8, "type": "paragraph", "text": "Gray, inScience Communications, Springer Healthcare Ltd, UK and was funded by"}
+{"id": "535e4ee5-8251-40b3-bfca-c76f54187276", "page": 8, "type": "paragraph", "text": "Sano\ufb01Pasteur. Graphic design support provided by Naveen Kandibanda (Sano\ufb01)."}
+{"id": "6a0c2fc4-36f3-41d0-9d5a-c8751fffff89", "page": 8, "type": "paragraph", "text": "The authors also thank Kathryn Bonaparte (Sano\ufb01Pasteur) for editorial assistance and"}
+{"id": "7762a31b-0b51-4c27-8700-7d52df0dfcba", "page": 8, "type": "paragraph", "text": "manuscript coordination."}
+{"id": "8ac61ecf-7ddb-4a93-b667-81802d1221bf", "page": 8, "type": "paragraph", "text": "AUTHOR CONTRIBUTIONS"}
+{"id": "89c68526-11f1-4b46-ac62-e6b1a45c4e00", "page": 8, "type": "paragraph", "text": "A.A. conceptualised, designed, and prepared the original draft and Fig. 2; D.R. and P.P"}
+{"id": "cfb559c1-faf3-412e-a592-d45df72e2755", "page": 8, "type": "paragraph", "text": "expanded the clinical and the regulatory sections respectively; all authors reviewed"}
+{"id": "0363c80e-c3a3-4276-ba98-a356a1c47e5e", "page": 8, "type": "paragraph", "text": "and commented on the manuscript at all stages, approved the \ufb01nal draft, and remain"}
+{"id": "99eb4138-801b-44ac-9e81-ce538498e38d", "page": 8, "type": "paragraph", "text": "accountable for the accuracy and integrity of the work."}
+{"id": "1df8601b-32af-474c-a49b-2fbd0b7ff6e4", "page": 8, "type": "paragraph", "text": "COMPETING INTERESTS"}
+{"id": "eef4afb8-391c-43b8-9f60-edb94de2acf4", "page": 8, "type": "paragraph", "text": "All authors are employees of Sano\ufb01Pasteur and may hold shares and/or stock"}
+{"id": "1ad1c026-0a6e-444d-9c0d-6497bd013ea2", "page": 8, "type": "paragraph", "text": "options in the company."}
+{"id": "6e551868-8c1c-4241-b850-4ce488983ab5", "page": 8, "type": "paragraph", "text": "ADDITIONAL INFORMATION"}
+{"id": "10fc7b91-343d-4b77-a8d0-c2e3327da52f", "page": 8, "type": "paragraph", "text": "Correspondence and requests for materials should be addressed to Arun B."}
+{"id": "d0082b98-fd3f-4771-9164-49aa97c09f34", "page": 8, "type": "paragraph", "text": "Arunachalam."}
+{"id": "2bb69524-405c-4f59-b1c5-2d08aa3d237b", "page": 8, "type": "paragraph", "text": "Reprints and permission information is available at http://www.nature.com/"}
+{"id": "c628b443-4070-4422-8d86-dd5af50d80ab", "page": 8, "type": "paragraph", "text": "reprints"}
+{"id": "165c73b9-b8af-45af-9d28-b4e8999cf51c", "page": 8, "type": "paragraph", "text": "Publisher\u2019s note Springer Nature remains neutral with regard to jurisdictional claims"}
+{"id": "039cb0b7-7e7a-4f3a-b9f7-ee207c1987f3", "page": 8, "type": "paragraph", "text": "in published maps and institutional af\ufb01liations."}
+{"id": "a7d3e950-e129-4035-aecf-fc07f70761d9", "page": 8, "type": "paragraph", "text": "Open Access This article is licensed under a Creative Commons"}
+{"id": "ac3e1613-46aa-4dfb-a350-5e02eef77924", "page": 8, "type": "paragraph", "text": "Attribution 4.0 International License, which permits use, sharing,"}
+{"id": "0f4f330f-6d3c-4cb7-a8fb-d9cf8559daf6", "page": 8, "type": "paragraph", "text": "adaptation, distribution and reproduction in any medium or format, as long as you give"}
+{"id": "a7bfb1ab-ceeb-49be-9a34-6ede6f3852dc", "page": 8, "type": "paragraph", "text": "appropriate credit to the original author(s) and the source, provide a link to the Creative"}
+{"id": "56ca02bf-f989-4a2e-9ff9-378412a55396", "page": 8, "type": "paragraph", "text": "Commons license, and indicate if changes were made. The images or other third party"}
+{"id": "a303203e-3372-4d15-b5cf-2cf1b2c4df10", "page": 8, "type": "paragraph", "text": "material in this article are included in the article\u2019s Creative Commons license, unless"}
+{"id": "33453200-40b3-403d-af97-0a1f8bfbdaf1", "page": 8, "type": "paragraph", "text": "indicated otherwise in a credit line to the material. If material is not included in the"}
+{"id": "1884566f-27dd-4089-8e8f-ce4f05a1bfb7", "page": 8, "type": "paragraph", "text": "article\u2019s Creative Commons license and your intended use is not permitted by statutory"}
+{"id": "e279c41f-ef8b-487f-ab3b-c1dcad1bcc57", "page": 8, "type": "paragraph", "text": "regulation or exceeds the permitted use, you will need to obtain permission directly"}
+{"id": "81870a08-6ba1-4054-baa3-67241f44448e", "page": 8, "type": "paragraph", "text": "from the copyright holder. To view a copy of this license, visit http://creativecommons."}
+{"id": "1a085c14-7a1a-4411-a286-83b7745faff0", "page": 8, "type": "paragraph", "text": "org/licenses/by/4.0/."}
+{"id": "a1362f7d-03ef-49d9-a414-c4dbab6b1de3", "page": 8, "type": "paragraph", "text": "\u00a9 The Author(s) 2021"}
+{"id": "239bf444-c0d9-489c-b934-bb6709419d35", "page": 8, "type": "paragraph", "text": "A.B. Arunachalam et al."}
+{"id": "ca9a2783-f6de-416b-bc9d-802b724d16cf", "page": 8, "type": "paragraph", "text": "8"}
+{"id": "a9049988-5ab9-43d4-af34-a071e6784424", "page": 8, "type": "paragraph", "text": "npj Vaccines (2021) 144"}
+{"id": "31d8dd1f-ce2c-4c43-8f16-f6f9b32c5904", "page": 8, "type": "paragraph", "text": "Published in partnership with the Sealy Institute for Vaccine Sciences"}

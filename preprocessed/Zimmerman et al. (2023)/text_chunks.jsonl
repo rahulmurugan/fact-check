@@ -1,0 +1,954 @@
+{"id": "617f2ae7-c9f8-4fc3-a6ef-fdb7e8498028", "page": 1, "type": "paragraph", "text": "Vaccine effectiveness of recombinant and standard dose in\ufb02uenza"}
+{"id": "dd57b4fa-e5ec-489f-9f5d-a4564d90faa8", "page": 1, "type": "paragraph", "text": "vaccines against in\ufb02uenza related hospitalization using a retrospective"}
+{"id": "df07c9cc-d454-4c6c-832d-a3121abeedf6", "page": 1, "type": "paragraph", "text": "test-negative design"}
+{"id": "c806d1ff-c83a-4b43-8633-ba4b7d905309", "page": 1, "type": "paragraph", "text": "Richard K. Zimmerman a, Mary Patricia Nowalk a,\u21d1, Klancie Dauer b, Lloyd Clarke c, Jonathan M. Raviotta a,"}
+{"id": "cd4f1821-9f26-4f1b-8c59-80f42bb6882f", "page": 1, "type": "paragraph", "text": "G.K. Balasubramani b"}
+{"id": "c53ac5a0-bab2-46af-a09d-e5763e65f383", "page": 1, "type": "paragraph", "text": "a University of Pittsburgh, Department of Family Medicine, Suite 520 Schenley Place, 4420 Bayard St., Pittsburgh, PA 15260, USA"}
+{"id": "e52de3d2-f45e-448b-9fe1-448f0a33790e", "page": 1, "type": "paragraph", "text": "b University of Pittsburgh, Department of Epidemiology, Suite 600 Schenley Place, 4420 Bayard St., Pittsburgh, PA 15260, USA"}
+{"id": "39ae0824-1c18-413a-9bc8-ab75e5dd4c4a", "page": 1, "type": "paragraph", "text": "c UPMC Health System, Department of Pharmacy, Division of Infectious Diseases/Pharmacy Department \u2013 AMP 5TH Floor Falk Medical Building, 3601 Fifth Ave, Pittsburgh, PA"}
+{"id": "91a9003a-e774-4547-aace-9fd0f3d1b85a", "page": 1, "type": "paragraph", "text": "15213, USA"}
+{"id": "7d71ff29-37ad-4290-8ede-5daf5e43dc8f", "page": 1, "type": "paragraph", "text": "a r t i c l e"}
+{"id": "5a837ef6-8e3e-46a0-b603-7147b319ba2b", "page": 1, "type": "paragraph", "text": "i n f o"}
+{"id": "2aa78b7b-bf3a-4bdf-b19e-60a69e200ee1", "page": 1, "type": "paragraph", "text": "Article history:"}
+{"id": "4bd3d0d7-0e82-471b-b4e4-87cf09406685", "page": 1, "type": "paragraph", "text": "Received 27 March 2023"}
+{"id": "21959352-ee0e-4cea-b971-94a0870c9b62", "page": 1, "type": "paragraph", "text": "Received in revised form 7 June 2023"}
+{"id": "24902022-3b5d-4728-8741-f73aa4c1dd78", "page": 1, "type": "paragraph", "text": "Accepted 15 June 2023"}
+{"id": "9a1a5797-aed9-4a16-a118-ad4e46635d0f", "page": 1, "type": "paragraph", "text": "Available online 18 July 2023"}
+{"id": "10a710f4-2740-4d34-a94c-80396c061c30", "page": 1, "type": "paragraph", "text": "Keywords:"}
+{"id": "3cefeefe-b061-47ae-b9e1-6dc64433795b", "page": 1, "type": "paragraph", "text": "In\ufb02uenza"}
+{"id": "758631ab-7447-4e42-92ad-003f78b1937f", "page": 1, "type": "paragraph", "text": "Hospitalization"}
+{"id": "0c37b980-ef7e-465a-9cba-537c4bd51db1", "page": 1, "type": "paragraph", "text": "In\ufb02uenza vaccines"}
+{"id": "77dd89fd-a399-4285-af75-a1628f3ff8c5", "page": 1, "type": "paragraph", "text": "Vaccine effectiveness"}
+{"id": "e1670482-e10d-4a1f-883d-835dc89dd84d", "page": 1, "type": "paragraph", "text": "a b s t r a c t"}
+{"id": "f2aca069-c3f9-4160-bdf7-57c7e7bd4ec0", "page": 1, "type": "paragraph", "text": "Background: Relative effectiveness of various vaccine formulations provide important input for vaccine"}
+{"id": "9051c491-407a-4a96-aacf-c8890c61bddf", "page": 1, "type": "paragraph", "text": "policy decisions and provider purchasing decisions. We used electronic databases to conduct a test-"}
+{"id": "37efd3dc-574c-458d-a0a8-0e95244953a8", "page": 1, "type": "paragraph", "text": "negative case control study to determine relative vaccine effectiveness (rVE) of recombinant in\ufb02uenza"}
+{"id": "fd926c35-87e8-46a2-badf-6cc17c2afc46", "page": 1, "type": "paragraph", "text": "vaccine (RIV4) compared with standard dose vaccines (SD-IIV4) against in\ufb02uenza hospitalization."}
+{"id": "a8670aa8-665a-4dad-8850-260ead624284", "page": 1, "type": "paragraph", "text": "Methods: Adults 18\u201364 and \u000165 years of age hospitalized in a large U.S. health system (19 hospitals) in"}
+{"id": "f785692f-f8e5-4cd5-8545-bd3011be9f80", "page": 1, "type": "paragraph", "text": "2018\u20132019 and 2019\u20132020 who were clinically tested for in\ufb02uenza using reverse transcription poly-"}
+{"id": "a192934b-4194-430a-8f7e-ad80b1162633", "page": 1, "type": "paragraph", "text": "merase chain reaction (RT-PCR) assays were included. The hospital system electronic medical record"}
+{"id": "0c6efe03-4fe7-4c1a-9415-324610d2d5a4", "page": 1, "type": "paragraph", "text": "(EMR) and the state immunization registry were used to con\ufb01rm in\ufb02uenza vaccination. Propensity scores"}
+{"id": "29d9c764-67c8-49fb-83cf-8f41bcf77bb0", "page": 1, "type": "paragraph", "text": "with inverse probability weighting were used to adjust for potential confounders and determine rVE."}
+{"id": "413527db-16cb-4171-bdb1-c763d91a9fb8", "page": 1, "type": "paragraph", "text": "Results: Of the 14,590 individuals included in the primary analysis, 3,338 were vaccinated with RIV4 and"}
+{"id": "1d6f1a21-f798-4ada-ac13-620b1c20d720", "page": 1, "type": "paragraph", "text": "976 were vaccinated with SD-IIV4, with the balance of 10,276 being unvaccinated. Most participants"}
+{"id": "7c74b29d-7336-466a-ab07-49f67747245e", "page": 1, "type": "paragraph", "text": "were white (80 %), most (70 %) had a high-risk condition, just over half were female (54 %) and age"}
+{"id": "fc4682be-5c93-4991-a222-3b4a3b3aa3a3", "page": 1, "type": "paragraph", "text": "65 years or older (53 %). Overall RIV4 rVE was signi\ufb01cant when adjusted for propensity scores with"}
+{"id": "7bb21269-ff73-43fc-a0a5-742cb7abdfd3", "page": 1, "type": "paragraph", "text": "inverse probability weights (rVE = 31; 95 % CI = 11 %, 46 %). Among younger adults (18\u201364 years-old),"}
+{"id": "d515b908-7bfb-45ab-8560-19d68edcfd7b", "page": 1, "type": "paragraph", "text": "overall rVE of RIV4 was signi\ufb01cant (rVE = 29; 95 % CI = 4 %, 47 %)."}
+{"id": "77c6ca85-fd38-40e5-b0f3-d032445a541f", "page": 1, "type": "paragraph", "text": "Conclusions: Over all adults, both RIV4 and SD-IIV4 were effective against in\ufb02uenza hospitalization, with"}
+{"id": "17b9ea8e-1117-4e22-8342-4219cc2e66b1", "page": 1, "type": "paragraph", "text": "RIV4 providing better protection compared with SD-IIV4 overall, for females, younger adults, and those"}
+{"id": "30187e73-7077-4d8d-9e92-00da9dcd385b", "page": 1, "type": "paragraph", "text": "with no high-risk conditions."}
+{"id": "46ad396a-4b59-48e2-a813-ce2ee986bf99", "page": 1, "type": "paragraph", "text": "\u0001 2023 Elsevier Ltd. All rights reserved."}
+{"id": "1224d53e-edcf-4faf-9c6e-bcf088828e12", "page": 1, "type": "paragraph", "text": "1. Introduction"}
+{"id": "45193ac0-e39b-4b5b-948e-782ea5488286", "page": 1, "type": "paragraph", "text": "Despite the availability of an array of in\ufb02uenza vaccines and"}
+{"id": "a37f83b5-f42c-4bb2-ba7b-65c2b6e82d0f", "page": 1, "type": "paragraph", "text": "recommendations for vaccination of individuals age 6 months"}
+{"id": "781992bd-a405-40ab-90b2-d4db06331044", "page": 1, "type": "paragraph", "text": "and over, in\ufb02uenza remains a major cause of morbidity, hospital-"}
+{"id": "83565d3a-9547-4e3b-94f8-ec08b1e7fa63", "page": 1, "type": "paragraph", "text": "izations and mortality in the U.S. and worldwide. Over the last"}
+{"id": "ab3e71a8-dc05-4311-9d23-06d86be935b9", "page": 1, "type": "paragraph", "text": "1\u20132 decades, effectiveness of egg-based standard dose in\ufb02uenza"}
+{"id": "b2b6271e-c908-42b8-ba3a-c54d318b49ab", "page": 1, "type": "paragraph", "text": "vaccine has been modest [1\u20135]. New in\ufb02uenza vaccine formula-"}
+{"id": "c974880c-6c11-4757-8d72-be3fda9c1d56", "page": 1, "type": "paragraph", "text": "tions, designed to improve upon the effectiveness of these vacci-"}
+{"id": "260c5f28-9242-4107-bc9b-4779ea7be8e2", "page": 1, "type": "paragraph", "text": "nes, have been introduced in the U.S. over the past several years,"}
+{"id": "e1cd9077-207f-4740-a603-57e191e45dcc", "page": 1, "type": "paragraph", "text": "including high dose- and adjuvanted egg-based vaccines. In addi-"}
+{"id": "8c97b838-0780-43b3-9677-61cc5fa6c60b", "page": 1, "type": "paragraph", "text": "tion, egg-free vaccines manufactured using cell-culture and recom-"}
+{"id": "8d645f62-ea7a-4a98-a063-1ff55f441831", "page": 1, "type": "paragraph", "text": "binant"}
+{"id": "4530a5ae-2842-4e0e-815b-72270ddce307", "page": 1, "type": "paragraph", "text": "technologies"}
+{"id": "b801aa85-523f-4100-be3a-bdce2421eb8c", "page": 1, "type": "paragraph", "text": "have"}
+{"id": "eee0108f-6918-4041-8c19-0ad2aa2b27d2", "page": 1, "type": "paragraph", "text": "been"}
+{"id": "2f3d98d0-40cd-4e06-9d67-c5ef8c8e105a", "page": 1, "type": "paragraph", "text": "licensed"}
+{"id": "1cc1070d-a3ed-4d13-9f62-4e43e9684838", "page": 1, "type": "paragraph", "text": "that"}
+{"id": "53633eec-f3d9-4dac-800a-3dfae06fc77c", "page": 1, "type": "paragraph", "text": "avoid"}
+{"id": "a226ecea-47c1-4987-94f8-726e2af25e0d", "page": 1, "type": "paragraph", "text": "the"}
+{"id": "18764070-664d-46d9-95e4-8705fac9ff4b", "page": 1, "type": "paragraph", "text": "glycosylation site binding issues associated with egg adaptation"}
+{"id": "c6857378-85c7-462b-8c1d-4cc852f8a1b4", "page": 1, "type": "paragraph", "text": "[6] that have been shown to reduce vaccine effectiveness (VE)"}
+{"id": "7dca2364-bdee-4f12-8443-70aee655c87c", "page": 1, "type": "paragraph", "text": "against A(H3N2) strains."}
+{"id": "2ae6119e-987e-4065-a087-5dbc85bd04da", "page": 1, "type": "paragraph", "text": "https://doi.org/10.1016/j.vaccine.2023.06.056"}
+{"id": "131a49bb-f192-4fd2-adec-45a6fa661332", "page": 1, "type": "paragraph", "text": "0264-410X/\u0001 2023 Elsevier Ltd. All rights reserved."}
+{"id": "bbe1450d-f3c4-4fd7-aa2c-f9ab67bcd851", "page": 1, "type": "paragraph", "text": "Abbreviations: aOR, Adjusted odds ratios; Adj-IV, Adjuvanted in\ufb02uenza vaccine;"}
+{"id": "551d2c21-d745-4064-9140-232d6ff16bf9", "page": 1, "type": "paragraph", "text": "EMR, Electronic medical records; GBM, Generalized Boosted Regression Models;"}
+{"id": "62dcb333-21c8-44a1-ad4f-bfd2febadc85", "page": 1, "type": "paragraph", "text": "HD-IIV4, High dose quadrivalent in\ufb02uenza vaccine; PA-SIIS, Pennsylvania Statewide"}
+{"id": "60b537af-6c0d-40db-8932-2d5dd47d9983", "page": 1, "type": "paragraph", "text": "Immunization Information System; RCT, Randomized controlled trial; RIV4,"}
+{"id": "3eb06cfc-0fe7-4975-9665-0334bdba63e2", "page": 1, "type": "paragraph", "text": "Recombinant quadrivalent in\ufb02uenza vaccine; rVE, Relative vaccine effectiveness;"}
+{"id": "4dde85f8-fb4d-4908-9aa9-a0681551affe", "page": 1, "type": "paragraph", "text": "RT-PCR, Reverse transcription polymerase chain reaction; SD-IIV4, Standard dose"}
+{"id": "861b20de-3fe2-43c2-a5e8-09b619d43c27", "page": 1, "type": "paragraph", "text": "quadrivalent in\ufb02uenza vaccine; TWANG, Toolkit for Weighting and Analysis of"}
+{"id": "b9b72f93-de31-4ee8-bfaf-7f440335f6cf", "page": 1, "type": "paragraph", "text": "Nonequivalent Groups."}
+{"id": "26c39f25-3534-46a4-8e18-cdcd38dcba72", "page": 1, "type": "paragraph", "text": "\u21d1Corresponding author."}
+{"id": "f0aa57ff-f5d6-4806-9634-3b5937f3f6d2", "page": 1, "type": "paragraph", "text": "E-mail address: tnowalk@pitt.edu (M. Patricia Nowalk)."}
+{"id": "07dccf27-1827-49f5-85b6-94011ed3d231", "page": 1, "type": "paragraph", "text": "Vaccine 41 (2023) 5134\u20135140"}
+{"id": "9eb9d8e8-bb75-4c40-8913-de2f5e93efb2", "page": 1, "type": "paragraph", "text": "Contents lists available at ScienceDirect"}
+{"id": "0181bc07-c796-47e0-a2c2-ae70af262099", "page": 1, "type": "paragraph", "text": "Vaccine"}
+{"id": "6467b681-0ee6-476b-a079-ecb8fb7180a9", "page": 1, "type": "paragraph", "text": "journal homepage: www.elsevier.com/locate/vaccine"}
+{"id": "d242df27-62fd-410c-8e42-b68e6169ca8c", "page": 2, "type": "paragraph", "text": "Reasonably accurate VE and relative VE (rVE) estimates depend"}
+{"id": "0120b993-af32-4633-8363-2dae8c5c28d8", "page": 2, "type": "paragraph", "text": "upon having access to a suf\ufb01cient number of recipients of any"}
+{"id": "8ba36763-66bc-4ede-9d2d-e4ff10ec06a8", "page": 2, "type": "paragraph", "text": "given vaccine type. Research on high dose quadrivalent in\ufb02uenza"}
+{"id": "5e19bca9-0c67-4ac2-9adc-debbfedc765d", "page": 2, "type": "paragraph", "text": "vaccine (HD-IIV4) has reported rVE for HD-IIV4 compared with"}
+{"id": "13e0058e-4098-4790-91a7-e105b2108550", "page": 2, "type": "paragraph", "text": "standard dose quadrivalent in\ufb02uenza vaccine (SD-IIV4) of 24 %"}
+{"id": "6783c036-b5e6-4139-8c21-8d6079599801", "page": 2, "type": "paragraph", "text": "against laboratory-con\ufb01rmed in\ufb02uenza [7] and 27 % against in\ufb02u-"}
+{"id": "00453314-2021-4f1a-9b07-2cab77622afe", "page": 2, "type": "paragraph", "text": "enza hospitalization [8]. Several studies of cell-cultured in\ufb02uenza"}
+{"id": "87452a2e-2376-4442-8047-395a9ffd6d41", "page": 2, "type": "paragraph", "text": "vaccine were conducted prior to the 2019\u20132020 season (when all"}
+{"id": "8aa30371-d223-4f05-8e87-05c777a18afb", "page": 2, "type": "paragraph", "text": "four vaccine strains were cell-cultured) and have not shown signif-"}
+{"id": "64d62c9f-05a6-494d-99a2-71b7dff93346", "page": 2, "type": "paragraph", "text": "icant rVE against in\ufb02uenza illness compared with SD-IIV4 [9]. A"}
+{"id": "a1b1ffea-ebe9-40b7-8c4c-04bc2b424086", "page": 2, "type": "paragraph", "text": "large retrospective study of Medicare bene\ufb01ciaries (\u000165 years of"}
+{"id": "c85a3d64-1dab-4f06-8929-4a2806af9ae2", "page": 2, "type": "paragraph", "text": "age) in the 2019\u20132020 season demonstrated no signi\ufb01cant rVE of"}
+{"id": "b27262a5-3261-4ca4-970b-b8062ff8392a", "page": 2, "type": "paragraph", "text": "cell-cultured quadrivalent in\ufb02uenza vaccine (ccIIV4) compared"}
+{"id": "4fa66349-54e0-487c-a092-2f86bc08fa8a", "page": 2, "type": "paragraph", "text": "with SD-IIV4 against in\ufb02uenza-related hospital encounters [10]."}
+{"id": "9e9e99ee-f7d4-4608-b8e9-277785029007", "page": 2, "type": "paragraph", "text": "However, the study was limited by the fact that there were no"}
+{"id": "22884715-a4b9-4087-a03e-45af5d1b6931", "page": 2, "type": "paragraph", "text": "laboratory-con\ufb01rmed in\ufb02uenza outcomes. Thus, the full bene\ufb01t"}
+{"id": "f53be552-4290-4349-ad80-1f26e28c0725", "page": 2, "type": "paragraph", "text": "of cell-culture vaccine technology is still largely unknown."}
+{"id": "c0c86695-a606-4987-8054-08527f2d97bc", "page": 2, "type": "paragraph", "text": "Two large studies have explored rVE of recombinant quadriva-"}
+{"id": "0d06812f-19b4-4b85-a3a1-1c5ade992fe8", "page": 2, "type": "paragraph", "text": "lent in\ufb02uenza vaccine (RIV4). The Medicare bene\ufb01ciaries study"}
+{"id": "cc72add3-1736-4cb7-856c-9c3e12f932c0", "page": 2, "type": "paragraph", "text": "[10] using retrospective data as described above, reported signi\ufb01-"}
+{"id": "5656cb88-b275-4689-8ee8-075446e23494", "page": 2, "type": "paragraph", "text": "cant rVE of RIV4 vs. SD-IIV4) against in\ufb02uenza-related hospital"}
+{"id": "644ff648-efcd-4b81-a875-347787363ebd", "page": 2, "type": "paragraph", "text": "encounters. Secondly, a randomized controlled trial (RCT) found"}
+{"id": "166c0990-78e7-4f4d-8012-75cc3861f9f1", "page": 2, "type": "paragraph", "text": "signi\ufb01cant"}
+{"id": "20528d56-bb0b-4bb3-893f-84f3eb0e01ba", "page": 2, "type": "paragraph", "text": "rVE"}
+{"id": "37d6616d-d0ac-46fb-bc8b-54b238b6fa88", "page": 2, "type": "paragraph", "text": "of"}
+{"id": "8523cb99-811b-4dab-8cc2-271cb7f4b3a8", "page": 2, "type": "paragraph", "text": "RIV4"}
+{"id": "bf47dc76-368d-458d-b775-920b9bf3c756", "page": 2, "type": "paragraph", "text": "compared"}
+{"id": "8d61dfe0-d8da-444c-9c2f-d08aaca81183", "page": 2, "type": "paragraph", "text": "with"}
+{"id": "33acb00f-ab39-4aba-8ada-517bdc9f1ebd", "page": 2, "type": "paragraph", "text": "SD-IIV4"}
+{"id": "63826c8b-c95d-47e5-b6d3-56de493ff022", "page": 2, "type": "paragraph", "text": "among"}
+{"id": "637828c9-65e9-4599-88ae-fb1f596da51d", "page": 2, "type": "paragraph", "text": "adults \u000150 years old, but not for adults \u000165 years old [11]."}
+{"id": "f461da52-d5e1-41fc-8048-144afad4d851", "page": 2, "type": "paragraph", "text": "Given the higher cost of newer vaccines, and the high risk of"}
+{"id": "fcead0f8-6f9a-4429-b290-7a41c5c523f3", "page": 2, "type": "paragraph", "text": "in\ufb02uenza complications for certain groups, including the elderly"}
+{"id": "8dc9dfa0-53d6-439d-a195-f58b796ac853", "page": 2, "type": "paragraph", "text": "[12], there is interest in providing the most effective vaccine to"}
+{"id": "728f9ca4-070f-4245-9229-484b9210ec2f", "page": 2, "type": "paragraph", "text": "the largest number of patients to prevent in\ufb02uenza-related mor-"}
+{"id": "44324c7d-38a5-4c77-aaa0-9adcfbfc2ec9", "page": 2, "type": "paragraph", "text": "bidity and mortality. Additional rVE studies of new vaccine formu-"}
+{"id": "a79f687b-188d-4eb1-ac56-3ad0e05c1d07", "page": 2, "type": "paragraph", "text": "lations are needed to help determine vaccination best practices."}
+{"id": "0dbf64e1-94a4-4c3a-a66d-fa631eeb121e", "page": 2, "type": "paragraph", "text": "This study is a retrospective test-negative case-control study of"}
+{"id": "a43b1bb4-7610-446b-8fb1-f05b89a69e24", "page": 2, "type": "paragraph", "text": "in\ufb02uenza VE against hospitalization using data from electronic"}
+{"id": "f31f6c52-2581-4217-859c-ecc6b82be7e5", "page": 2, "type": "paragraph", "text": "medical records (EMR) of a single large health system to determine"}
+{"id": "13b4c8df-307d-4984-90fa-85154e738fb7", "page": 2, "type": "paragraph", "text": "the rVE of RIV4 among adults 18\u201364 and \u000165 years of age in the"}
+{"id": "5fe42ebd-559b-4994-83a5-2b1dde2e9e46", "page": 2, "type": "paragraph", "text": "2018\u20132019 and 2019\u20132020 seasons."}
+{"id": "6733ceb9-0f78-4901-a025-f414972c9014", "page": 2, "type": "paragraph", "text": "2. Methods"}
+{"id": "67cf7965-bd67-467a-a27c-4a1a3f08f4b8", "page": 2, "type": "paragraph", "text": "The"}
+{"id": "1a272d11-63cb-41e3-b633-5379c1699939", "page": 2, "type": "paragraph", "text": "University"}
+{"id": "92e7ca71-2d9b-4a84-b646-b49b94961c8d", "page": 2, "type": "paragraph", "text": "of"}
+{"id": "f5d1e603-c825-4667-b517-b9df4b30cc06", "page": 2, "type": "paragraph", "text": "Pittsburgh"}
+{"id": "4a64b8d8-e667-4562-a9a3-efb0d69a2239", "page": 2, "type": "paragraph", "text": "Institutional"}
+{"id": "51b74ec1-fdec-44d9-adb3-3e2f0058f927", "page": 2, "type": "paragraph", "text": "Review"}
+{"id": "4d80cb5f-213e-4d10-b0f0-784afd7bc8bc", "page": 2, "type": "paragraph", "text": "Board"}
+{"id": "87dd9fbe-87fe-4f4f-809c-d31b68235731", "page": 2, "type": "paragraph", "text": "approved this retrospective study using EMR databases. A test-"}
+{"id": "5b0cc5c0-a8f6-40d8-9c2d-2b318592d3c3", "page": 2, "type": "paragraph", "text": "negative case-control study estimates VE by comparing the odds"}
+{"id": "64fd1fb8-4b53-45dc-8724-6aff0f64cf38", "page": 2, "type": "paragraph", "text": "of vaccination among patients hospitalized with in\ufb02uenza like ill-"}
+{"id": "86113db8-7057-455d-801e-2d37cc17f358", "page": 2, "type": "paragraph", "text": "ness with con\ufb01rmed in\ufb02uenza to the odds of vaccination among"}
+{"id": "52c4bc58-56fa-4865-94b4-dcddc5b8f65d", "page": 2, "type": "paragraph", "text": "controls, i.e., patients hospitalized with in\ufb02uenza like illness who"}
+{"id": "c4ff5c6e-ef76-4081-ad99-cdbdcb317f3c", "page": 2, "type": "paragraph", "text": "tested negative for in\ufb02uenza."}
+{"id": "911cf9f8-0fd2-4fae-8a2a-632306842955", "page": 2, "type": "paragraph", "text": "2.1. Patients"}
+{"id": "64bb1a92-1895-452f-ba82-b019c5f4e677", "page": 2, "type": "paragraph", "text": "Patients were individuals 18 years and older as of August 1 each"}
+{"id": "68c30a4d-0fe0-4da4-a68a-64350804ec2e", "page": 2, "type": "paragraph", "text": "season who were hospitalized in one of nineteen UPMC hospitals"}
+{"id": "8d29371e-2d30-4796-a8bc-baf9b501dd1a", "page": 2, "type": "paragraph", "text": "in central and southwestern Pennsylvania and had a test for in\ufb02u-"}
+{"id": "dfcddd9b-14d0-472d-b74b-f78a20db090a", "page": 2, "type": "paragraph", "text": "enza at any time between 11/01/2018 and 04/30/2020. A Ther-"}
+{"id": "c234bdf5-bbb7-41d3-8647-9918fc61d009", "page": 2, "type": "paragraph", "text": "adoc\u0003 database (an infection control software) was used to"}
+{"id": "74c71cf2-409e-4fd2-b5f7-06082c8b5bc8", "page": 2, "type": "paragraph", "text": "identify those tested for in\ufb02uenza using reverse transcription poly-"}
+{"id": "d6ecf8cb-e5be-4774-b7c3-4c1462bb0317", "page": 2, "type": "paragraph", "text": "merase chain reaction (RT-PCR) assays performed in a centralized"}
+{"id": "d8b11a7a-8fb5-476c-9c7d-de9615c17495", "page": 2, "type": "paragraph", "text": "clinical lab for some hospitals and individual hospital labs for"}
+{"id": "d80add27-2e9c-49db-a351-999c81c48d1a", "page": 2, "type": "paragraph", "text": "others. In\ufb02uenza cases were those who tested positive for in\ufb02u-"}
+{"id": "524bd698-0820-45a3-9e81-21c5df302895", "page": 2, "type": "paragraph", "text": "enza and controls were those who tested negative for in\ufb02uenza,"}
+{"id": "ca2576f8-95fc-4c56-9f3d-44d4c2408da1", "page": 2, "type": "paragraph", "text": "regardless of any other identi\ufb01ed viral infection. Both the EMR"}
+{"id": "c99a7476-ebd3-4785-9806-23af2f6ba2d8", "page": 2, "type": "paragraph", "text": "and Pennsylvania Statewide Immunization Information System"}
+{"id": "730a94a0-2058-4620-9c76-b7a304b5b381", "page": 2, "type": "paragraph", "text": "(PA-SIIS) were queried for in\ufb02uenza vaccines given between"}
+{"id": "34dbe41e-a250-494b-95de-71fa7d4aba84", "page": 2, "type": "paragraph", "text": "August 1 and the date of illness/PCR testing. Exclusion criteria were"}
+{"id": "ee8d8d12-635b-4353-b0e7-aeebe39c7fb6", "page": 2, "type": "paragraph", "text": "testing within 2 weeks of vaccination, having 2 different types of"}
+{"id": "6486a984-2e96-4bd4-a8dd-eb3709106f8b", "page": 2, "type": "paragraph", "text": "in\ufb02uenza vaccine in a season, missing and unknown vaccination"}
+{"id": "7e4b6dbb-286f-4c70-a379-e79ffb437175", "page": 2, "type": "paragraph", "text": "information and having an immunocompromising condition."}
+{"id": "45586f56-1159-4447-8014-34a6e057a2bb", "page": 2, "type": "paragraph", "text": "2.2. Statistical methods"}
+{"id": "6f52ead2-5495-443a-a308-d45376fa4bd2", "page": 2, "type": "paragraph", "text": "For primary analysis, all adults \u000118 years were included, then"}
+{"id": "70c2df28-6b4d-4c57-a8fa-e7c1682de8b8", "page": 2, "type": "paragraph", "text": "for"}
+{"id": "13849205-d7ab-43a8-b227-07f527aa5961", "page": 2, "type": "paragraph", "text": "secondary"}
+{"id": "652c6164-1097-4730-b390-bcdabf440905", "page": 2, "type": "paragraph", "text": "analyses,"}
+{"id": "d45b2f36-eae1-402b-afaf-27a29745b774", "page": 2, "type": "paragraph", "text": "they"}
+{"id": "4f060e84-d976-4fc7-87fd-b05162c4a81f", "page": 2, "type": "paragraph", "text": "were"}
+{"id": "0a332878-1a35-45af-a296-fcc7d54c5359", "page": 2, "type": "paragraph", "text": "strati\ufb01ed"}
+{"id": "3b66e225-dadb-4a22-b390-fcf496383186", "page": 2, "type": "paragraph", "text": "into"}
+{"id": "36b6dcd8-03a0-4f43-85b5-e088aa734aed", "page": 2, "type": "paragraph", "text": "age"}
+{"id": "b543a9d6-68b6-4ac4-a6c1-16af48028c62", "page": 2, "type": "paragraph", "text": "groups \u000165 years, and 18\u201364 years. Sample size calculations deter-"}
+{"id": "abf4fce5-3db3-4c2f-b0d1-cd1d6cd846cc", "page": 2, "type": "paragraph", "text": "mined that we had 48 % power to detect an effect size of 9.5 %"}
+{"id": "564e2893-af89-4d2a-84ad-afdc4a214f38", "page": 2, "type": "paragraph", "text": "change from a baseline probability of 11.7 %. Post hoc sample size"}
+{"id": "d591f5c5-1e7e-42f8-af0a-1649c168ac3a", "page": 2, "type": "paragraph", "text": "calculations for age subgroup analyses resulted in 42 % and 20 %"}
+{"id": "8e76e94c-7690-431a-a77b-7ae9635922e5", "page": 2, "type": "paragraph", "text": "power for ages 18\u201364 years and \u000165 years with effect sizes of"}
+{"id": "3adad0e1-6941-4cf5-a6f5-fc78d06df657", "page": 2, "type": "paragraph", "text": "8.9 %, and 8.7 %, with the detectable difference of 3 % and 2.1 %"}
+{"id": "09a8fb8a-141e-401e-8dde-8609e017fd5b", "page": 2, "type": "paragraph", "text": "respectively, thus these analyses were likely to be underpowered"}
+{"id": "271fdd95-b11a-4232-b477-8404b457f948", "page": 2, "type": "paragraph", "text": "to detect a signi\ufb01cant rVE for RIV4 over SD-IIV4. Moreover, rVE"}
+{"id": "4e6f916f-5a4a-41da-9d14-5035021a1d22", "page": 2, "type": "paragraph", "text": "estimates by vaccine strain were also precluded by insuf\ufb01cient"}
+{"id": "2c41000f-14c1-4458-bffe-52cc89a185e6", "page": 2, "type": "paragraph", "text": "sample sizes. Descriptions of variables for each group were sum-"}
+{"id": "aa7531eb-2c44-4b0d-8427-9333ce086b0c", "page": 2, "type": "paragraph", "text": "marized as mean and standard deviation for age and frequencies"}
+{"id": "24b69838-6789-43a2-ac28-3f7a6b425ea3", "page": 2, "type": "paragraph", "text": "and percentages for categorical data. Baseline characteristics"}
+{"id": "2dbc4e31-9b08-4a77-9a80-06b56e6a1bf7", "page": 2, "type": "paragraph", "text": "between the vaccination groups were compared using chi-square"}
+{"id": "50150bfa-911a-4ec0-bde8-3f92f0e118ad", "page": 2, "type": "paragraph", "text": "or the Fisher\u2019s exact tests for categorical variables and ages were"}
+{"id": "b9fc67e8-6194-48ed-88c1-2f5da4ade291", "page": 2, "type": "paragraph", "text": "compared by using t-test."}
+{"id": "7cbaff5e-09d4-4da1-888f-b4a4f0d94d35", "page": 2, "type": "paragraph", "text": "Using adjusted odds ratios (aORs) obtained from multivariable"}
+{"id": "aa4f8943-7abc-43bf-b68c-ff0088393fe9", "page": 2, "type": "paragraph", "text": "logistic regression models, adjusted VE estimates were calculated"}
+{"id": "302e204b-44b2-468e-8e29-46564f970693", "page": 2, "type": "paragraph", "text": "as (1-aOR) X 100. The dependent variable of interest was in\ufb02uenza"}
+{"id": "295e8575-06f9-415f-9c7b-b15f899b9b71", "page": 2, "type": "paragraph", "text": "status. The primary exposure of interest was vaccine type (recom-"}
+{"id": "50c5f2a8-330f-43bd-b3da-acb8110253e2", "page": 2, "type": "paragraph", "text": "binant, SD-IIV4s and in some analyses, enhanced vaccines such as"}
+{"id": "2b88ccac-34c9-412a-813b-a16ada69906d", "page": 2, "type": "paragraph", "text": "HD-IIV4 and adjuvanted in\ufb02uenza vaccine (Adj-IV)). The CDC has"}
+{"id": "8485e33e-67e1-4cd3-af01-a3ac43172fcb", "page": 2, "type": "paragraph", "text": "recommended the use of \u2018\u2018enhanced vaccines\u201d for adults ages 65"}
+{"id": "b121a312-1568-4d53-a1d0-eb46bbf9fd5c", "page": 2, "type": "paragraph", "text": "and older beginning in 2022 [13]. In\ufb02uenza vaccines were identi-"}
+{"id": "509a2b7a-de39-4eb4-a9a0-560f5959d69c", "page": 2, "type": "paragraph", "text": "\ufb01ed through the EMR; SD-IIV4 included A\ufb02uria, Fluarix, FluLaval,"}
+{"id": "42e6459c-2870-4a65-81b3-b635eeb8fbb6", "page": 2, "type": "paragraph", "text": "Standard Dose Fluzone and FlucelVax. HD-IIV4 was High Dose Flu-"}
+{"id": "716246db-a0da-4886-9069-737d302cf2b7", "page": 2, "type": "paragraph", "text": "zone, RIV4 was Flublok and Adj-IV was FluAd. Other independent"}
+{"id": "2be74f33-f11d-44f4-b235-e17bb0f30ee0", "page": 2, "type": "paragraph", "text": "variables were age, in\ufb02uenza season (2018\u20132019 and 2019\u2013"}
+{"id": "32cea13d-3236-4729-8a8e-827cbe8db61e", "page": 2, "type": "paragraph", "text": "2020), sex, race and presence of one or more high-risk conditions."}
+{"id": "a92040e2-012b-4eb3-b72f-0d8fc6766df4", "page": 2, "type": "paragraph", "text": "Adjusted VE was calculated for RIV4, SD-IIV4 and combined RIV4,"}
+{"id": "1ee6a3f6-28df-4a8b-b759-91e6f1e6b888", "page": 2, "type": "paragraph", "text": "high dose, egg-based and adjuvanted vaccines. Relative VE (rVE)"}
+{"id": "2a0bbc4b-dd91-4c0d-8ddf-a857dc10fb4f", "page": 2, "type": "paragraph", "text": "was calculated as 1 minus the ratio of adjusted VE times 100 %."}
+{"id": "4291c313-1a8c-4311-98f2-2330b27b1a89", "page": 2, "type": "paragraph", "text": "We conducted propensity adjustment analyses to reduce the"}
+{"id": "f68b8eb6-8afa-4a27-9310-c66b873eda5d", "page": 2, "type": "paragraph", "text": "potential impact of selection effects (i.e., confounding) on baseline"}
+{"id": "e5ea76e3-f17a-4f3f-8bdb-a09498b5482b", "page": 2, "type": "paragraph", "text": "characteristics. We estimated the propensity scores using the Gen-"}
+{"id": "6f74f223-6cca-4467-acfe-751e311097bf", "page": 2, "type": "paragraph", "text": "eralized Boosted Regression Models (GBM) approach, which is a"}
+{"id": "d693e919-4519-4407-92df-bfaaf46387df", "page": 2, "type": "paragraph", "text": "nonparametric model that allows for nonlinear relationships with"}
+{"id": "a1151cf0-b9d1-48fd-a692-27908366239b", "page": 2, "type": "paragraph", "text": "a maximum number of iterations set to the default (i.e.,10,000)"}
+{"id": "d52435a4-4477-47c6-ac21-23a54bac0dec", "page": 2, "type": "paragraph", "text": "that minimized the balance statistics of interest. We used the bal-"}
+{"id": "9013c62f-b845-45b6-a155-9d84ddef1696", "page": 2, "type": "paragraph", "text": "ance statistic based on absolute standardized bias (also referred as"}
+{"id": "da254543-1d3f-40b4-b242-c085bab27ecc", "page": 2, "type": "paragraph", "text": "the effect size or absolute standardized mean difference) and sum-"}
+{"id": "6f96499e-7266-4cbc-91aa-a5923134700f", "page": 2, "type": "paragraph", "text": "marized across variables. We allow a maximum of three splits for"}
+{"id": "349625c4-19fe-437e-8229-553ad6324ec4", "page": 2, "type": "paragraph", "text": "each tree in the model, allowing for three-way interactions among"}
+{"id": "deb35422-2bb2-4b14-811d-23d098bd3802", "page": 2, "type": "paragraph", "text": "all covariates to be considered. The shrinkage parameter was set to"}
+{"id": "aa297dee-3562-4e01-a934-99058f05a90d", "page": 2, "type": "paragraph", "text": "0.0005 to ensure a smooth \ufb01t."}
+{"id": "fb5a61a2-6e5c-497e-9c5b-c46151675f41", "page": 2, "type": "paragraph", "text": "We also checked the balance of all the variables included in the"}
+{"id": "a6a22f0b-5c25-4a61-b2b8-f2965a3c252b", "page": 2, "type": "paragraph", "text": "model to assess the quality of the propensity score and evaluate"}
+{"id": "4f9f20d2-9783-47c9-9a03-d07008a23a98", "page": 2, "type": "paragraph", "text": "common support, using a value under 0.25 as indicative of good"}
+{"id": "908b41fe-1003-46e2-bcba-8946b686cb60", "page": 2, "type": "paragraph", "text": "balance. We also used the balance plots to compare the propensity"}
+{"id": "9612011f-5f06-450e-ade0-63e36661db7d", "page": 2, "type": "paragraph", "text": "score distributions and to evaluate the common support."}
+{"id": "ca65dc26-4fe7-4966-afd0-2c4a62c63e9c", "page": 2, "type": "paragraph", "text": "Using the propensity score, we calculated the inverse probabil-"}
+{"id": "ffb057d5-f4b1-4f6d-95d3-b2bf21131916", "page": 2, "type": "paragraph", "text": "ity of receiving SD-IIV4 weighting. In this approach, for an individ-"}
+{"id": "9a1c4a89-d38f-460d-94d3-244834126513", "page": 2, "type": "paragraph", "text": "ual receiving SD-IIV4 t, the weight equals 1=pt\u00f0x\u00de , where pt\u00f0x\u00de is"}
+{"id": "058fa7da-7572-4daf-9730-0c0fe059e95e", "page": 2, "type": "paragraph", "text": "the propensity score (probability that an individual with character-"}
+{"id": "27c3283e-6140-468d-8a86-bc7cee8c94e3", "page": 2, "type": "paragraph", "text": "istics x receives SD-IIV4 t). A propensity score weighted logistic"}
+{"id": "5c5efa8c-e61f-425e-b82e-f49953fe5999", "page": 2, "type": "paragraph", "text": "regression with in\ufb02uenza status as the dependent variable was \ufb01t-"}
+{"id": "5a1a5b74-7185-4d74-8e6f-50b5c0273b77", "page": 2, "type": "paragraph", "text": "ted to estimate the effect of vaccine (SD-IIV4 vs. RIV4) on outcome"}
+{"id": "141870f9-cfa6-4c9a-af04-bd5bfcb65966", "page": 2, "type": "paragraph", "text": "and also used inverse probability weighting to estimate VE and its"}
+{"id": "521a095e-1dd2-4872-a568-e4cba05f198e", "page": 2, "type": "paragraph", "text": "95 % con\ufb01dence intervals. We added covariates like high-risk con-"}
+{"id": "de158dfd-21e4-420c-935f-fc8ef7acc741", "page": 2, "type": "paragraph", "text": "ditions and in\ufb02uenza seasons to increase the probability of achiev-"}
+{"id": "62a9db8f-1c97-4c12-8171-8f616ea222c6", "page": 2, "type": "paragraph", "text": "ing a good balance for the propensity score modeling. We used \ufb01ve"}
+{"id": "a6e65dbe-beda-4c56-bafa-7da39cb63fa4", "page": 2, "type": "paragraph", "text": "plot methods to determine that there were no extreme values in"}
+{"id": "f65b0991-44ae-4cdc-94a1-f0051a727b9a", "page": 2, "type": "paragraph", "text": "the weights (i.e., checked the balance): 1. optimization using the"}
+{"id": "387e9dfd-deae-430b-9571-54efab4e9703", "page": 2, "type": "paragraph", "text": "R.K. Zimmerman, M. Patricia Nowalk, K. Dauer et al."}
+{"id": "18b578f8-ff19-4cce-95a0-5585bcf6ab13", "page": 2, "type": "paragraph", "text": "Vaccine 41 (2023) 5134\u20135140"}
+{"id": "74aee739-5016-4f27-a036-8c56d3c3a2cc", "page": 2, "type": "paragraph", "text": "5135"}
+{"id": "fef1cc50-256d-466d-83a2-697bf4ba603e", "page": 3, "type": "paragraph", "text": "estimated mean average treatment effect; 2. box plot of the"}
+{"id": "d06d1b38-8215-4d7c-a8a4-b32e7f2c4b36", "page": 3, "type": "paragraph", "text": "propensity of the vaccine; 3. the standardized effect size of the"}
+{"id": "413a84e9-46d1-4526-93db-d0116f21f4b7", "page": 3, "type": "paragraph", "text": "unweighted and weighted values; 4. t-test p-values of the group"}
+{"id": "a064a9e5-a3af-4494-b232-59573fab98cf", "page": 3, "type": "paragraph", "text": "mean of the covariate; and 5. Kolmogorov-Smirnov (K-S) p-"}
+{"id": "07198a79-df80-42b7-bfe6-6abe4c8cad66", "page": 3, "type": "paragraph", "text": "values of the covariates. In all, the weights were stable and bal-"}
+{"id": "407144ea-8b4f-4d76-ac76-3200c778af0f", "page": 3, "type": "paragraph", "text": "anced. Because all the covariates were balanced, we \ufb01t the model"}
+{"id": "d13a8fe3-34ed-48fb-9cf0-6b612a476578", "page": 3, "type": "paragraph", "text": "with propensity score as an adjustment factor and the inverse"}
+{"id": "35d1ec21-aa0c-455f-85bf-41e832299dc1", "page": 3, "type": "paragraph", "text": "probability weight to estimate the rVE."}
+{"id": "16c61262-616e-4567-959c-f180f550cb9e", "page": 3, "type": "paragraph", "text": "We conducted secondary, sensitivity analyses restricted to age"}
+{"id": "577f3e2c-2d92-4361-84f0-51e93501c398", "page": 3, "type": "paragraph", "text": "groups 18\u201364 years and \u000165 years comparing recombinant and"}
+{"id": "e65195d3-182e-4e05-8797-7e858ba64d9b", "page": 3, "type": "paragraph", "text": "SD-IIV4, and also for those \u000165 years, comparing recombinant,"}
+{"id": "1f39b634-20ed-4554-8588-fdd0a88b372d", "page": 3, "type": "paragraph", "text": "high-dose egg-based and adjuvanted vaccines combined and SD-"}
+{"id": "735ab4a3-e7ac-49a6-b27d-d47aa70f00f2", "page": 3, "type": "paragraph", "text": "IIV4. We conducted propensity score adjustments similar to those"}
+{"id": "9115c94f-84ff-4db4-ad03-b25436b83629", "page": 3, "type": "paragraph", "text": "used in the primary analyses. All analyses were two-sided and the"}
+{"id": "a1698af7-c8b6-42a1-a0e3-8fc3d3ca0049", "page": 3, "type": "paragraph", "text": "alpha level was set to 0.05. All analyses were conducted using SAS,"}
+{"id": "4a38ace7-0f5f-49ca-8b71-38bb0ffc1b99", "page": 3, "type": "paragraph", "text": "version 9.4 statistical software (SAS Institute Inc., Cary, NC). We"}
+{"id": "d418d9bb-5ef6-48d7-99cb-99ad65d2bbee", "page": 3, "type": "paragraph", "text": "used the Toolkit for Weighting and Analysis of Nonequivalent"}
+{"id": "a849b61f-e450-4ac9-a335-1684278e512c", "page": 3, "type": "paragraph", "text": "Groups (TWANG) software package and the SAS Macros (available"}
+{"id": "ea88229d-37a2-48bb-9a84-90641ea06bd5", "page": 3, "type": "paragraph", "text": "at https://www.rand.org/statistics/twang/downloads.html) to cal-"}
+{"id": "41e429e4-303e-4746-af6a-25db9b893aa5", "page": 3, "type": "paragraph", "text": "culate the propensity scores."}
+{"id": "5551b2ea-12df-416d-9e34-7a8188cafe05", "page": 3, "type": "paragraph", "text": "3. Results"}
+{"id": "b7c9f870-f7b3-4c54-85cf-579829bba27b", "page": 3, "type": "paragraph", "text": "The total number of in\ufb02uenza test results among inpatients was"}
+{"id": "8c726905-83d3-4f84-9ca1-0a4951e2862a", "page": 3, "type": "paragraph", "text": "18,467 of which 530 were excluded because of missing vaccination"}
+{"id": "3869a55a-e169-4526-af15-4d12d08fcd4f", "page": 3, "type": "paragraph", "text": "information or vaccination < 14 days before illness, and 3,264 were"}
+{"id": "ed83036f-1faa-495d-bb30-03aa8ff73274", "page": 3, "type": "paragraph", "text": "excluded from the primary analyses because patients were"}
+{"id": "f1ec59b7-3412-49e9-a3d8-763d233aff66", "page": 3, "type": "paragraph", "text": "immunocompromised or received enhanced vaccines other than"}
+{"id": "92599ac8-46d3-4d39-b1c6-061ceb07e15a", "page": 3, "type": "paragraph", "text": "RIV4 (n = 613), leaving 14,590 for the primary analysis (Fig. 1)."}
+{"id": "a1cffdf0-c3ec-4f03-8cdf-8463c00e4d5d", "page": 3, "type": "paragraph", "text": "Of these, 3,338 were vaccinated with RIV4 and 976 were vacci-"}
+{"id": "4ccba827-f06c-47c7-bcb2-68fb389a06f2", "page": 3, "type": "paragraph", "text": "nated with SD-IIV4, with the balance of 10,276 being unvaccinated."}
+{"id": "d7822a38-c041-483e-960f-c11957ce544f", "page": 3, "type": "paragraph", "text": "For the secondary analyses, the analyzable cohort included the 613"}
+{"id": "fd079d8d-8e11-428b-9c75-90bf21328a9f", "page": 3, "type": "paragraph", "text": "HD-IIV4 and Adj-IV recipients bringing the total analyzable sample"}
+{"id": "c5311aba-0103-4d60-880e-dcf09301633e", "page": 3, "type": "paragraph", "text": "to 15,203 (Fig. 2). The in\ufb02uenza positivity rate was 12.4 %"}
+{"id": "c6f80d03-6414-472a-98ba-613189871ff6", "page": 3, "type": "paragraph", "text": "(1,803/14,590) overall, 14.4 % among younger adults 18\u201364 years"}
+{"id": "0a0082f2-c61d-4558-bd45-4be4f8497984", "page": 3, "type": "paragraph", "text": "and 11.1 % (922/8306) among those \u000165 years, with the addition"}
+{"id": "01bc0062-dec3-45f5-a57b-fbc68cf30b45", "page": 3, "type": "paragraph", "text": "of 613 patients who received enhanced vaccines that were not"}
+{"id": "02b181fe-77c4-45e4-be1d-e198b671cb40", "page": 3, "type": "paragraph", "text": "included in the primary analysis."}
+{"id": "acf34a91-6138-4b90-8b3f-9635d5425b7f", "page": 3, "type": "paragraph", "text": "Demographic characteristics of the population for the primary"}
+{"id": "d190d20e-bb15-4dbb-82bd-ef3ab24ff0e2", "page": 3, "type": "paragraph", "text": "analyses are shown in Table 1; most participants were white"}
+{"id": "f99d46c8-68b4-4c0d-b454-4083552d20ac", "page": 3, "type": "paragraph", "text": "(80 %), just over half were female (54 %) and age 65 years or older"}
+{"id": "fc2aad19-9676-47d8-bc51-ef83d12435ba", "page": 3, "type": "paragraph", "text": "(53 %), and most (70 %) had a high-risk condition. Patients who"}
+{"id": "44f60295-65ca-4e4c-87e7-5c7620c57683", "page": 3, "type": "paragraph", "text": "received RIV4 were signi\ufb01cantly less often white (P < 0.001) and"}
+{"id": "7a0b9a28-0895-4041-8cf9-65c5888f6540", "page": 3, "type": "paragraph", "text": "age 65 years or older (P < 0.001), and had more high-risk condi-"}
+{"id": "a8b7055a-2e89-4087-a520-86aa35c41e16", "page": 3, "type": "paragraph", "text": "tions (P < 0.001) than those who received SD-IIV4."}
+{"id": "29b427f5-5f59-48f2-8090-23d9291445d7", "page": 3, "type": "paragraph", "text": "Table 2 shows adjusted VE for both RIV4 and SD-IIV4s and rVE"}
+{"id": "b3c5f0df-c908-43b8-a7d4-9ec19ddf60d3", "page": 3, "type": "paragraph", "text": "of RIV4 compared with SD-IIV4s. VE of RIV4 was signi\ufb01cant against"}
+{"id": "ad448cd3-7fb8-4814-bbf4-853ed63c42aa", "page": 3, "type": "paragraph", "text": "in\ufb02uenza hospitalizations overall (36 %; 95 % CI = 27, 45) and for"}
+{"id": "d141d97a-d938-4481-b861-14a7f73a153b", "page": 3, "type": "paragraph", "text": "population subgroups based on sex, age and risk conditions. VE"}
+{"id": "584b26ee-439d-4380-94c9-0804d0b5600a", "page": 3, "type": "paragraph", "text": "of SD-IIV4 was signi\ufb01cant overall (24 %; 95 % CI = 6, 38) and for"}
+{"id": "a74b428c-17ef-4336-a15b-faef030d795f", "page": 3, "type": "paragraph", "text": "males and younger adults, but not for other subgroups. Overall"}
+{"id": "f5a27295-7d67-4fa8-8574-365caf17fb4f", "page": 3, "type": "paragraph", "text": "rVE for RIV4 vs SD-IIV4 against in\ufb02uenza hospitalization was sig-"}
+{"id": "aaae42ce-2356-487e-b72f-e11cabe47862", "page": 3, "type": "paragraph", "text": "ni\ufb01cant when adjusted for propensity scores with inverse probabil-"}
+{"id": "f75ae642-6b2a-48c1-88f4-7c00360251cd", "page": 3, "type": "paragraph", "text": "ity weights (rVE = 31%; 95 % CI = 11, 46). Subgroup analyses by age"}
+{"id": "b94cd051-b2fc-445c-8ee7-5c1a07a90508", "page": 3, "type": "paragraph", "text": "and risk group identi\ufb01ed signi\ufb01cant rVE for recombinant in\ufb02uenza"}
+{"id": "58f5e34d-1db7-4b32-b88f-7083e042f037", "page": 3, "type": "paragraph", "text": "vaccine among females (rVE = 37%; 95 % CI = 13, 54), younger"}
+{"id": "239984ba-f584-4610-8adc-b9df1d5fa444", "page": 3, "type": "paragraph", "text": "adults 18\u201364 years old (rVE = 28%; 95 % CI = 3, 46) and for those"}
+{"id": "18b8d57f-9089-493f-9516-f905cc12e09e", "page": 3, "type": "paragraph", "text": "without high-risk conditions (rVE = 60%; 95 % CI = 29, 78)."}
+{"id": "b1ac48a8-3dab-4d65-a50c-497f3d1dd35c", "page": 3, "type": "paragraph", "text": "In secondary analyses, the participants, including those who"}
+{"id": "c596f4f8-08c8-4ba7-befa-c9cd03a2e504", "page": 3, "type": "paragraph", "text": "received HD-IIV4 and Adj-IV, were then divided in two age groups"}
+{"id": "c932c7fc-c58b-4edc-ab15-42ae20b48d51", "page": 3, "type": "paragraph", "text": "(18\u201364 and \u000165 years) to calculate rVE. Characteristics of these"}
+{"id": "0fa55b92-7550-434b-8116-72ace8402c87", "page": 3, "type": "paragraph", "text": "groups by vaccine type are shown in Table 3. Among younger"}
+{"id": "a445dca6-6dd3-427b-9347-1710ddca2f54", "page": 3, "type": "paragraph", "text": "adults, receipt of RIV4 was signi\ufb01cantly associated with non-"}
+{"id": "24cec77f-135b-4628-bc86-d153e99f17da", "page": 3, "type": "paragraph", "text": "white race (83.7 % RIV4 vs. 71.8 % SD-IIV4; P < 0.001), fewer cases"}
+{"id": "ce1110a5-742c-4978-9b16-6447ee684608", "page": 3, "type": "paragraph", "text": "of in\ufb02uenza (9.2 % RIV4 vs. 11.9 % SD-IIV4; P < 0.041) and having a"}
+{"id": "704c8c09-a5e7-444f-bb09-417432138bcd", "page": 3, "type": "paragraph", "text": "high-risk condition (83.2 % RIV4 vs. 66.8 % SD-IIV4; P < 0.001)."}
+{"id": "26ea04cd-0aff-4750-bb10-52eb97d1ff31", "page": 3, "type": "paragraph", "text": "Among older adults, receipt of RIV4 was signi\ufb01cantly associated"}
+{"id": "4426e22a-54f1-4cbd-a592-d356a53edab9", "page": 3, "type": "paragraph", "text": "with having a high-risk condition (91.1 % RIV4 vs. 78.4 % SD-IIV4"}
+{"id": "89decf18-2957-4de2-bf83-37af7f8e045b", "page": 3, "type": "paragraph", "text": "P < 0.001). In a second scenario older adults receiving SD-IIV4 were"}
+{"id": "1b47a20b-91f7-4c72-a069-5d80201ffbcf", "page": 3, "type": "paragraph", "text": "compared with those receiving RIV4, HD-IIV4, or Adj-IV , because"}
+{"id": "f29da376-43c3-4f14-89bb-cdf8bee56993", "page": 3, "type": "paragraph", "text": "these latter two \u2018\u2018enhanced\u201d vaccines are now recommended for"}
+{"id": "709d810b-8d76-4884-99a7-3589b1128e7f", "page": 3, "type": "paragraph", "text": "adults \u000165 years. Again, having a high-risk condition was associ-"}
+{"id": "dcda4106-5553-4fbd-a08e-c15f8cf203de", "page": 3, "type": "paragraph", "text": "ated with receipt of one of these vaccines (87.5 % combined vs."}
+{"id": "3f18d956-beaa-43bf-bd3a-ee26e3b30b54", "page": 3, "type": "paragraph", "text": "78.4 % SD-IIV4; P < 0.001)."}
+{"id": "0417c97a-c57c-4f7b-986e-e558bf073548", "page": 3, "type": "paragraph", "text": "Adjusted VEs for RIV4 for younger adults were signi\ufb01cant across"}
+{"id": "ac060978-f3b1-4eaf-b46f-dd2a2fccce8f", "page": 3, "type": "paragraph", "text": "all subgroups, whereas, VE for SD-IIV4 was signi\ufb01cant for males"}
+{"id": "f46cd637-f942-475c-9b85-a1394dbb23fe", "page": 3, "type": "paragraph", "text": "only. Among older adults, VE of RIV4 was signi\ufb01cant for females"}
+{"id": "3ed9e30b-846b-4a40-8343-a8981632510d", "page": 3, "type": "paragraph", "text": "(47 %; 95 % CI = 30, 60) but not males (\u00032 %; 95 % CI = \u201333, 21)"}
+{"id": "dc4b8732-42e3-4063-8b8b-925df3fed586", "page": 3, "type": "paragraph", "text": "or for those with and without high-risk conditions. VEs for"}
+{"id": "d668594f-425c-4b6e-9ccd-a37dda675f7e", "page": 3, "type": "paragraph", "text": "those \u000165 years old receiving RIV4, HD-IV4 or Adj-IV showed sim-"}
+{"id": "24bdc9b6-4ce0-40ac-8b35-5172fb04e64c", "page": 3, "type": "paragraph", "text": "ilar patterns of signi\ufb01cance across subgroups (overall VE = 24 %;"}
+{"id": "e35cdb45-0a6f-47d4-bcef-5bc4c51aba07", "page": 3, "type": "paragraph", "text": "95 % CI = 11, 36; females VE = 38 %; 95 % CI = 22, 51); high risk"}
+{"id": "240fdd0a-f14a-42fd-a685-555fc80f28cd", "page": 3, "type": "paragraph", "text": "Fig. 1. Flow chart for primary analyses. The primary analyses included only participants who received recombinant quadrivalent in\ufb02uenza vaccine (RIV4), standard dose"}
+{"id": "06793c8e-dc98-4b5b-904b-b7e9cc8f3158", "page": 3, "type": "paragraph", "text": "quadrivalent in\ufb02uenza vaccine (SD-IIV4) and the unvaccinated, who were not otherwise excluded."}
+{"id": "71d9e607-8519-4d31-89f9-db89260d03dd", "page": 3, "type": "paragraph", "text": "R.K. Zimmerman, M. Patricia Nowalk, K. Dauer et al."}
+{"id": "f0d163eb-e1be-40fa-bc6c-8ab745070cd1", "page": 3, "type": "paragraph", "text": "Vaccine 41 (2023) 5134\u20135140"}
+{"id": "2397b910-ce22-4ae9-835f-b9e2cb911342", "page": 3, "type": "paragraph", "text": "5136"}
+{"id": "3420f32b-3dc2-4b7d-bcf3-db00abd6e76c", "page": 4, "type": "paragraph", "text": "conditions VE = 22 %; 95 % CI = 6, 34; no high-risk condition"}
+{"id": "4c074f22-2bac-426e-8dc2-a017d5b7c91a", "page": 4, "type": "paragraph", "text": "VE = 38 %; 95 % CI = 3, 61). VE of standard dose IIV4 was not signif-"}
+{"id": "9ae31367-a6b6-4e69-a32c-a83253011726", "page": 4, "type": "paragraph", "text": "icant for any group \u000165 years old (Table 4)."}
+{"id": "09e96891-0b11-4439-ba7e-4d559495e2b5", "page": 4, "type": "paragraph", "text": "Table 5 shows the rVE in three scenarios: 1) for 18\u201364-year-old"}
+{"id": "ad5e8d8e-bbb4-4f72-986d-f3c34ce3cde2", "page": 4, "type": "paragraph", "text": "adults, RIV4 vs. SD-IIV4; and for \u000165-year-old adults: 2) RIV4 vs."}
+{"id": "f05562f3-35ce-4cd9-b551-6e0762d2fe72", "page": 4, "type": "paragraph", "text": "SD-IIV4; and 3) RIV4 + HD-IIV4 +Adj-IV vs. SD-IIV4. Among"}
+{"id": "5222892f-d2da-4f68-8171-c51eea692f59", "page": 4, "type": "paragraph", "text": "younger adults, overall rVE of RIV4 was signi\ufb01cant (rVE = 29 %;"}
+{"id": "1e51b347-cfc9-4394-8830-3d156a89f642", "page": 4, "type": "paragraph", "text": "95 % CI = 4, 47). Subgroup analyses identi\ufb01ed signi\ufb01cant rVE for"}
+{"id": "e3025c18-57ce-4534-bf50-a69c4a604686", "page": 4, "type": "paragraph", "text": "RIV4 among males (rVE = 43 %; 95 % CI = 6, 65), and for those with-"}
+{"id": "fe02a38c-a6dc-47de-b6a9-d336531423da", "page": 4, "type": "paragraph", "text": "out high-risk conditions (rVE = 51 %; 95 % CI = 7, 74). Among older"}
+{"id": "424b6fd7-b6c9-45b2-9082-3bdce46f4e14", "page": 4, "type": "paragraph", "text": "adults, neither rVE for RIV4 nor rVE for RIV4 + HDIV4 +Adj-IV was"}
+{"id": "c039d6e7-5212-4161-92da-52f84d989e9d", "page": 4, "type": "paragraph", "text": "signi\ufb01cant overall or for any subgroup."}
+{"id": "96a66e43-97b3-46aa-83db-7be62eb94eed", "page": 4, "type": "paragraph", "text": "4. Discussion"}
+{"id": "fa701b51-9479-4395-b512-185142a63c36", "page": 4, "type": "paragraph", "text": "Among over 14,000 mostly white, and mostly high-risk adult"}
+{"id": "2b6744a1-26a5-4f61-8c3b-210da04fa9dc", "page": 4, "type": "paragraph", "text": "patients hospitalized for an acute respiratory infection in 2018\u2013"}
+{"id": "1d25233a-cbda-4f82-87b6-b310f9abb500", "page": 4, "type": "paragraph", "text": "2019 and 2019\u20132020, 12 % were diagnosed with in\ufb02uenza. Com-"}
+{"id": "ca61f840-ce72-4716-83b9-3afb4e557524", "page": 4, "type": "paragraph", "text": "pared with standard dose in\ufb02uenza vaccine recipients, recipients"}
+{"id": "26edee9b-ce63-4af4-8d17-3025826aeee0", "page": 4, "type": "paragraph", "text": "of so-called \u2018\u2018enhanced\u201d vaccines such as RIV4, Adj-IV and HD-"}
+{"id": "79255d32-d0d8-4738-b748-9e81479eb196", "page": 4, "type": "paragraph", "text": "IIV4 were more often non-white, older, and with underlying med-"}
+{"id": "ef786c5c-4cb7-4be3-8826-3eb90e81ad4b", "page": 4, "type": "paragraph", "text": "ical"}
+{"id": "254a17d8-6c5e-4d3c-bd44-a9d3f3bae3be", "page": 4, "type": "paragraph", "text": "conditions,"}
+{"id": "738ad346-8e72-4d28-bd7d-c22044e0f948", "page": 4, "type": "paragraph", "text": "placing"}
+{"id": "7d180284-fac8-4492-809f-f881e7cea47a", "page": 4, "type": "paragraph", "text": "them"}
+{"id": "f766ab7d-256c-4795-885e-368e163a8411", "page": 4, "type": "paragraph", "text": "at"}
+{"id": "1588e014-ecf1-403a-966b-bc365560c936", "page": 4, "type": "paragraph", "text": "high"}
+{"id": "209c37f0-2386-45b4-94af-1e0377fa2848", "page": 4, "type": "paragraph", "text": "risk"}
+{"id": "fb6c0a3a-cab3-4b3d-9943-c24cb3db9fa8", "page": 4, "type": "paragraph", "text": "for"}
+{"id": "f19bdab5-ee36-48dd-92ba-2a2047f4d540", "page": 4, "type": "paragraph", "text": "in\ufb02uenza"}
+{"id": "add7f8b7-e0b0-4b8d-8f80-4cb2c1c06588", "page": 4, "type": "paragraph", "text": "complications."}
+{"id": "3d147046-ac14-40e8-8fd1-09121a13395e", "page": 4, "type": "paragraph", "text": "Among all adults hospitalized for acute respiratory infections,"}
+{"id": "ec2367a2-ec4e-4ea9-9c9a-14bd53210c96", "page": 4, "type": "paragraph", "text": "both RIV4 and SD-IIV4 were signi\ufb01cantly effective overall against"}
+{"id": "542003dd-ddda-418c-a25c-3610bda19212", "page": 4, "type": "paragraph", "text": "in\ufb02uenza hospitalizations, but only RIV4 was effective for all sub-"}
+{"id": "d10b27f1-4173-45e9-bd01-d9d11d4b28f4", "page": 4, "type": "paragraph", "text": "groups tested in this analysis. The differences in VE of RIV4 and"}
+{"id": "27ae9cb8-9514-4f88-bc4c-7ee4c0eaad75", "page": 4, "type": "paragraph", "text": "SD-IIV4 were re\ufb02ected in overall signi\ufb01cant rVE for RIV4. However,"}
+{"id": "de494907-cadf-47e8-9de0-4deeb414d9d9", "page": 4, "type": "paragraph", "text": "within the overall population, rVE of RIV4 was signi\ufb01cant for"}
+{"id": "78a4b0e8-1ef5-4a9b-83ea-fc7b91e7430d", "page": 4, "type": "paragraph", "text": "females, younger adults and those without high-risk conditions,"}
+{"id": "24bf742a-9e56-4bf9-a490-5697ee17b3a2", "page": 4, "type": "paragraph", "text": "the latter two groups being those who were less likely to receive"}
+{"id": "5f26e382-5a58-439a-bd2b-40fa5b1bd2d0", "page": 4, "type": "paragraph", "text": "RIV4. When strati\ufb01ed by age groups, rVE of RIV4 of younger adults"}
+{"id": "6c2430f5-b9d7-4f29-878d-24ffa8d9900d", "page": 4, "type": "paragraph", "text": "was signi\ufb01cant overall, among males and those without a high-risk"}
+{"id": "b39bc41a-7be3-41eb-8dfa-0b8589af21a1", "page": 4, "type": "paragraph", "text": "condition; whereas, among older adults, neither RIV4 nor all high"}
+{"id": "00dec9f8-780e-417b-923d-dc933eefff9c", "page": 4, "type": "paragraph", "text": "dose or adjuvanted vaccines combined was signi\ufb01cantly more"}
+{"id": "a6ee2782-7877-47f6-8d9e-cbe57a400bb7", "page": 4, "type": "paragraph", "text": "effective than standard dose IIV4. This was likely due to limited"}
+{"id": "89abefad-522b-4a36-b79a-7681b1dbe67d", "page": 4, "type": "paragraph", "text": "use of the SD-IIV4 (only 213 seniors received SD-IIV4), resulting"}
+{"id": "94a93c85-ee0f-4ae4-93b1-0bfcbfed5ec6", "page": 4, "type": "paragraph", "text": "in large con\ufb01dence intervals. The large market share in our"}
+{"id": "fe9df6d9-163a-4894-890f-18f13d01e29d", "page": 4, "type": "paragraph", "text": "study of RIV4, HD-IIV4 and Adj-IV in senior adults, relative to"}
+{"id": "eee42a4e-a703-44dc-a0e9-dbb58761c5f2", "page": 4, "type": "paragraph", "text": "SD-IIV4 limited our analysis and seemingly anticipated the 2022"}
+{"id": "49f3c08d-a440-4525-a13e-df22d23624b0", "page": 4, "type": "paragraph", "text": "decision by ACIP to recommend these three vaccines for older"}
+{"id": "7c44aeab-3fb4-42c0-9e0f-db6db6700619", "page": 4, "type": "paragraph", "text": "adults [13]."}
+{"id": "d594f4ab-db52-4b8f-9f6a-fb694eb5d9c1", "page": 4, "type": "paragraph", "text": "Fig. 2. Flow chart for secondary analyses. The secondary analyses included participants who received recombinant quadrivalent in\ufb02uenza vaccine (RIV4), standard dose"}
+{"id": "1875989a-9b1e-49f1-b180-f76787caaf0e", "page": 4, "type": "paragraph", "text": "quadrivalent in\ufb02uenza vaccine (SD-IIV4), high dose quadrivalent in\ufb02uenza vaccine (HD-IIV4), adjuvanted in\ufb02uenza vaccine (Adj-IIV) and the unvaccinated, who were not"}
+{"id": "5400ae25-447d-4228-9b93-2befeca1e158", "page": 4, "type": "paragraph", "text": "otherwise excluded."}
+{"id": "b2d6f7a5-1208-49a3-99d9-bc9a683ae280", "page": 4, "type": "paragraph", "text": "Table 1"}
+{"id": "85220590-d02c-4081-9c89-b746964cd13b", "page": 4, "type": "paragraph", "text": "Characteristics of all participants, overall and by receipt of recombinant quadrivalent in\ufb02uenza vaccine (RIV4) or standard dose quadrivalent in\ufb02uenza vaccine (SD-IIV4)."}
+{"id": "2724f8d9-985a-4d91-9a9e-7eeda3cf5e5c", "page": 4, "type": "paragraph", "text": "Measures"}
+{"id": "748dffe0-a436-43c7-94eb-34075678db30", "page": 4, "type": "paragraph", "text": "Totala"}
+{"id": "03488c78-fb15-4ae0-9a58-edf4564e3286", "page": 4, "type": "paragraph", "text": "N = 14,590"}
+{"id": "6f327a66-a945-4e4a-9f3a-fcdf708c594c", "page": 4, "type": "paragraph", "text": "Received RIV4b"}
+{"id": "8f2614c0-26ef-4994-aa7d-8941cd137cb4", "page": 4, "type": "paragraph", "text": "n = 3,338"}
+{"id": "fb27d549-ff43-48d8-87bb-e7fa9ca52598", "page": 4, "type": "paragraph", "text": "Received"}
+{"id": "c584da0a-62f1-4699-9b7a-8f8dd608b7ce", "page": 4, "type": "paragraph", "text": "SD-IIV4c"}
+{"id": "31bad6cf-b6f8-43e6-a5b3-1b4affd068de", "page": 4, "type": "paragraph", "text": "n = 976"}
+{"id": "90e6a18a-9341-4fd5-bb64-cf3779e972b3", "page": 4, "type": "paragraph", "text": "P-value for difference"}
+{"id": "5e725b4b-7838-46ea-b160-306c38d51920", "page": 4, "type": "paragraph", "text": "between RIV4 and SD-IIV4"}
+{"id": "c8e81e44-4625-4188-9cc6-0306375a6161", "page": 4, "type": "paragraph", "text": "White race, ref. = non-white, n (%)"}
+{"id": "82c70afa-ce51-4651-9adb-638aca9e174e", "page": 4, "type": "paragraph", "text": "11,661 (80)"}
+{"id": "f292617a-e01d-4a30-8e4d-99496f72654f", "page": 4, "type": "paragraph", "text": "2,656 (79)"}
+{"id": "42df8c9e-3eff-45b0-993a-4cc4f13120f9", "page": 4, "type": "paragraph", "text": "828 (85)"}
+{"id": "80331dcd-8d93-4df4-8e89-c454c5bef2d2", "page": 4, "type": "paragraph", "text": "<0.001"}
+{"id": "3ba16e5b-4184-4150-b6dd-c32cadf291c4", "page": 4, "type": "paragraph", "text": "Female sex, ref. = male, n (%)"}
+{"id": "9068139d-bd2b-4af0-a413-ecfd82fb4533", "page": 4, "type": "paragraph", "text": "7,895 (54)"}
+{"id": "4a4daa52-df80-4548-b9f1-c6f309304257", "page": 4, "type": "paragraph", "text": "1,855 (56)"}
+{"id": "8f2a167c-66a5-493b-a958-ee8056878001", "page": 4, "type": "paragraph", "text": "571 (58)"}
+{"id": "72373039-5779-4cf3-8a08-4846684ac686", "page": 4, "type": "paragraph", "text": "0.104"}
+{"id": "59bcaf32-4431-489c-bf9f-d9319cc1b50c", "page": 4, "type": "paragraph", "text": "Season, n (%)"}
+{"id": "9e3a07ec-c587-4a6f-8e89-8e938dc55319", "page": 4, "type": "paragraph", "text": "<0.001"}
+{"id": "9fb63c32-15ff-4aa5-8753-838aecf5a7c3", "page": 4, "type": "paragraph", "text": "2018\u20132019"}
+{"id": "cd901e67-6cad-46a1-88d7-41b8252227ff", "page": 4, "type": "paragraph", "text": "5,911 (41)"}
+{"id": "974846c2-43ae-46fa-8167-c0c56e09514c", "page": 4, "type": "paragraph", "text": "1,125 (34)"}
+{"id": "9464f765-ff2e-4446-9400-826ce61d5260", "page": 4, "type": "paragraph", "text": "478 (49)"}
+{"id": "55ee6203-b394-4ce2-8071-553e659f7994", "page": 4, "type": "paragraph", "text": "2019\u20132020"}
+{"id": "ee526e8f-074d-4853-9a48-a3c37316c58e", "page": 4, "type": "paragraph", "text": "8,679 (59)"}
+{"id": "c870a569-d8ca-4bc7-990a-7de3f7b87499", "page": 4, "type": "paragraph", "text": "2,213 (66)"}
+{"id": "6d0f675d-c079-4c9a-9bd0-a0bc18a6f97a", "page": 4, "type": "paragraph", "text": "498 (51)"}
+{"id": "5b1b0661-29c3-4d64-b914-7631c4fc306e", "page": 4, "type": "paragraph", "text": "Age Group, n (%)"}
+{"id": "b571bdb1-5c1d-44c7-8a4b-a6e14ea337a1", "page": 4, "type": "paragraph", "text": "<0.001"}
+{"id": "6578e50c-c3f6-4c50-970d-3b0bceb0cf7a", "page": 4, "type": "paragraph", "text": "18\u201364 years"}
+{"id": "5fe1ac4c-64c6-45f1-9a36-02f117d77a10", "page": 4, "type": "paragraph", "text": "6,896 (47)"}
+{"id": "22f38804-dcbb-4f9f-941d-51aad6beef70", "page": 4, "type": "paragraph", "text": "1,408 (42)"}
+{"id": "291955c4-ce4c-448b-9bb3-4b485561aae3", "page": 4, "type": "paragraph", "text": "763 (78)"}
+{"id": "325b24da-e720-4ca9-acab-c3eb6687deb8", "page": 4, "type": "paragraph", "text": "\u000165 years"}
+{"id": "292138dc-05ce-4149-99be-54a28682820e", "page": 4, "type": "paragraph", "text": "7,694 (53)"}
+{"id": "2749283d-e26c-4559-8266-6d032e9a0389", "page": 4, "type": "paragraph", "text": "1,930 (58)"}
+{"id": "b92c3992-2af0-4641-bc22-c678f0a793e0", "page": 4, "type": "paragraph", "text": "213 (22)"}
+{"id": "bd8164e4-64ad-4025-b358-6def02f4d7ca", "page": 4, "type": "paragraph", "text": "In\ufb02uenza case, ref. = non-case, n (%)"}
+{"id": "703d87fb-1d42-4788-b557-de49f1967f0c", "page": 4, "type": "paragraph", "text": "1,803 (12)"}
+{"id": "981e9fc5-b76d-4c23-837b-91243ccaeaf3", "page": 4, "type": "paragraph", "text": "291 (9)"}
+{"id": "e041dc3a-2292-417e-bde9-b888bbf66e42", "page": 4, "type": "paragraph", "text": "114 (12)"}
+{"id": "3ae05f0d-4eb9-4a59-a8f7-411c8e1700b1", "page": 4, "type": "paragraph", "text": "0.005"}
+{"id": "7577b029-0bba-4408-b276-01f05852bc40", "page": 4, "type": "paragraph", "text": "High-risk condition, ref. = no, n (%)"}
+{"id": "ac3fa867-b502-46ac-afe8-a68900d9cd9c", "page": 4, "type": "paragraph", "text": "10,292 (71)"}
+{"id": "89237f18-13d4-44e0-9ffe-f1e1add449bb", "page": 4, "type": "paragraph", "text": "2,931 (88)"}
+{"id": "be241762-9c85-4594-8e95-9d71ac370a31", "page": 4, "type": "paragraph", "text": "677 (69)"}
+{"id": "a4831ad1-2900-4fcc-9f00-ab7408d1c6e3", "page": 4, "type": "paragraph", "text": "<0.001"}
+{"id": "f6f54c03-9b7d-4046-9364-e2fde14e4291", "page": 4, "type": "paragraph", "text": "a Includes unvaccinated and those vaccinated with enhanced vaccines: High dose Fluzone and adjuvanted FluAd."}
+{"id": "db1f48ce-214c-4805-b20b-63e4a11ff2e0", "page": 4, "type": "paragraph", "text": "b RIV4: Flublok."}
+{"id": "9d694efc-4309-4933-aa89-f2a826c74556", "page": 4, "type": "paragraph", "text": "c SD-IIV4: A\ufb02uria, Fluarix, FluLaval, Standard Dose Fluzone and FlucelVax."}
+{"id": "4e03e132-1b6b-42a0-a10e-a6378c85b3e2", "page": 4, "type": "paragraph", "text": "R.K. Zimmerman, M. Patricia Nowalk, K. Dauer et al."}
+{"id": "7689866d-d183-4326-bfa9-971305d6fd3c", "page": 4, "type": "paragraph", "text": "Vaccine 41 (2023) 5134\u20135140"}
+{"id": "3517c05b-0c16-4e63-bf50-848bc44d6e55", "page": 4, "type": "paragraph", "text": "5137"}
+{"id": "bc871f3c-a974-467c-892c-9d001729ea3a", "page": 5, "type": "paragraph", "text": "Only two other studies were identi\ufb01ed that have compared VE"}
+{"id": "c30ff624-d4b0-44d8-a22b-b2f933efeea9", "page": 5, "type": "paragraph", "text": "of RIV4 with SD-IIV4. In a RCT, Dunkle et al reported a signi\ufb01cant"}
+{"id": "1669bc6c-781c-452a-9b53-6ecc9eb23ccd", "page": 5, "type": "paragraph", "text": "rVE of 30 % among adults \u000150 years old against RT-PCR con\ufb01rmed"}
+{"id": "c472513b-ae93-45bf-8ce2-434a3184b357", "page": 5, "type": "paragraph", "text": "in\ufb02uenza-like illness (ILI) but when strati\ufb01ed by age groups, rVE"}
+{"id": "adc2dcce-b31c-45d0-9a55-5198e26ca37e", "page": 5, "type": "paragraph", "text": "was not signi\ufb01cant for those \u000165 years for either RT-PCR con-"}
+{"id": "201567ab-3a7e-4ada-916d-f914e251352a", "page": 5, "type": "paragraph", "text": "\ufb01rmed ILI nor culture positive ILI. For those 50\u201364 years, rVE was"}
+{"id": "cf484e07-3796-4a6c-8267-4a8a033689b6", "page": 5, "type": "paragraph", "text": "signi\ufb01cant against RT-PCR ILI (42 %; 95 % CI = 15, 61) and against"}
+{"id": "5e5cf296-01e0-4aab-9372-7a0b3d6539b0", "page": 5, "type": "paragraph", "text": "culture positive ILI (44 %; 96 % CI = 10, 65) [11]. The other study"}
+{"id": "bd690ae1-b66a-48e8-8cfe-ab29f173e0a3", "page": 5, "type": "paragraph", "text": "was a retrospective cohort study of Medicare bene\ufb01ciaries 65 years"}
+{"id": "327abb98-7b5f-4d1c-99ad-e79e7bd45281", "page": 5, "type": "paragraph", "text": "of age and above in 2019\u20132020 by Izurieta et al. [10] that reported"}
+{"id": "4ed682b9-0a63-44a9-bf87-db5e7a0c0ea2", "page": 5, "type": "paragraph", "text": "signi\ufb01cant rVE of RIV4, HD-IIV3 and adjuvanted IIV3, respectively,"}
+{"id": "6d7d6564-9c84-47f8-a2b7-719824390878", "page": 5, "type": "paragraph", "text": "compared with SD-IIV4 against in\ufb02uenza-related hospital encoun-"}
+{"id": "f6a147fc-78e1-45da-add6-a0a5859fe287", "page": 5, "type": "paragraph", "text": "ters. rVE of RIV4 was signi\ufb01cant compared with HD-IIV3 and cell"}
+{"id": "8f2051e6-2790-4e9c-b825-f9821eb9813d", "page": 5, "type": "paragraph", "text": "cultured IIV4, but not adjuvanted IIV3. However, that study was"}
+{"id": "02974083-b611-4a6f-a9eb-e46572907520", "page": 5, "type": "paragraph", "text": "limited by the fact that the primary outcome was based on ICD-"}
+{"id": "403bc296-3175-4b49-b109-29cb067cef21", "page": 5, "type": "paragraph", "text": "10 codes and not speci\ufb01cally on laboratory con\ufb01rmed in\ufb02uenza."}
+{"id": "67a57514-93f2-41c0-b9c3-2043892fcb5f", "page": 5, "type": "paragraph", "text": "In a 2019 editorial, Flannery and Fry stated, \u2018\u2018Evidence to inform"}
+{"id": "a88d63bf-42d5-4098-add1-81c9b1ac43b2", "page": 5, "type": "paragraph", "text": "future policy decisions will be dependent on multiple studies with"}
+{"id": "7ac26fc7-a8ee-4375-88ae-dda3efb1b51f", "page": 5, "type": "paragraph", "text": "different but complementary methods that can report on annual"}
+{"id": "ec1762e4-dac4-4363-99fc-47c6e65c1398", "page": 5, "type": "paragraph", "text": "results over several seasons as well as statistical models to evalu-"}
+{"id": "cd871e59-7046-4517-ae9a-597e1168024c", "page": 5, "type": "paragraph", "text": "Table 2"}
+{"id": "caaf1c3b-fc37-4559-8892-45a6fbc6d642", "page": 5, "type": "paragraph", "text": "Vaccine effectiveness (VE) of recombinant quadrivalent in\ufb02uenza vaccine (RIV4) and standard dose quadrivalent in\ufb02uenza vaccine (SD-IIV4) and relative VE of RIV4 using"}
+{"id": "370dfcc9-1c6d-4dc2-b578-864e79394360", "page": 5, "type": "paragraph", "text": "propensity scores and inverse probability weighting (IPW)."}
+{"id": "64f7ed82-9bca-423f-929e-4d11cf06923b", "page": 5, "type": "paragraph", "text": "Group"}
+{"id": "ff2b880b-4bc7-4ec1-9bbc-190543864391", "page": 5, "type": "paragraph", "text": "Adjusted RIV4a VE"}
+{"id": "f93c3f61-9c32-4c2d-87c8-2972b4b27a73", "page": 5, "type": "paragraph", "text": "compared to no"}
+{"id": "8aad3845-df02-49a1-9be7-c268da5cf288", "page": 5, "type": "paragraph", "text": "vaccination"}
+{"id": "80d70d99-8bf3-43be-9060-d63fb9e90775", "page": 5, "type": "paragraph", "text": "Adjusted SD-IIV4b VE"}
+{"id": "0b66e8d5-eca3-4baf-9c8b-fe7b6eb1be40", "page": 5, "type": "paragraph", "text": "compared to no"}
+{"id": "d45bd1b2-0ca0-40d7-8310-dadc1940c5a7", "page": 5, "type": "paragraph", "text": "vaccination"}
+{"id": "5859fd92-3b69-464f-ae2f-5d0aa7f321ba", "page": 5, "type": "paragraph", "text": "Relative vaccine effectiveness of RIV4"}
+{"id": "5f8f0d31-acc2-46d9-92eb-86a46f44dff1", "page": 5, "type": "paragraph", "text": "compared to SD-IIV4, % (95 % CI)"}
+{"id": "a03c1a0e-f693-4a1c-9989-46a1cfb0856a", "page": 5, "type": "paragraph", "text": "Adjusted using a priori"}
+{"id": "0b80f65a-00a8-4f56-9d80-862ad12cbc1b", "page": 5, "type": "paragraph", "text": "variablesc"}
+{"id": "09e12b29-16b7-41ad-8c96-70a3c2d06714", "page": 5, "type": "paragraph", "text": "Adjusted using propensity"}
+{"id": "c85ce8b7-df6d-40c9-b159-fad84f98124f", "page": 5, "type": "paragraph", "text": "scored"}
+{"id": "b0151e85-c71e-4e95-a9d1-c0d7974aa9e2", "page": 5, "type": "paragraph", "text": "Adjusted"}
+{"id": "500d3f50-b7c7-4530-a0a4-e2c717da4203", "page": 5, "type": "paragraph", "text": "using"}
+{"id": "a792e98f-b2af-43d8-a246-49f4e74cde8b", "page": 5, "type": "paragraph", "text": "IPW"}
+{"id": "7d2ed0f3-3143-4c3c-a8ee-e22be4290a91", "page": 5, "type": "paragraph", "text": "Overall"}
+{"id": "82993756-6f46-4b58-b0f9-785ad7b89592", "page": 5, "type": "paragraph", "text": "36 (27, 45)"}
+{"id": "5fa1209c-0ba2-45f2-bed2-05f4ddfc5c78", "page": 5, "type": "paragraph", "text": "24 (6, 38)"}
+{"id": "dc5e5e87-789b-4e16-a571-fee290158bfa", "page": 5, "type": "paragraph", "text": "21 (\u00031, 38)"}
+{"id": "47436df4-21a3-4547-8e67-cfdf466e46fc", "page": 5, "type": "paragraph", "text": "26 (4, 43)"}
+{"id": "af857aa9-8aae-431e-803f-4ef72abdcfbd", "page": 5, "type": "paragraph", "text": "31 (11, 46)"}
+{"id": "1fbdb2d6-ec84-4c2c-8031-c80a835d8fcc", "page": 5, "type": "paragraph", "text": "Female sex"}
+{"id": "1f431515-41c3-4791-8343-a1f283d94383", "page": 5, "type": "paragraph", "text": "40 (28, 50)"}
+{"id": "d4c0522a-998c-4c0b-97af-ae1b8e78f2b5", "page": 5, "type": "paragraph", "text": "20 (\u00034, 39)"}
+{"id": "c6bf59e4-9c72-491e-9bd0-973ea1fb41ad", "page": 5, "type": "paragraph", "text": "24 (\u00035, 45)"}
+{"id": "286d453c-7b47-48c2-a5f9-cfa0f9c9c969", "page": 5, "type": "paragraph", "text": "26 (\u00034, 48)"}
+{"id": "fa12e079-4782-47fd-8f76-53302ca4eb9f", "page": 5, "type": "paragraph", "text": "37 (13, 54)"}
+{"id": "3b421acf-e130-4d84-a986-3fc8223ba0a1", "page": 5, "type": "paragraph", "text": "Male sex"}
+{"id": "595d34cb-c8e6-4368-917c-f5974f274b5f", "page": 5, "type": "paragraph", "text": "31 (16, 44)"}
+{"id": "f6806e85-91ae-4045-bac4-8ae1c85ffe96", "page": 5, "type": "paragraph", "text": "28 (0, 49)"}
+{"id": "669f0e36-d37c-4df8-b25a-e29bce725c9a", "page": 5, "type": "paragraph", "text": "22 (\u000315, 48)"}
+{"id": "c82dcb44-0c8c-4fb9-a84d-fb8a59ab03fe", "page": 5, "type": "paragraph", "text": "28 (\u00039, 52)"}
+{"id": "3ba20b93-12e5-44bb-be9a-ef5629d1fa47", "page": 5, "type": "paragraph", "text": "23 (\u000314, 48)"}
+{"id": "aede5cf4-ff8a-4b2f-a720-a0495ea5567e", "page": 5, "type": "paragraph", "text": "18\u201364 years"}
+{"id": "b9773243-11e8-4d82-816b-2c19f4c6f7a0", "page": 5, "type": "paragraph", "text": "47 (35, 57)"}
+{"id": "c021ebe6-be19-44fa-91f2-94a07e8eb379", "page": 5, "type": "paragraph", "text": "27 (8, 42)"}
+{"id": "c17a7a56-5923-4eec-904a-b1ce2f5fc7af", "page": 5, "type": "paragraph", "text": "28 (2, 46)"}
+{"id": "78c24cd4-51e1-475c-99e6-db2ad47434a5", "page": 5, "type": "paragraph", "text": "27 (2, 45)"}
+{"id": "797432cb-f746-43af-b937-7923dadd4baf", "page": 5, "type": "paragraph", "text": "28 (3, 46)"}
+{"id": "2b622ce0-06e8-4dcb-96bf-13fb3b347255", "page": 5, "type": "paragraph", "text": "\u000165 years"}
+{"id": "5ca6fa6e-fc5a-4e57-892c-e2c886bdb925", "page": 5, "type": "paragraph", "text": "27 (12, 39)"}
+{"id": "4d1919f6-3e90-46b2-9e66-acbb622adebc", "page": 5, "type": "paragraph", "text": "9 (\u000342, 42)"}
+{"id": "289549f0-d2cb-4c70-a876-1d5b9daa8b61", "page": 5, "type": "paragraph", "text": "22 (\u000326, 51)"}
+{"id": "55b73501-5d6e-4b6c-ba22-0aaf04592a74", "page": 5, "type": "paragraph", "text": "17 (\u000334, 49)"}
+{"id": "1eb3d58d-c115-40cf-b385-cd27b40bbb4d", "page": 5, "type": "paragraph", "text": "17 (\u000336, 48)"}
+{"id": "59396bc3-2de8-4bde-9e95-de511dc6962e", "page": 5, "type": "paragraph", "text": "High-risk condition"}
+{"id": "a7d327a7-f08e-4899-a9bd-8f4b44002f23", "page": 5, "type": "paragraph", "text": "30 (19, 40)"}
+{"id": "8b29e133-8906-4d78-bc66-a04cd0bd79e8", "page": 5, "type": "paragraph", "text": "21 (\u00032, 39)"}
+{"id": "2eee25eb-b002-4d14-a8f1-8080fbd66d1b", "page": 5, "type": "paragraph", "text": "14 (\u000315, 35)"}
+{"id": "8d6ec1e6-8c7d-4e3d-bdcd-0a07103ca6be", "page": 5, "type": "paragraph", "text": "17 (\u000313, 38)"}
+{"id": "42628dcc-f4bb-43e5-bd91-55a9a0ecbd81", "page": 5, "type": "paragraph", "text": "20 (\u00037, 40)"}
+{"id": "8db2a254-82a4-4513-9e52-bf017d3b79c6", "page": 5, "type": "paragraph", "text": "No high-risk"}
+{"id": "e7de2c6e-24dd-4344-84ec-0e7002f65bde", "page": 5, "type": "paragraph", "text": "condition"}
+{"id": "987e4e39-7cbd-4130-8ba2-01cde9450713", "page": 5, "type": "paragraph", "text": "67 (50, 78)"}
+{"id": "d2f1c8b8-b967-44e7-b7a5-20142390677a", "page": 5, "type": "paragraph", "text": "27 (\u00034, 49)"}
+{"id": "91f6a589-49ae-4bb0-bb62-d940fb42b777", "page": 5, "type": "paragraph", "text": "49 (11, 71)"}
+{"id": "e27ea988-3b65-43ac-a083-a27faae0e262", "page": 5, "type": "paragraph", "text": "58 (23, 77)"}
+{"id": "e83f34bc-2d42-4907-a884-b229c5e9d87d", "page": 5, "type": "paragraph", "text": "60 (29, 78)"}
+{"id": "f8809952-382b-40b5-9591-50bcc635c21f", "page": 5, "type": "paragraph", "text": "2018\u20132019 season"}
+{"id": "b6dfb5b7-8c00-4d3c-87cd-c2eb8fd97de2", "page": 5, "type": "paragraph", "text": "31 (15, 45)"}
+{"id": "1efc58a6-a6c3-47fd-b400-3db148dff7df", "page": 5, "type": "paragraph", "text": "20 (\u00036, 41)"}
+{"id": "dd4165cc-d90b-4864-9269-7b7f9db9b567", "page": 5, "type": "paragraph", "text": "19 (\u000317, 44)"}
+{"id": "d4084bb9-6dd5-4412-91ec-fe7963bdb64d", "page": 5, "type": "paragraph", "text": "28 (\u00037, 51)"}
+{"id": "3520ce05-cb9e-4459-a832-46977be5e035", "page": 5, "type": "paragraph", "text": "28 (\u00035, 50)"}
+{"id": "580eaf0d-3ecc-46a2-90cb-13f81c9a5efd", "page": 5, "type": "paragraph", "text": "2019\u20132020 season"}
+{"id": "19a9f2d9-4967-473d-8216-184a9b0d6c4c", "page": 5, "type": "paragraph", "text": "40 (29, 50)"}
+{"id": "012aa9f9-c0b4-42b1-9f5c-cce53eab448a", "page": 5, "type": "paragraph", "text": "26 (1, 45)"}
+{"id": "2f8f674a-f968-4e49-a2cf-c06128ec2f28", "page": 5, "type": "paragraph", "text": "24 (\u00036, 46)"}
+{"id": "7f692dc3-0c34-4ec1-8704-7e22d34b6554", "page": 5, "type": "paragraph", "text": "29 (\u00031, 50)"}
+{"id": "824ff3c2-0c76-4c04-a331-e1149e73503b", "page": 5, "type": "paragraph", "text": "30 (1, 50)"}
+{"id": "0a6cdf26-9dd5-4b6b-9d4b-27cba91f23d8", "page": 5, "type": "paragraph", "text": "a RIV4: Flublok."}
+{"id": "4e853616-03da-4e64-a759-427ac0d638bb", "page": 5, "type": "paragraph", "text": "b SD-IIV4: A\ufb02uria, Fluarix, FluLaval, SD Fluzone, and FlucelVax."}
+{"id": "20af870d-2d7a-4b7c-9331-96a0f7e9c230", "page": 5, "type": "paragraph", "text": "c Multivariable logistic regression model adjusted for age, race, sex, season, and high-risk conditions, except that the strati\ufb01ed variable is not included as an adjustment in"}
+{"id": "3abea9f2-b8c5-43bd-a00e-ebac8fc6f14d", "page": 5, "type": "paragraph", "text": "its own analysis."}
+{"id": "71b6a38d-95c5-4c4e-a2d8-8d5f2fa9531e", "page": 5, "type": "paragraph", "text": "d Propensity score: Generalized Boosted Regression Method was used to calculate the propensity score using TWANG (Toolkit for Weighting and Analysis of Nonequivalent"}
+{"id": "d038ad84-af29-4351-b038-713dcce4dd41", "page": 5, "type": "paragraph", "text": "Groups)."}
+{"id": "e2e12fe6-641f-4cd6-9906-1afe67dca04e", "page": 5, "type": "paragraph", "text": "Table 3"}
+{"id": "80552a83-88ab-4fbc-8b80-2c3c793648f3", "page": 5, "type": "paragraph", "text": "Characteristics of participants by age group and vaccine received including recombinant quadrivalent in\ufb02uenza vaccine (RIV4), standard dose quadrivalent in\ufb02uenza vaccine (SD-"}
+{"id": "78a5b644-1221-4b5f-bc0b-57661483b2ad", "page": 5, "type": "paragraph", "text": "IIV4), high dose quadrivalent in\ufb02uenza vaccine (HD-IIV4) and adjuvanted in\ufb02uenza vaccine (Adj-IV) N = 15,203."}
+{"id": "bf421f3f-610b-48ac-a090-ad52b8ca764e", "page": 5, "type": "paragraph", "text": "Measures"}
+{"id": "47cfc0f6-9b1a-4ffc-a614-567d24d826cf", "page": 5, "type": "paragraph", "text": "18\u201364 years old, vaccine received"}
+{"id": "bd58b7b3-214e-467b-9428-c18d89eab44c", "page": 5, "type": "paragraph", "text": "\u000165 years old, vaccine received"}
+{"id": "879f4e6c-dc75-48df-b609-ac57d7b28471", "page": 5, "type": "paragraph", "text": "RIV4"}
+{"id": "274d7f51-0da4-4356-8ae1-4026b2ac111b", "page": 5, "type": "paragraph", "text": "n = 1,408"}
+{"id": "48e37d71-42f0-469b-ad7f-2a6a20f1190d", "page": 5, "type": "paragraph", "text": "SD-IIV4a"}
+{"id": "3292c5d3-4610-4962-bfd3-326f38aeffd4", "page": 5, "type": "paragraph", "text": "n = 763"}
+{"id": "c7672c4e-3f2e-40e9-aa8f-35d0ab1c3e25", "page": 5, "type": "paragraph", "text": "P-valueb"}
+{"id": "e5205b5f-4505-4709-b98e-b36ca1e53f07", "page": 5, "type": "paragraph", "text": "SD-IIV4"}
+{"id": "e0763c64-639a-4586-82eb-b21757f316a4", "page": 5, "type": "paragraph", "text": "n = 213"}
+{"id": "ee3965a3-2bcf-4aae-89fd-8d413604c809", "page": 5, "type": "paragraph", "text": "RIV4"}
+{"id": "753d49c0-167c-4716-b1e1-e709f54f6d50", "page": 5, "type": "paragraph", "text": "n = 1,930"}
+{"id": "216a6aba-06a7-47ee-a784-a7395cdee79d", "page": 5, "type": "paragraph", "text": "P-valueb"}
+{"id": "f7f8ffdd-6496-49e3-87d4-fc06e7891b8c", "page": 5, "type": "paragraph", "text": "RIV4 + HD-IIV4 + Adj-IVc"}
+{"id": "af1497e3-ae18-4925-878b-cec4a35bd9fb", "page": 5, "type": "paragraph", "text": "n = 2,542"}
+{"id": "0c76e247-f86a-4c3a-b9f9-229685d98330", "page": 5, "type": "paragraph", "text": "P-valued"}
+{"id": "c744914c-2561-414e-9ea2-c240a2662a58", "page": 5, "type": "paragraph", "text": "White race, ref. = non-white, n (%)"}
+{"id": "8746f63f-6be4-447e-8a38-487edb12ff2d", "page": 5, "type": "paragraph", "text": "1,101 (71.8)"}
+{"id": "4db6b55a-0aef-43cd-bb91-f88b5be8f3f2", "page": 5, "type": "paragraph", "text": "639 (83.7)"}
+{"id": "928b6552-d896-404a-b68a-a98b9e915319", "page": 5, "type": "paragraph", "text": "<0.001"}
+{"id": "ad6f0441-9ee6-47f0-9ef1-f3b27a833a23", "page": 5, "type": "paragraph", "text": "189 (88.7)"}
+{"id": "0d692ecf-be08-4aef-a591-2164043156e4", "page": 5, "type": "paragraph", "text": "1,645 (85.2)"}
+{"id": "cb438dc2-633f-4331-a759-c528955ec885", "page": 5, "type": "paragraph", "text": "0.263"}
+{"id": "57c95dc8-c9c9-4ff3-961e-c6c45c5020a7", "page": 5, "type": "paragraph", "text": "2,200 (86.5)"}
+{"id": "d3e167ba-9499-40c2-967c-7c0e8006ae76", "page": 5, "type": "paragraph", "text": "0.417"}
+{"id": "ba5d3248-bdc5-4538-be79-2abfbeaa0971", "page": 5, "type": "paragraph", "text": "Female sex, ref. = male, n (%)"}
+{"id": "32fbb1d6-93a2-46ae-950e-48c0df08efd7", "page": 5, "type": "paragraph", "text": "831 (59.0)"}
+{"id": "397e14ad-933e-4851-ac5a-563b181ba0f1", "page": 5, "type": "paragraph", "text": "455 (59.6)"}
+{"id": "d5e53d0e-9e4a-4d81-baa3-ab9d20ec5463", "page": 5, "type": "paragraph", "text": "0.781"}
+{"id": "19ce6334-de85-4118-9acb-3205695aeb6e", "page": 5, "type": "paragraph", "text": "116 (54.5)"}
+{"id": "4a21de84-47f7-48ac-b237-a363d9bc2e25", "page": 5, "type": "paragraph", "text": "1,024 (53.1)"}
+{"id": "133bfd08-6296-45fd-9f45-351638de7c3f", "page": 5, "type": "paragraph", "text": "0.697"}
+{"id": "ef043a03-04f1-4ad4-bc08-391052333c36", "page": 5, "type": "paragraph", "text": "1,360 (53.5)"}
+{"id": "12e94a2b-847b-47a2-a7bf-b0f67e73c85d", "page": 5, "type": "paragraph", "text": "0.787"}
+{"id": "1407ebc2-a4e1-4592-873c-95038f4c6e5c", "page": 5, "type": "paragraph", "text": "2018\u20132019 season, n (%)"}
+{"id": "b0cf4609-2cdb-40fa-bf55-f52f700629a4", "page": 5, "type": "paragraph", "text": "457 (33.5)"}
+{"id": "89acb832-b4b8-4b5a-9b47-121bc4e5b538", "page": 5, "type": "paragraph", "text": "372 (48.8)"}
+{"id": "98b17078-7e04-4a7e-8c40-af251d1ebbeb", "page": 5, "type": "paragraph", "text": "<0.001"}
+{"id": "d8bf9357-6594-4d9d-b2d3-71df170b1275", "page": 5, "type": "paragraph", "text": "106 (49.8)"}
+{"id": "be2ce9f3-cc64-4ec6-bcb9-017623c27810", "page": 5, "type": "paragraph", "text": "668 (34.6)"}
+{"id": "ba3418ab-8b0b-471e-a38f-82afa78eb4d8", "page": 5, "type": "paragraph", "text": "<0.001"}
+{"id": "4ac33242-673a-494e-a6cd-c89f641bf3c5", "page": 5, "type": "paragraph", "text": "1,075 (42.3)"}
+{"id": "b8738fbb-ea5e-45cb-82b5-1570d51833ee", "page": 5, "type": "paragraph", "text": "0.034"}
+{"id": "75aa8af8-601d-4a85-b5f4-c83317de035c", "page": 5, "type": "paragraph", "text": "2019\u20132020 season, n (%)"}
+{"id": "08b9113c-cfad-44f9-b945-80e1f9c8202d", "page": 5, "type": "paragraph", "text": "951 (67.5)"}
+{"id": "60ef73a8-4629-4cce-95c0-b6cd0ff39ed5", "page": 5, "type": "paragraph", "text": "391 (51.2)"}
+{"id": "4eb8ee17-91e2-40bb-9211-209098066d2a", "page": 5, "type": "paragraph", "text": "107 (50.2)"}
+{"id": "1d1924ff-6ee4-40ca-a015-44d3bbee7d04", "page": 5, "type": "paragraph", "text": "1,262 (65.4)"}
+{"id": "7f64a328-473f-4fcf-aec7-ca0fb38a0221", "page": 5, "type": "paragraph", "text": "1,467 (57.7)"}
+{"id": "b8de2443-8127-4238-aab8-9ef8051930e4", "page": 5, "type": "paragraph", "text": "In\ufb02uenza case, ref. = non-case, n (%)"}
+{"id": "07adeea5-9e58-4a88-8923-382efaf65cd8", "page": 5, "type": "paragraph", "text": "129 (9.2)"}
+{"id": "2da9f822-9c64-4c8c-bd94-e9b611927f92", "page": 5, "type": "paragraph", "text": "91 (11.9)"}
+{"id": "5628b115-baaa-4d10-bf07-0368ddbc1618", "page": 5, "type": "paragraph", "text": "0.041"}
+{"id": "38bee6ab-105f-41b7-b15c-3050b3d06155", "page": 5, "type": "paragraph", "text": "23 (10.8)"}
+{"id": "04162645-4225-41c3-88e2-a347c18d978b", "page": 5, "type": "paragraph", "text": "162 (8.4)"}
+{"id": "d2132767-61d1-477e-9bb0-ee74aa311742", "page": 5, "type": "paragraph", "text": "0.235"}
+{"id": "bebd4fa7-012d-4b7b-b8a4-1f2873e5ae16", "page": 5, "type": "paragraph", "text": "227 (8.9)"}
+{"id": "4dcef61b-2ffe-4718-98f4-ee6959706843", "page": 5, "type": "paragraph", "text": "0.362"}
+{"id": "0763b150-f5fc-4f28-be0e-5ee3c68cb8a3", "page": 5, "type": "paragraph", "text": "High-risk condition, n (%)"}
+{"id": "0252ed34-ca3a-49f9-9d0d-328288b38ea5", "page": 5, "type": "paragraph", "text": "1,172 (83.2)"}
+{"id": "27767758-a26c-4a42-946b-76f0859c2b10", "page": 5, "type": "paragraph", "text": "510 (66.8)"}
+{"id": "adeab031-5318-4c2c-9211-d5230f0a6bab", "page": 5, "type": "paragraph", "text": "<0.001"}
+{"id": "e3e0d745-fc25-42db-b0de-956a9b64add4", "page": 5, "type": "paragraph", "text": "167 (78.4)"}
+{"id": "301cf95d-5f00-4b50-a6a3-ed52752384a6", "page": 5, "type": "paragraph", "text": "1,759 (91.1)"}
+{"id": "4efbf693-7541-4146-b0de-2bc15b4a8ec4", "page": 5, "type": "paragraph", "text": "<0.001"}
+{"id": "ddaa7c2b-e8e6-47e9-a273-b68a270fe572", "page": 5, "type": "paragraph", "text": "2,223 (87.5)"}
+{"id": "6012b2c1-401d-411c-8982-5fd05b89b84a", "page": 5, "type": "paragraph", "text": "<0.001"}
+{"id": "703b4f8b-c53d-4320-96fd-715fc53a209c", "page": 5, "type": "paragraph", "text": "a SD-IIV4: A\ufb02uria, Fluarix, FluLaval, SD Fluzone and FlucelVax."}
+{"id": "d54e6d10-911e-4e3b-954f-35d965389ed1", "page": 5, "type": "paragraph", "text": "b For difference between those receiving RIV4 and those receiving SD-IIV4."}
+{"id": "859b7ddb-db34-4ed1-96ca-fe5954e4c52e", "page": 5, "type": "paragraph", "text": "c RIV4: Flublok; HD-IIV4: High dose Fluzone; Adj-IV: FluAd."}
+{"id": "0b1d6dfa-ff45-418b-b208-0b27a7819d2e", "page": 5, "type": "paragraph", "text": "d For difference between those receiving RIV4, HD-IIV4, Adj-IV and those receiving SD-IIV4."}
+{"id": "ca6fdb07-2071-4d35-8461-a8c2a735e042", "page": 5, "type": "paragraph", "text": "Table 4"}
+{"id": "db59e452-8067-4950-9dce-d81342067c19", "page": 5, "type": "paragraph", "text": "Adjusted vaccine effectiveness (VE) of recombinant quadrivalent in\ufb02uenza vaccine (RIV4), standard dose quadrivalent in\ufb02uenza vaccine (SD-IIV4), and RIV4 + high dose"}
+{"id": "446277d2-05f6-456f-b3ef-209f00694872", "page": 5, "type": "paragraph", "text": "quadrivalent in\ufb02uenza vaccine (HD-IIV4) + adjuvanted in\ufb02uenza vaccine (Adj-IV), compared with no vaccination, by age group."}
+{"id": "e232892b-d63a-4239-bf59-d05ec842a84d", "page": 5, "type": "paragraph", "text": "18\u201364 years"}
+{"id": "10d899f9-64e6-4073-babd-f79e8c629cf6", "page": 5, "type": "paragraph", "text": "\u000165 years"}
+{"id": "91e44c4b-fec6-4035-9ee7-97ec3d26f46a", "page": 5, "type": "paragraph", "text": "Group"}
+{"id": "8d88ef1b-716a-4e40-a689-634dd54a8b20", "page": 5, "type": "paragraph", "text": "RIV4"}
+{"id": "2ad35597-2e69-4e58-8106-d3cdaf5f0fe5", "page": 5, "type": "paragraph", "text": "VE, % (95 % CI)"}
+{"id": "c5da2e5d-52fc-4501-ab42-6a5bb916743f", "page": 5, "type": "paragraph", "text": "SD-IIV4"}
+{"id": "c7bb3802-e1fb-4101-90e7-751375043bf2", "page": 5, "type": "paragraph", "text": "VE, % (95 % CI)"}
+{"id": "5944fcb0-5f71-4b03-b896-6748d7c96480", "page": 5, "type": "paragraph", "text": "RIV4"}
+{"id": "4327a87f-6ee4-4e80-b329-69f6c237decd", "page": 5, "type": "paragraph", "text": "VE, % (95 % CI)"}
+{"id": "ec11b285-1332-4464-bff7-45f8fc0f039a", "page": 5, "type": "paragraph", "text": "RIV4 + HD-IIV4 + Adj-IV"}
+{"id": "c933130c-2387-4d00-82d6-a0c31c55c8de", "page": 5, "type": "paragraph", "text": "VE, % (95 % CI)"}
+{"id": "ba7b1173-d1c5-4ccb-aac1-d7867929584b", "page": 5, "type": "paragraph", "text": "SD-IIV4"}
+{"id": "1c67e6c3-9000-446b-83e4-5fef0f4090e3", "page": 5, "type": "paragraph", "text": "VE, % (95 % CI)"}
+{"id": "1b7f940c-143e-4dff-a5bb-8f41728cbf88", "page": 5, "type": "paragraph", "text": "Overall"}
+{"id": "82b75d74-4e9d-43d2-8e07-a93863babab4", "page": 5, "type": "paragraph", "text": "47 (35, 56)"}
+{"id": "406d0f03-44c0-4110-bcb6-6c873f8e22f9", "page": 5, "type": "paragraph", "text": "27 (8, 42)"}
+{"id": "e7d1e2b5-db4a-4226-81fa-2d0fa1d1c3a3", "page": 5, "type": "paragraph", "text": "27 (12, 39)"}
+{"id": "fb680a77-5dec-48f9-9134-d2e2935ee480", "page": 5, "type": "paragraph", "text": "24 (11, 36)"}
+{"id": "01fc7382-a9b1-4d83-a49a-a97e085421d9", "page": 5, "type": "paragraph", "text": "9 (\u000342, 42)"}
+{"id": "62b3a572-9524-41d9-a5cd-60a6d9619d93", "page": 5, "type": "paragraph", "text": "Females"}
+{"id": "c223e888-4c77-4884-be88-a6f0d168ab85", "page": 5, "type": "paragraph", "text": "35 (16, 49)"}
+{"id": "463d2447-acdb-4e7e-98ae-01190d9760f5", "page": 5, "type": "paragraph", "text": "19 (\u000310, 40)"}
+{"id": "ca2d4170-ff25-4e73-bef4-ef05e7ebf503", "page": 5, "type": "paragraph", "text": "47 (30, 60)"}
+{"id": "4ab56c7d-7d27-4c4d-9313-ab41c537d84d", "page": 5, "type": "paragraph", "text": "38 (22, 51)"}
+{"id": "8b28b375-1ee8-4cee-b239-7fb54fd49c2f", "page": 5, "type": "paragraph", "text": "9 (\u000362, 49)"}
+{"id": "988fb1fd-4bde-4180-9004-d70515283342", "page": 5, "type": "paragraph", "text": "Males"}
+{"id": "bddbcc6e-29c5-4d64-b26c-0fcbf0f92041", "page": 5, "type": "paragraph", "text": "62 (46, 73)"}
+{"id": "6f2cf40c-6e04-4300-b03a-4f0e80b5eb05", "page": 5, "type": "paragraph", "text": "38 (9, 57)"}
+{"id": "baa7ae5a-f672-4086-b620-7965e0066bdd", "page": 5, "type": "paragraph", "text": "\u00032 (\u201333, 21)"}
+{"id": "920c9c10-264d-4d4c-93b1-42ca41d6fc87", "page": 5, "type": "paragraph", "text": "4 (\u201322, 24)"}
+{"id": "a0fabea0-327d-41fe-9225-4d577300bf74", "page": 5, "type": "paragraph", "text": "10 (\u000383, 55)"}
+{"id": "2c06242f-d174-4098-9468-2f8e2df921aa", "page": 5, "type": "paragraph", "text": "High-risk condition"}
+{"id": "0956fbdc-1aa0-4ca4-aab6-e3d139655152", "page": 5, "type": "paragraph", "text": "39 (24, 51)"}
+{"id": "0f0deeb4-6d45-4c0b-9b09-f7bcf8464812", "page": 5, "type": "paragraph", "text": "24 (\u00032, 43)"}
+{"id": "740c40ed-25a2-417d-b78f-32663ed94f4b", "page": 5, "type": "paragraph", "text": "24 (7, 37)"}
+{"id": "c599f481-ea94-47ba-aede-fdb43aa765d5", "page": 5, "type": "paragraph", "text": "22 (6, 34)"}
+{"id": "8763ab91-7832-4d4e-93b1-5b224d06bf9a", "page": 5, "type": "paragraph", "text": "9 (\u000350, 45)"}
+{"id": "8357e308-8864-4d56-8ddb-1cffbef56fc1", "page": 5, "type": "paragraph", "text": "No high-risk condition"}
+{"id": "c70a2cfe-5ea9-476d-9ced-2067483093d1", "page": 5, "type": "paragraph", "text": "69 (49, 81)"}
+{"id": "0e342001-3c49-4d42-b55d-d2e317d9576d", "page": 5, "type": "paragraph", "text": "32 (\u00031, 54)"}
+{"id": "7189e884-db68-4844-9481-5d6283f9ae52", "page": 5, "type": "paragraph", "text": "56 (7, 79)"}
+{"id": "6126293d-94fa-47b7-8bb2-bd55e7b20089", "page": 5, "type": "paragraph", "text": "38 (3, 61)"}
+{"id": "8f3b3424-7601-4ddd-bbb8-2e85441c20fe", "page": 5, "type": "paragraph", "text": "5 (\u0003145, 63)"}
+{"id": "4289d588-a654-48ed-a8a9-2f799d2c6e8e", "page": 5, "type": "paragraph", "text": "2018\u20132019 season"}
+{"id": "1be8f0ee-6ec6-4558-bc12-4df19984c251", "page": 5, "type": "paragraph", "text": "44 (21, 60)"}
+{"id": "e67bf61b-0efd-493c-95c3-61eb5a96a9dd", "page": 5, "type": "paragraph", "text": "28 (\u00032, 49)"}
+{"id": "1e3c92c3-17e6-47dc-9b0d-2e0909a07fa5", "page": 5, "type": "paragraph", "text": "21 (\u00035, 41)"}
+{"id": "b22ef617-194d-447a-a6e4-315ea83701c6", "page": 5, "type": "paragraph", "text": "18 (\u00033, 35)"}
+{"id": "180bdbc4-f560-4f30-8543-c2e52695bb07", "page": 5, "type": "paragraph", "text": "\u00032 (\u000380, 42)"}
+{"id": "9dee260a-74b3-49a1-88a9-7788a7300dc4", "page": 5, "type": "paragraph", "text": "2019\u20132020 season"}
+{"id": "bdc02f81-9033-4df2-8726-17cba01be88a", "page": 5, "type": "paragraph", "text": "48 (33, 59)"}
+{"id": "84bc5f75-2c2f-4698-81f4-444dce827da7", "page": 5, "type": "paragraph", "text": "26 (\u00032, 47)"}
+{"id": "f183ef21-0522-48c2-bda2-3c084d285ebf", "page": 5, "type": "paragraph", "text": "32 (12, 47)"}
+{"id": "13ab212f-667c-4ced-8f89-1fab59f19316", "page": 5, "type": "paragraph", "text": "31 (12, 45)"}
+{"id": "38b50e2b-b790-4183-9e89-b5ec9e45801b", "page": 5, "type": "paragraph", "text": "22 (\u000362, 63)"}
+{"id": "c7f8f768-d7be-4e52-8aa1-fa0c8811205a", "page": 5, "type": "paragraph", "text": "R.K. Zimmerman, M. Patricia Nowalk, K. Dauer et al."}
+{"id": "e497cbd7-e873-43d1-b9bc-d633dbf7166b", "page": 5, "type": "paragraph", "text": "Vaccine 41 (2023) 5134\u20135140"}
+{"id": "ceaf9d17-c2cc-4a6d-874b-8548b64ae995", "page": 5, "type": "paragraph", "text": "5138"}
+{"id": "0e4ba4b2-70c4-43f9-bebe-cbfdcbb875e7", "page": 6, "type": "paragraph", "text": "ate potential impact of changes in vaccine uptake.\u201d [16] This study"}
+{"id": "02b53ebb-8ecb-4d10-9328-16585e5b09be", "page": 6, "type": "paragraph", "text": "adds to the evidence for the improved performance of RIV4 among"}
+{"id": "5c561f73-0d5f-4345-9520-2d36e18fcdf7", "page": 6, "type": "paragraph", "text": "all adults, and supports its superior effectiveness over SD- IIV4 for"}
+{"id": "074a2e3d-26b4-4ed4-9ae8-c38d7efc2725", "page": 6, "type": "paragraph", "text": "adults 18\u201364 years of age."}
+{"id": "ccd07667-6e46-47ab-826f-2d010bcd135b", "page": 6, "type": "paragraph", "text": "4.1. Strengths and limitations"}
+{"id": "e30887a5-3b13-437e-8b74-47765373c467", "page": 6, "type": "paragraph", "text": "This study has several strengths and limitations. Firstly, the"}
+{"id": "b48c76a7-7db0-425a-b8e2-cb7d2bdedb34", "page": 6, "type": "paragraph", "text": "demographics of the study population were similar to those of"}
+{"id": "092a467b-f8d5-47f6-99b2-75f5675dac14", "page": 6, "type": "paragraph", "text": "the Allegheny County general population of adults in which 79 %"}
+{"id": "770849cc-3694-4435-9de4-fc8144a786f4", "page": 6, "type": "paragraph", "text": "are white and 51 % are female [17], thus contributing to generaliz-"}
+{"id": "02e279a0-9213-4ccf-8cb6-47a732c68929", "page": 6, "type": "paragraph", "text": "ability. Moreover, the health system includes urban tertiary and"}
+{"id": "92b3dd49-3ae8-41c2-970d-4efb1a444dcb", "page": 6, "type": "paragraph", "text": "quaternary care hospitals as well as suburban and rural commu-"}
+{"id": "8fbc6609-448c-444d-ba2d-0ffb1ecb28af", "page": 6, "type": "paragraph", "text": "nity hospitals. It has a 60 % market share of all hospital beds in"}
+{"id": "23e3ae1a-f517-4a26-9382-a22e989d5d96", "page": 6, "type": "paragraph", "text": "the county and accepts patients with all insurance products. Sec-"}
+{"id": "968989d2-25ec-4fa9-bf26-209c4dcc5736", "page": 6, "type": "paragraph", "text": "ond, as an integrated healthcare system, its EMR is robust, with"}
+{"id": "65f69a0a-1b5d-41af-916d-09982a13d62b", "page": 6, "type": "paragraph", "text": "regular uploads of vaccination data from the state immunization"}
+{"id": "62f30178-0235-417a-923b-835a1613b57c", "page": 6, "type": "paragraph", "text": "registry. In addition, we veri\ufb01ed vaccination status through the"}
+{"id": "7475ae86-d5ed-4c07-8b2b-8685ba7c1ab9", "page": 6, "type": "paragraph", "text": "state registry with a speci\ufb01c data request. In previous research,"}
+{"id": "45c1374b-b583-45bd-aae6-83e6ee38f8ec", "page": 6, "type": "paragraph", "text": "we have demonstrated that registry data are a reasonable source"}
+{"id": "bb62ba47-2b24-4c5a-8f00-57cc8f8a9f4b", "page": 6, "type": "paragraph", "text": "for in\ufb02uenza vaccination data [18]. As a result, we have con\ufb01dence"}
+{"id": "7f3e7429-22d5-4115-979f-1149c27b0dbb", "page": 6, "type": "paragraph", "text": "that in\ufb02uenza vaccinations are captured accurately in the EMR. If"}
+{"id": "1681e5a9-3daf-4007-8d11-0a0031d04aad", "page": 6, "type": "paragraph", "text": "vaccinations were not captured in the EMR or state registry, they"}
+{"id": "c34939f3-14e5-49fa-8d1a-f22ea8df8840", "page": 6, "type": "paragraph", "text": "were classi\ufb01ed as unvaccinated. While this classi\ufb01cation would"}
+{"id": "95fe5376-c5d0-4b01-83d0-6fea0c2ed164", "page": 6, "type": "paragraph", "text": "likely introduce bias into VE estimates [16], it would likely not bias"}
+{"id": "f1fa8871-4a37-48a9-91b9-6bda5298e112", "page": 6, "type": "paragraph", "text": "rVE estimates, as there is no reason to believe that any vaccine is"}
+{"id": "5718c1aa-6c34-45b3-b8a7-ed07de441145", "page": 6, "type": "paragraph", "text": "preferentially included or excluded from reporting to the state reg-"}
+{"id": "80ce9d4d-e328-49e9-b0e1-a925cced87ca", "page": 6, "type": "paragraph", "text": "istry. This study excluded subjects with immunosuppressive con-"}
+{"id": "c8492d02-e2ea-4813-b8e1-e67fc76be7b2", "page": 6, "type": "paragraph", "text": "ditions or those receiving immunosuppressive therapy whose"}
+{"id": "b6b5d3c8-9b4d-4d73-9496-3c8f910de12f", "page": 6, "type": "paragraph", "text": "response to vaccines is limited. Because data focused on hospital-"}
+{"id": "43dcd408-2de1-4b74-91c7-697af190bdc6", "page": 6, "type": "paragraph", "text": "ized patients, there may have been milder cases that did not"}
+{"id": "ab929e31-95bd-439c-9c6c-18083205fd5c", "page": 6, "type": "paragraph", "text": "require medical care and were not captured in the EMR, thus did"}
+{"id": "eb3f0f8f-c3ce-4df1-af4e-3fe4f71ba711", "page": 6, "type": "paragraph", "text": "not contribute to these estimates. Adding measures of severity of"}
+{"id": "617dd65a-eb2c-4b94-8c88-629ec2cfddef", "page": 6, "type": "paragraph", "text": "illness into the model would improve the accuracy of the VE esti-"}
+{"id": "d2f8c777-d39f-4059-9cff-0def7c185276", "page": 6, "type": "paragraph", "text": "mates, however, these measures were not available. The differ-"}
+{"id": "a250d589-8319-4b67-8af6-62ef2da4f567", "page": 6, "type": "paragraph", "text": "ences"}
+{"id": "64b55a42-90e8-4035-b618-d61740ceaf0d", "page": 6, "type": "paragraph", "text": "in"}
+{"id": "ba1c309c-e727-4cdd-94a8-ff990d37969a", "page": 6, "type": "paragraph", "text": "severity"}
+{"id": "206223a8-9067-4967-80aa-9bd5be1a985d", "page": 6, "type": "paragraph", "text": "are"}
+{"id": "d1a0327f-3ee9-4747-94bd-9794ed2662a1", "page": 6, "type": "paragraph", "text": "likely"}
+{"id": "a40d7294-2a35-4468-bb4e-c0f3119baca2", "page": 6, "type": "paragraph", "text": "narrower"}
+{"id": "ee6a5fb3-f210-4a8c-baab-c7ec07040b7f", "page": 6, "type": "paragraph", "text": "given"}
+{"id": "c7c86539-e294-43bf-8755-7161bac47b9c", "page": 6, "type": "paragraph", "text": "that"}
+{"id": "f7532929-6139-45a8-8382-9eb27a8cee73", "page": 6, "type": "paragraph", "text": "all"}
+{"id": "f3f8f18f-7a37-4650-bd3c-24238f7f66bd", "page": 6, "type": "paragraph", "text": "were"}
+{"id": "b3127064-a63e-456b-9156-c28796be093b", "page": 6, "type": "paragraph", "text": "suf\ufb01ciently ill to require hospitalization, thus mitigating the need"}
+{"id": "71b5d3da-039e-4e47-ad0d-e64b67198c0a", "page": 6, "type": "paragraph", "text": "for such an adjustment. It is possible that there may have been"}
+{"id": "aa1c087b-8f2d-475b-9c14-c3beb59e4711", "page": 6, "type": "paragraph", "text": "selection bias among those who received in\ufb02uenza virus testing,"}
+{"id": "17c9c7ec-e168-456b-ba9a-3c7380fe90f2", "page": 6, "type": "paragraph", "text": "for example, clinicians may preferentially test those who are"}
+{"id": "c9de6c03-e0f4-4e35-8410-a35351e3ad18", "page": 6, "type": "paragraph", "text": "unvaccinated against in\ufb02uenza thus increasing the proportion of"}
+{"id": "79002e26-1de7-407f-ba10-a2f255a8f910", "page": 6, "type": "paragraph", "text": "unvaccinated cases. Based on a previous study among patients in"}
+{"id": "6d766bc9-ef49-421b-a4c9-3d22ca773619", "page": 6, "type": "paragraph", "text": "this health system that found no increase in testing based on vac-"}
+{"id": "37f74a2e-76f5-4d0c-896f-aa3f455c8827", "page": 6, "type": "paragraph", "text": "cination status [19], we feel con\ufb01dent that this is not a concern."}
+{"id": "6b0c469c-dbfa-4752-8e14-e67b69e0aa8d", "page": 6, "type": "paragraph", "text": "While a relatively large cohort of adults is included in this study,"}
+{"id": "e7b58936-79e8-497f-862a-0f1cebfcf8a4", "page": 6, "type": "paragraph", "text": "the sample size of SD-IIV4 recipients may have been inadequate"}
+{"id": "9d78b546-32d0-471d-9962-2f7fc26b7fdb", "page": 6, "type": "paragraph", "text": "to detect meaningful rVE estimates for speci\ufb01c subgroups."}
+{"id": "03c71461-02b0-4979-b9b1-4eb5fae69e6f", "page": 6, "type": "paragraph", "text": "These data should be viewed in the context of the seasons for"}
+{"id": "11aa16e7-6209-45bb-ade7-4029de12c03b", "page": 6, "type": "paragraph", "text": "which data were collected. These seasons were \u2018\u2018typical\u201d in that"}
+{"id": "edaf0d90-2a92-4e5e-8651-d6ed64b22856", "page": 6, "type": "paragraph", "text": "in\ufb02uenza began to increase in November, peaking in January and"}
+{"id": "0cd0ac7b-e367-49c0-adc2-d4ce161029f8", "page": 6, "type": "paragraph", "text": "February both seasons, and numbers of in\ufb02uenza-related deaths"}
+{"id": "15ac995f-289d-4bae-a9aa-523696653660", "page": 6, "type": "paragraph", "text": "were 28,000 in 2018\u20132019 and 25,000 in 2019\u20132020. These sea-"}
+{"id": "e3d2e88b-b2e4-44b7-b498-ae268456c5b6", "page": 6, "type": "paragraph", "text": "sons were atypical in that virtually no in\ufb02uenza B circulated in"}
+{"id": "047a43f8-66d3-47c8-ad00-49431ff202f5", "page": 6, "type": "paragraph", "text": "2018\u20132019 but there were both A(H1N1) and A(H3N2) peaks"}
+{"id": "81c3b1d7-0266-4ca6-ae44-c877d543ec5a", "page": 6, "type": "paragraph", "text": "and in 2019\u20132020, in\ufb02uenza B circulated early followed by A"}
+{"id": "712dadb4-6346-4958-bec4-2f1506412a29", "page": 6, "type": "paragraph", "text": "(H1N1) in contrast to typical seasons in which the in\ufb02uenza A"}
+{"id": "d5975cf0-c6cb-4057-951a-df0c73a7e862", "page": 6, "type": "paragraph", "text": "wave precedes the in\ufb02uenza B wave [14,15]. Seasons with higher"}
+{"id": "0308f9ce-7910-4030-9dee-3d1b18091773", "page": 6, "type": "paragraph", "text": "circulation of A(H3N2) may demonstrate higher rVE of RIV4,"}
+{"id": "52637679-785b-421b-9daf-044b7a74a02b", "page": 6, "type": "paragraph", "text": "because it is not subject to mutations to the A(H3N2) glycosylation"}
+{"id": "d8a415be-ee42-4110-9565-9f711cccbea5", "page": 6, "type": "paragraph", "text": "binding site that reduce the effectiveness of egg-based vaccines."}
+{"id": "960f6a7d-f2f2-427b-a4ce-a824d8368d7b", "page": 6, "type": "paragraph", "text": "5. Conclusions"}
+{"id": "edef5534-32eb-4453-bf94-6b20a3c2d76e", "page": 6, "type": "paragraph", "text": "Both RIV4 and SD-IIV4 were signi\ufb01cantly effective among all"}
+{"id": "c0bb33bf-8d82-4707-8d1e-ead7f75e7408", "page": 6, "type": "paragraph", "text": "adults"}
+{"id": "a047d4f0-ed84-4045-944a-4ad46f100992", "page": 6, "type": "paragraph", "text": "against"}
+{"id": "27138d69-b9f7-4395-9ff3-e4715e8adca7", "page": 6, "type": "paragraph", "text": "in\ufb02uenza-related"}
+{"id": "d905abd0-ec29-4a7f-bf26-629e2ed591ae", "page": 6, "type": "paragraph", "text": "hospitalizations"}
+{"id": "35705351-c4e3-47de-a2f8-c48f0811d6fd", "page": 6, "type": "paragraph", "text": "during"}
+{"id": "15db2689-18e5-4f9b-b968-c5c5e94cdcfc", "page": 6, "type": "paragraph", "text": "the"}
+{"id": "ae534563-319e-4636-bdf5-9bb0be876bf1", "page": 6, "type": "paragraph", "text": "Table 5"}
+{"id": "41f097ba-9ae6-461c-b6ff-441bbd00a9bb", "page": 6, "type": "paragraph", "text": "Relative vaccine effectiveness (rVE) of recombinant quadrivalent in\ufb02uenza vaccine (RIV4)a and RIV4 + high dose quadrivalent in\ufb02uenza vaccine (HD-IIV4)b + adjuvanted in\ufb02uenza vaccine (Adj-IV)c vs. standard dose quadrivalent"}
+{"id": "00687a4e-4cc5-42f2-836d-bc01ba06f542", "page": 6, "type": "paragraph", "text": "in\ufb02uenza vaccine (SD-IIV4)d by age group, % (95 % CI)."}
+{"id": "fcd5da4e-9a7b-44e2-81e7-560b79ec6ef6", "page": 6, "type": "paragraph", "text": "Group"}
+{"id": "02bfed61-8526-4492-b2ca-1e2fee9a9b3b", "page": 6, "type": "paragraph", "text": "Adjusted rVE of RIV4 vs. SD-IIV4, 18\u201364 years using:"}
+{"id": "8684b19b-82fe-478d-ae84-be80b5b7910f", "page": 6, "type": "paragraph", "text": "Adjusted rVE of RIV4 vs. SD-IIV4, \u000165 years using:"}
+{"id": "48a44eb5-ce23-4a9c-9d05-a200f3401d3b", "page": 6, "type": "paragraph", "text": "Adjusted rVE of RIV4 + HD-IIV4 + adjuvanted IIV4 vs. SD-"}
+{"id": "755cb7ab-04a9-4e04-8aef-5eeb61627a32", "page": 6, "type": "paragraph", "text": "IIV4, \u000165 years using:"}
+{"id": "3b11950e-e136-46a3-a1fb-b4d1a728ac66", "page": 6, "type": "paragraph", "text": "a priori variablese"}
+{"id": "32b69531-cb3c-4b84-9b69-567e86f3c543", "page": 6, "type": "paragraph", "text": "Propensity scoref"}
+{"id": "181a0b50-3461-4d96-a791-4d4c9fb1d2f1", "page": 6, "type": "paragraph", "text": "Inverse Probability"}
+{"id": "aca1dda4-7482-45b5-b00a-76e7d0d17137", "page": 6, "type": "paragraph", "text": "weighting"}
+{"id": "56a5abcc-c221-490c-b1b0-d589774a022f", "page": 6, "type": "paragraph", "text": "a priori variablese"}
+{"id": "9c72906c-642f-4986-9df2-82decee11c94", "page": 6, "type": "paragraph", "text": "Propensity scoref"}
+{"id": "1b5a6a4d-e04f-4e73-8b38-3f795f4cc9c1", "page": 6, "type": "paragraph", "text": "Inverse Probability"}
+{"id": "65e7c9c6-8374-4ea3-91a4-54370d6eadaf", "page": 6, "type": "paragraph", "text": "weighting"}
+{"id": "b5731595-0ae0-42b3-ba9b-da90be8e4ca9", "page": 6, "type": "paragraph", "text": "a priori variablee"}
+{"id": "8583a291-71fd-4ab7-b1ef-ed75e7a6e912", "page": 6, "type": "paragraph", "text": "Propensity scoref"}
+{"id": "00b2500f-21dd-4d14-8ab1-933d85a71576", "page": 6, "type": "paragraph", "text": "Inverse Probability"}
+{"id": "a4230b41-3dee-4e96-ba88-0a682c1ad68b", "page": 6, "type": "paragraph", "text": "weighting"}
+{"id": "632f23f8-b0cd-4aee-8f74-c5ac8651e828", "page": 6, "type": "paragraph", "text": "Overall"}
+{"id": "ee792b3d-7957-4c92-98ff-c5cb6a619c59", "page": 6, "type": "paragraph", "text": "28 (2, 46)"}
+{"id": "9566222e-0698-4720-affc-c4ea3b285b7a", "page": 6, "type": "paragraph", "text": "28 (2, 46)"}
+{"id": "72b6f6c1-39aa-4153-a09d-50c42b0162ea", "page": 6, "type": "paragraph", "text": "29 (4, 47)"}
+{"id": "fae7006c-0b27-4839-82d4-29dadae0265a", "page": 6, "type": "paragraph", "text": "22 (\u000326, 51)"}
+{"id": "8585a647-da44-4bc0-8f49-d7a4c244a5d5", "page": 6, "type": "paragraph", "text": "12 (\u000344, 47)"}
+{"id": "a72f9228-3b36-47ce-872b-f0c25809cd6e", "page": 6, "type": "paragraph", "text": "25 (\u000320, 53)"}
+{"id": "db41e12f-e3fd-4291-9bb9-5ff27cd1e386", "page": 6, "type": "paragraph", "text": "17 (\u000331, 48)"}
+{"id": "2f727df7-fb93-42c9-8029-84cfdc1256bd", "page": 6, "type": "paragraph", "text": "17 (\u201332, 47)"}
+{"id": "f45d52ca-f0ae-4322-8bfc-3735ef92b5e3", "page": 6, "type": "paragraph", "text": "13 (\u000331, 48)"}
+{"id": "37b93e36-4d56-4e69-afe0-7ae9de9a4dd1", "page": 6, "type": "paragraph", "text": "Female sex"}
+{"id": "aae55cdc-ba01-4e70-a23f-558f9fe12e4c", "page": 6, "type": "paragraph", "text": "19 (\u000317, 44)"}
+{"id": "7b4ad35a-140b-42d3-9c2d-45e50d38f7cd", "page": 6, "type": "paragraph", "text": "20 (\u000316, 45)"}
+{"id": "1e52c5b4-6f5e-4283-81fc-e797d22bf550", "page": 6, "type": "paragraph", "text": "19 (\u000316, 44)"}
+{"id": "bdac7ce0-7407-432e-84a6-4d5677e079d9", "page": 6, "type": "paragraph", "text": "38 (\u000317, 67)"}
+{"id": "c1dd67aa-9e82-49c7-a824-460c7de93c01", "page": 6, "type": "paragraph", "text": "30 (\u000340, 65)"}
+{"id": "2d2069ef-049b-4375-b093-d68a6d98bd33", "page": 6, "type": "paragraph", "text": "32 (\u000335, 66)"}
+{"id": "ecca37f9-c527-4641-8b53-bbf0dd2683fa", "page": 6, "type": "paragraph", "text": "30 (\u000328, 62)"}
+{"id": "bd6e27f1-e61f-4e37-9684-abf98446d3c4", "page": 6, "type": "paragraph", "text": "31 (\u000327, 62)"}
+{"id": "a5840678-6db7-4b95-b166-1813d07d3131", "page": 6, "type": "paragraph", "text": "31 (\u000326, 62)"}
+{"id": "469b2595-6771-433e-9ecb-5f25bccdd2eb", "page": 6, "type": "paragraph", "text": "Male sex"}
+{"id": "105f08a6-7ae7-4cc3-9a3b-dd17bb3ef979", "page": 6, "type": "paragraph", "text": "41 (2, 65)"}
+{"id": "c5a93d5b-3850-4aa6-a153-f03f3e6faa24", "page": 6, "type": "paragraph", "text": "41 (3, 65)"}
+{"id": "4865d7d8-18a7-48af-b6bc-f9204a8beeda", "page": 6, "type": "paragraph", "text": "43 (6, 65)"}
+{"id": "61e6675d-ae94-402a-a728-e652b5f6e9fa", "page": 6, "type": "paragraph", "text": "\u00034 (\u0003117, 50)"}
+{"id": "791cfdb1-5b2e-4c9f-adae-b59f80da3a2e", "page": 6, "type": "paragraph", "text": "\u000312 (\u0003134, 47)"}
+{"id": "a2979e60-ff64-4767-b392-92a527d09ab1", "page": 6, "type": "paragraph", "text": "\u000311 (\u0003131, 47)"}
+{"id": "9dd8be88-21d8-4f80-b613-bd8501e1fa54", "page": 6, "type": "paragraph", "text": "\u00031 (\u00038, 51)"}
+{"id": "b34e74c9-5d1d-4476-9db2-93cb78f7a5e3", "page": 6, "type": "paragraph", "text": "\u00035 (\u0003116, 49)"}
+{"id": "852582d6-d3cf-4329-a9d5-219ef230f76f", "page": 6, "type": "paragraph", "text": "\u00035 (\u0003115, 49)"}
+{"id": "2ab39e4f-ec37-4f97-b97e-1691decaca2a", "page": 6, "type": "paragraph", "text": "High-risk condition"}
+{"id": "e96d053e-601e-47e6-9d0f-803e7cfbd2cb", "page": 6, "type": "paragraph", "text": "20 (\u000314, 43)"}
+{"id": "2f360628-a4a1-435f-9326-afb2de3747ab", "page": 6, "type": "paragraph", "text": "19 (\u000315, 82)"}
+{"id": "19742618-d972-4a29-8911-225aafec8089", "page": 6, "type": "paragraph", "text": "18 (\u000315, 42)"}
+{"id": "2dd03d4c-65a1-4a9a-9878-e6eeabf01175", "page": 6, "type": "paragraph", "text": "16 (\u000341, 50)"}
+{"id": "c6962d3c-d3a2-4d86-9da9-654f80858523", "page": 6, "type": "paragraph", "text": "17 (\u000340, 51)"}
+{"id": "548fb9c9-ef3a-4ffa-bdf7-c23b91518256", "page": 6, "type": "paragraph", "text": "17 (\u000340, 50)"}
+{"id": "396bbb5a-fc65-4568-86e3-4c6668c15b1e", "page": 6, "type": "paragraph", "text": "14 (\u000343, 49)"}
+{"id": "4c8ab90c-704e-4588-b6cf-5ca4b13aaa30", "page": 6, "type": "paragraph", "text": "15 (\u000342, 49)"}
+{"id": "aa46b64d-0dd7-42aa-9801-bebe88097298", "page": 6, "type": "paragraph", "text": "15 (\u000342, 49)"}
+{"id": "713ab775-f2da-42f5-a1a3-e8d7c6653722", "page": 6, "type": "paragraph", "text": "No high-risk condition"}
+{"id": "1976fe3c-df03-4b95-ba9a-18eb74ed6488", "page": 6, "type": "paragraph", "text": "50 (5, 74)"}
+{"id": "72babcc8-d6b6-4847-b3b3-8e850e2a30fa", "page": 6, "type": "paragraph", "text": "50 (5, 74)"}
+{"id": "46fafa61-4ba0-4aa0-889f-f3760dc50f9a", "page": 6, "type": "paragraph", "text": "51 (7, 74)"}
+{"id": "9897d4cb-764e-4a7b-b0bc-f3e1d656fba7", "page": 6, "type": "paragraph", "text": "\u201322 (\u0003459, 74)"}
+{"id": "972d1ef2-87b3-4960-8b5d-6032646165ff", "page": 6, "type": "paragraph", "text": "\u000320 (\u0003451, 74)"}
+{"id": "810f7bf8-cc10-4009-a758-89c0d9340e83", "page": 6, "type": "paragraph", "text": "\u000318 (\u0003442, 75)"}
+{"id": "9ec04dc4-c7a8-43e2-9811-3665c7896b3b", "page": 6, "type": "paragraph", "text": "28 (\u0003107, 75)"}
+{"id": "1ddf0bef-8879-47d2-a3a7-e3c7be494b38", "page": 6, "type": "paragraph", "text": "31 (\u000394, 76)"}
+{"id": "945f38d3-4ea5-4bbf-ac55-f2e8446e3674", "page": 6, "type": "paragraph", "text": "32 (\u000392, 76)"}
+{"id": "86a6d99f-1fe1-4409-aee8-337cc12edcbd", "page": 6, "type": "paragraph", "text": "2018\u20132019 season"}
+{"id": "172a10dd-4504-4e87-bca1-1ad063b9af14", "page": 6, "type": "paragraph", "text": "25 (\u000320, 53)"}
+{"id": "df9d5982-9d20-4556-9863-920d69ea7618", "page": 6, "type": "paragraph", "text": "26 (\u000319, 54)"}
+{"id": "179122c7-71c6-4a2b-b426-1091d849f195", "page": 6, "type": "paragraph", "text": "27 (\u000316, 55)"}
+{"id": "c165cadd-d8f4-4571-8343-b86580c7b470", "page": 6, "type": "paragraph", "text": "18 (\u000356, 57)"}
+{"id": "5ab2121b-4d95-4dc4-b26e-4f6b844e12b7", "page": 6, "type": "paragraph", "text": "12 (\u000368, 54)"}
+{"id": "58c1616d-10cd-44c2-8cb1-e87cffd97b3d", "page": 6, "type": "paragraph", "text": "12 (\u000369, 54)"}
+{"id": "554334c2-95e2-4e82-a180-622a95790e89", "page": 6, "type": "paragraph", "text": "21 (\u000341, 56)"}
+{"id": "12d49f68-3495-477d-af29-1150ac56c888", "page": 6, "type": "paragraph", "text": "19 (\u000345, 55)"}
+{"id": "9a2bdb9d-a9af-40a6-b197-53524255e283", "page": 6, "type": "paragraph", "text": "19 (\u000345, 54)"}
+{"id": "41192ad8-4626-43c1-b073-af5ef309fba1", "page": 6, "type": "paragraph", "text": "2019\u20132020 season"}
+{"id": "e1552643-2ee6-4fd7-ac12-47d9fc84839d", "page": 6, "type": "paragraph", "text": "30 (\u00033, 52)"}
+{"id": "63cb18a7-ec79-4a07-a564-93fccee95711", "page": 6, "type": "paragraph", "text": "28 (\u00036, 51)"}
+{"id": "06dd2a6c-9759-4d6c-9799-469e6f2727b3", "page": 6, "type": "paragraph", "text": "27 (\u00037, 51)"}
+{"id": "9ac0e915-dea9-49a1-b098-c441fa23ea1c", "page": 6, "type": "paragraph", "text": "12 (\u000388, 59)"}
+{"id": "081ec7b4-90d3-435d-90aa-2656aaa43a06", "page": 6, "type": "paragraph", "text": "13 (\u000385, 60)"}
+{"id": "5adce940-8a4d-471b-8567-abb1bad14bcb", "page": 6, "type": "paragraph", "text": "13 (\u000386, 59)"}
+{"id": "69d59fb7-72e7-428d-8ccd-e78b165f950a", "page": 6, "type": "paragraph", "text": "11 (\u000390, 58)"}
+{"id": "61e7b126-9428-4acb-b3fd-39decd39cc49", "page": 6, "type": "paragraph", "text": "11 (\u000388, 58)"}
+{"id": "950df218-427c-4344-88fc-6eabe2d1d6ae", "page": 6, "type": "paragraph", "text": "12 (\u000388, 59)"}
+{"id": "896d822e-caca-45ba-999e-b8a4d39fa820", "page": 6, "type": "paragraph", "text": "a RIV: Flublok."}
+{"id": "254387d2-800b-46a8-87f3-a120c2db86a3", "page": 6, "type": "paragraph", "text": "b HD-IIV4: high dose Fluzone."}
+{"id": "152344c4-0ed9-410c-9fc2-af82d1e476de", "page": 6, "type": "paragraph", "text": "c Adjuvanted: Fluad."}
+{"id": "a42a022b-cc8b-4140-ba3f-e93f1090eeda", "page": 6, "type": "paragraph", "text": "d SD-IIV4: A\ufb02uria, Fluarix, FluLaval, SD Fluzone, and cell-cultured Flucelvax."}
+{"id": "98082159-ec7f-42bb-a1e9-32e18948d078", "page": 6, "type": "paragraph", "text": "e Multivariable logistic regression model adjusted for age, race, sex, season, and high-risk conditions, except that the strati\ufb01ed variable is not included as an adjustment in its own analysis."}
+{"id": "59bf0653-8674-41c5-9185-589c0f48d3c8", "page": 6, "type": "paragraph", "text": "f Propensity score: Generalized Boosted Regression Method was used to calculate the propensity score using TWANG (Toolkit for Weighting and Analysis of Nonequivalent Groups)."}
+{"id": "11b3dd7d-384b-4358-95fc-428e97f21f7b", "page": 6, "type": "paragraph", "text": "R.K. Zimmerman, M. Patricia Nowalk, K. Dauer et al."}
+{"id": "bf64cf89-de4d-454a-9619-740769f5ae01", "page": 6, "type": "paragraph", "text": "Vaccine 41 (2023) 5134\u20135140"}
+{"id": "1b3b4b22-cddf-4b55-a17b-729817f21f57", "page": 6, "type": "paragraph", "text": "5139"}
+{"id": "f67deb15-8fe7-4f6e-8eb2-226a72ad8ac9", "page": 7, "type": "paragraph", "text": "2018\u20132019 and 2019\u20132020 in\ufb02uenza seasons. Adjusted VEs for"}
+{"id": "d891fe43-40c5-49b1-b39e-6c1869fea291", "page": 7, "type": "paragraph", "text": "RIV4, but not SD-IIV4 were signi\ufb01cant for each of the subgroups"}
+{"id": "d4133c34-656b-4728-af2e-45f5ebb32af9", "page": 7, "type": "paragraph", "text": "tested. Relative vaccine effectiveness of RIV4 compared with SD-"}
+{"id": "ba7ceb2c-1cc5-4f97-abc6-7817fbf5c8ef", "page": 7, "type": "paragraph", "text": "IIV4 was signi\ufb01cant for all adults and for younger and healthier"}
+{"id": "7b72f653-7a5c-48e9-8c02-59ebc0a95d51", "page": 7, "type": "paragraph", "text": "recipients."}
+{"id": "dfdbf314-641b-4dd8-9840-3436f2966190", "page": 7, "type": "paragraph", "text": "Data availability"}
+{"id": "d7c6113e-e426-4d9a-bf0a-b4b0ee8fdcd3", "page": 7, "type": "paragraph", "text": "Data will be shared if approved by the health system."}
+{"id": "23e8e825-72d0-415d-95f4-cf1cc27641d7", "page": 7, "type": "paragraph", "text": "Declaration of Competing Interest"}
+{"id": "fc2b0b2b-50f6-4b56-bbe0-ca126fc0ec8e", "page": 7, "type": "paragraph", "text": "The authors declare the following \ufb01nancial interests/personal"}
+{"id": "20985abc-fbad-4a44-bcf2-8120b0c96d29", "page": 7, "type": "paragraph", "text": "relationships which may be considered as potential competing"}
+{"id": "5e70a375-cf8b-403d-af29-4462fe693c80", "page": 7, "type": "paragraph", "text": "interests: Drs. Zimmerman, Raviotta, Nowalk, and Balasubramani"}
+{"id": "d00fd7ea-6edf-4a0b-bcd0-213d761b5ae5", "page": 7, "type": "paragraph", "text": "received investigator-initiated grant funding from Sano\ufb01for this"}
+{"id": "f4c6131b-c788-4c85-a990-21c5100121b7", "page": 7, "type": "paragraph", "text": "project. Drs. Nowalk and Balasubramani, have grant funding from"}
+{"id": "14afd655-5abb-4f5a-9918-a13269b3bdd0", "page": 7, "type": "paragraph", "text": "Merck & Co., Inc. for an unrelated project. Ms. Dauer and Mr. Clarke"}
+{"id": "cb7d3384-1723-4dd3-a5d0-41c117d00730", "page": 7, "type": "paragraph", "text": "have no con\ufb02icts to report."}
+{"id": "11370484-c72f-43b1-9627-fc0d6ed317eb", "page": 7, "type": "paragraph", "text": "Acknowledgements"}
+{"id": "d3c26581-526d-4c26-910d-cbbe2b6b429e", "page": 7, "type": "paragraph", "text": "This work was supported by Sano\ufb01through an investigator-"}
+{"id": "d6df9827-8fe3-486e-a396-ee3e11d60c47", "page": 7, "type": "paragraph", "text": "initiated grant (SP-2021-13463; RKZ). This work represents the"}
+{"id": "0ce7e2e3-4299-42d4-80d2-7b3fbe6b44c3", "page": 7, "type": "paragraph", "text": "views of the authors and not Sano\ufb01."}
+{"id": "5f23aac1-fca8-4314-8cf0-4599a66216d6", "page": 7, "type": "paragraph", "text": "Data"}
+{"id": "3537b4bb-2d16-463d-a141-54e8644d0325", "page": 7, "type": "paragraph", "text": "Deidenti\ufb01ed data may be made available upon request."}
+{"id": "e24accd7-ada0-45ef-aabb-6b6833a209d5", "page": 7, "type": "paragraph", "text": "Author contributions"}
+{"id": "6981d20d-95b8-4728-b9f0-6daba429dd11", "page": 7, "type": "paragraph", "text": "RKZ conceived the study, procured funding, oversaw the project"}
+{"id": "d6ffa9c3-275c-4e3b-adf2-46b6bed49c68", "page": 7, "type": "paragraph", "text": "and edited the manuscript. GKB oversaw the data preparation and"}
+{"id": "c868a140-7e39-4f22-bc1d-bf669d11d27d", "page": 7, "type": "paragraph", "text": "analyses, and edited the manuscript. MPN drafted and edited the"}
+{"id": "8c66b3db-ce6f-4054-9b30-d27d399b3686", "page": 7, "type": "paragraph", "text": "manuscript. KD managed the data and edited the manuscript. LC"}
+{"id": "a62efa92-8709-420d-a071-f74071bf08aa", "page": 7, "type": "paragraph", "text": "procured data and edited the manuscript. JMR helped conceive"}
+{"id": "89f42af6-9221-47a3-a8a1-3eb72cc26a4f", "page": 7, "type": "paragraph", "text": "the study, procure funding and edited the manuscript."}
+{"id": "3a7815ab-4273-4bcf-9689-14d898b92658", "page": 7, "type": "paragraph", "text": "References"}
+{"id": "3699754c-9fc5-4f65-90a1-7b800fc8cd94", "page": 7, "type": "paragraph", "text": "[1] Ohmit SE, Thompson MG, Petrie JG, Thaker SN, Jackson ML, Belongia EA, et al."}
+{"id": "2568a137-83b6-4dfb-ba35-2491ce7aa1af", "page": 7, "type": "paragraph", "text": "In\ufb02uenza vaccine effectiveness in the 2011\u20132012 season: protection against"}
+{"id": "f544c8e9-b5fa-4719-b808-bb1f69970be6", "page": 7, "type": "paragraph", "text": "each circulating virus and the effect of prior vaccination on estimates. Clin"}
+{"id": "864e0cb3-cf2b-418e-b482-0dce63f68091", "page": 7, "type": "paragraph", "text": "Infect Dis 2014;58(3):319\u201327. https://doi.org/10.1093/Cid/Cit736."}
+{"id": "5fb78f9f-1809-4f4d-bf95-69cc16376665", "page": 7, "type": "paragraph", "text": "[2] McLean HQ, Thompson MG, Sundaram ME, Kieke BA, Gaglani M, Murthy K,"}
+{"id": "7f4644ac-8a25-4b30-94e6-fbef32a53833", "page": 7, "type": "paragraph", "text": "et al. In\ufb02uenza vaccine effectiveness in the United States during 2012\u20132013:"}
+{"id": "aa16e29a-2e5d-44b1-98ab-03f549b56519", "page": 7, "type": "paragraph", "text": "variable protection by age and virus type. J Infect Dis 2015;211(10):1529\u201340."}
+{"id": "27bbcb48-0299-4d79-bd71-6fdc15e6081d", "page": 7, "type": "paragraph", "text": "https://doi.org/10.1093/infdis/jiu647."}
+{"id": "9c08e463-b8d3-488c-912b-3aaf8200161c", "page": 7, "type": "paragraph", "text": "[3] Gaglani M, Pruszynski J, Murthy K, Clipper L, Robertson A, Reis M, et al."}
+{"id": "2ad06159-c59d-498a-9e38-1e6294a7c85b", "page": 7, "type": "paragraph", "text": "In\ufb02uenza vaccine effectiveness against 2009 pandemic in\ufb02uenza A (H1N1)"}
+{"id": "8db5d375-9c14-4307-86a9-c5b458f77d5e", "page": 7, "type": "paragraph", "text": "virus differed by vaccine type during 2013\u20132014 in the United States. J Infect"}
+{"id": "454e7c3b-0f7d-403c-9e0f-e6b964bf0f06", "page": 7, "type": "paragraph", "text": "Dis 2016;213(10):1546\u201356. https://doi.org/10.1093/infdis/jiv577."}
+{"id": "7ac668bc-3ae5-438f-8b78-0dde599b88dc", "page": 7, "type": "paragraph", "text": "[4] Zimmerman RK, Nowalk MP, Chung J, Jackson ML, Jackson LA, Petrie JG, et al."}
+{"id": "9f08ab64-da4b-4f4c-bb5c-6e82b3aabb7d", "page": 7, "type": "paragraph", "text": "2014\u20132015 in\ufb02uenza vaccine effectiveness in the United States by vaccine"}
+{"id": "d41acbbb-ae96-4a74-9f71-0132aed60c3f", "page": 7, "type": "paragraph", "text": "type. Clin Infect Dis 2016;63(12):1564\u201373."}
+{"id": "b8ecb674-84fe-49ee-a551-1f37eeca4873", "page": 7, "type": "paragraph", "text": "[5] Jackson ML, Chung JR, Jackson LA, et al. In\ufb02uenza vaccine effectiveness in the"}
+{"id": "3cbb9fbe-4148-4027-adbe-69e8de28d3c9", "page": 7, "type": "paragraph", "text": "United States \u2014 2015/16 season. N Engl J Med 2017;377(6):534\u201343."}
+{"id": "3d1099f6-cb28-40d0-bc17-8fad92a23d91", "page": 7, "type": "paragraph", "text": "[6] Zost SJ, Parkhouse K, Gumina ME, Kim K, Diaz Perez S, Wilson PC, et al."}
+{"id": "7517b6c5-be25-4e8e-83fe-b6a08a7f4046", "page": 7, "type": "paragraph", "text": "Contemporary H3N2 in\ufb02uenza viruses have a glycosylation site that alters"}
+{"id": "c60e791d-8234-4c9e-aee2-cbcc54b47de9", "page": 7, "type": "paragraph", "text": "binding of antibodies elicited by egg-adapted vaccine strains. Proc Natl Acad"}
+{"id": "7ca40f20-c32e-4b37-8e38-0943f4e00259", "page": 7, "type": "paragraph", "text": "Sci 2017;114(47):12578\u201383."}
+{"id": "61a1b323-a57f-4445-a804-31c0aaccef7b", "page": 7, "type": "paragraph", "text": "[7] DiazGranados CA, Dunning AJ, Kimmel M, Kirby D, Treanor J, Collins A, et al."}
+{"id": "66255405-3532-457b-a60d-a15fa2d9c158", "page": 7, "type": "paragraph", "text": "Ef\ufb01cacy of high-dose versus standard-dose in\ufb02uenza vaccine in older adults. N"}
+{"id": "d3abee77-dae1-4da6-9787-5cc1576d604f", "page": 7, "type": "paragraph", "text": "Engl J Med 2014;371(7):635\u201345."}
+{"id": "265418f6-3d67-4cdb-8373-bf456f9c21be", "page": 7, "type": "paragraph", "text": "[8] Doyle JD, Beacham L, Martin ET, Talbot HK, Monto A, Gaglani M, et al. Relative"}
+{"id": "c6335d80-2ff0-4e43-82ae-6df7f34350ef", "page": 7, "type": "paragraph", "text": "and absolute effectiveness of high-dose and standard-dose in\ufb02uenza vaccine"}
+{"id": "b46b2af3-cf07-4664-95d5-1be7b4faf70f", "page": 7, "type": "paragraph", "text": "against in\ufb02uenza-related hospitalization among older adults\u2014United States,"}
+{"id": "05a520a5-02da-499f-afa0-71d520def534", "page": 7, "type": "paragraph", "text": "2015\u20132017. Clin Infect Dis 2021;72(6):995\u20131003."}
+{"id": "81155b10-3098-4a6d-ae0e-19a64b4bcdea", "page": 7, "type": "paragraph", "text": "[9] Rajaram S, Boikos C, Gelone DK, Gandhi A. In\ufb02uenza vaccines: the potential"}
+{"id": "2b749f51-33bb-4026-ab74-7e7ded8767f1", "page": 7, "type": "paragraph", "text": "bene\ufb01ts of cell-culture isolation and manufacturing. Therap"}
+{"id": "7124e982-079f-40cb-8ad9-eaff1045e327", "page": 7, "type": "paragraph", "text": "Adv Vacc"}
+{"id": "11dc8ef3-864b-4d0d-85bb-68438bcf5fc9", "page": 7, "type": "paragraph", "text": "Immunoth 2020;8:1\u201310. https://doi.org/10.1177/2515135520908121."}
+{"id": "6409a875-9e89-4816-895d-3a8ed7daadd8", "page": 7, "type": "paragraph", "text": "[10] Izurieta HS, Lu M, Kelman J, Lu Y, Lindaas A, Loc J, et al. Comparative"}
+{"id": "3db4c936-78aa-4598-b568-cd3aa207d3e4", "page": 7, "type": "paragraph", "text": "effectiveness of in\ufb02uenza vaccines among US Medicare bene\ufb01ciaries ages 65"}
+{"id": "2af54ba1-398e-46c1-9d4c-b98e6f57f4b9", "page": 7, "type": "paragraph", "text": "years and older during the 2019\u20132020 season. Clin Infect Dis 2021;73(11):"}
+{"id": "5a309e9c-9269-4c26-82ff-ede0b49d2f75", "page": 7, "type": "paragraph", "text": "e4251\u20139."}
+{"id": "1e083d2c-4d3d-47f5-9bd0-476d89e99d59", "page": 7, "type": "paragraph", "text": "[11] Dunkle LM, Izikson R, Patriarca P, Goldenthal KL, Muse D, Callahan J, et al."}
+{"id": "f42fa9ba-8f68-40cf-b4e9-42cc48984409", "page": 7, "type": "paragraph", "text": "Ef\ufb01cacy of recombinant in\ufb02uenza vaccine in adults 50 years of age or older. N"}
+{"id": "fc729304-1a52-4a34-9062-8b2151c7cbe7", "page": 7, "type": "paragraph", "text": "Engl J Med 2017;376(25):2427\u201336."}
+{"id": "118b5dd1-ede5-447c-ae88-70e8f377dea3", "page": 7, "type": "paragraph", "text": "[12] Centers for Disease Control and Prevention. People at Higher Risk of Flu"}
+{"id": "05cd7e86-d571-466c-9a4c-51b529cff9c1", "page": 7, "type": "paragraph", "text": "Complications."}
+{"id": "b1ed3780-2ebb-4061-8e68-cedc78c5941f", "page": 7, "type": "paragraph", "text": "Updated"}
+{"id": "5be4e747-6adc-4a27-82eb-14cbb733d593", "page": 7, "type": "paragraph", "text": "9/6/2022."}
+{"id": "70e69fa7-4d04-48e5-ba20-f601c79717bd", "page": 7, "type": "paragraph", "text": "Accessed"}
+{"id": "680a5bf2-8b5c-4e81-9175-6a2069e33dd8", "page": 7, "type": "paragraph", "text": "12/19/2022,"}
+{"id": "fa560582-84aa-4c4b-bf43-afa198594bd7", "page": 7, "type": "paragraph", "text": "https://www."}
+{"id": "02ef2cf5-0870-4a25-a216-05d03d03d09f", "page": 7, "type": "paragraph", "text": "cdc.gov/\ufb02u/highrisk/index.htm."}
+{"id": "edaa38da-822c-4602-ae21-845619cfc33c", "page": 7, "type": "paragraph", "text": "[13] Grohskopf LA, Blanton LH, Ferdinands JM, Chung JR, Broder KR, Talbot HK,"}
+{"id": "787c0f3c-716c-4483-acad-add3b0febf22", "page": 7, "type": "paragraph", "text": "Morgan RL, Fry AM. Recommendations of the Advisory Committee on"}
+{"id": "43f36cdc-c59c-46ad-ac00-bb4dfc319ff0", "page": 7, "type": "paragraph", "text": "Immunization"}
+{"id": "66667651-4dfe-4d4f-a1e6-3e1f461356ed", "page": 7, "type": "paragraph", "text": "Practices"}
+{"id": "a706525b-ff2a-453b-a293-355307b20ff9", "page": 7, "type": "paragraph", "text": "\u2014"}
+{"id": "6400a548-8823-470e-bcc2-0238924ffb21", "page": 7, "type": "paragraph", "text": "United"}
+{"id": "a65d9929-787c-460d-9287-7c39cff7f43b", "page": 7, "type": "paragraph", "text": "States,"}
+{"id": "0b1ca471-aec1-447a-ae1e-6221d55cbd00", "page": 7, "type": "paragraph", "text": "2022\u201323"}
+{"id": "27e5e670-ecd5-4cd7-bda7-3a45a4e6169e", "page": 7, "type": "paragraph", "text": "In\ufb02uenza"}
+{"id": "df75a987-5594-4e2c-916f-6a08f2a258ac", "page": 7, "type": "paragraph", "text": "Season."}
+{"id": "ffa06f84-510d-49f8-a1e4-85392f8108e1", "page": 7, "type": "paragraph", "text": "Morbidity and Mortality Weekly Report (MMWR). August 26, 2022;71"}
+{"id": "12c673c3-9fdd-4c00-923f-15f77506a59d", "page": 7, "type": "paragraph", "text": "(1):1\u201328. https://doi.org/10.15585/mmwr.rr7101a1."}
+{"id": "6a988a35-e331-4452-be2e-4c6db9bde545", "page": 7, "type": "paragraph", "text": "[14] Centers for Disease Control and Prevention. Archived: Estimated In\ufb02uenza"}
+{"id": "c86ad464-7dfd-492d-aeb6-5132dda1eeb5", "page": 7, "type": "paragraph", "text": "Illnesses, Medical visits, Hospitalizations, and Deaths in the United States \u2014"}
+{"id": "9ba490e4-682e-4a7f-8e56-ad9da0a9cc15", "page": 7, "type": "paragraph", "text": "2018\u20132019 in\ufb02uenza season. Updated 9/30/2021. Accessed 2/7/2023, https://"}
+{"id": "af707753-7e6e-46a4-af41-87fcb3e6f37e", "page": 7, "type": "paragraph", "text": "www.cdc.gov/\ufb02u/about/burden/2018-2019/archive-09292021.html#:\u0004:"}
+{"id": "e592291c-b7ea-4e30-875f-bf61c62b2570", "page": 7, "type": "paragraph", "text": "text=The%20overall%20burden%20of%20in\ufb02uenza,hospitalizations%2C%20and"}
+{"id": "5afb6628-abaa-4b68-b36a-a734a64fb581", "page": 7, "type": "paragraph", "text": "%2028%2C000%20\ufb02u%20deaths."}
+{"id": "6e52930e-6ae6-42ae-b7c5-326d613c312d", "page": 7, "type": "paragraph", "text": "[15] Centers for Disease Control and Prevention. Estimated Flu-Related Illnesses,"}
+{"id": "b2bad374-2dbe-4fd8-a2bb-a27b811ec923", "page": 7, "type": "paragraph", "text": "Medical visits, Hospitalizations, and Deaths in the United States \u2014 2019\u20132020"}
+{"id": "984c2752-2ac4-4357-a1c6-8724f106a28b", "page": 7, "type": "paragraph", "text": "Flu Season. Updated 10/7/2022. Accessed 2/7/2023, https://www.cdc.gov/\ufb02u/"}
+{"id": "4be8bf73-ae0d-4202-af29-cbc3caf8286c", "page": 7, "type": "paragraph", "text": "about/burden/2019-2020.html."}
+{"id": "4ab87518-d63a-4e96-8a74-2bed7eefb476", "page": 7, "type": "paragraph", "text": "[16] Flannery B, Fry AM. Comparing in\ufb02uenza vaccine types: the path toward"}
+{"id": "1ec76588-e4ad-4d3c-b00b-dadae2df85e1", "page": 7, "type": "paragraph", "text": "improved in\ufb02uenza vaccine strategies. Oxford University Press US; 2019. p."}
+{"id": "347f76f9-f19b-4b81-a1ac-9a7ab4db34ce", "page": 7, "type": "paragraph", "text": "1237\u20139."}
+{"id": "a602c579-7c02-41e2-baf1-4c144df36372", "page": 7, "type": "paragraph", "text": "[17] United States CensusBureau. Quick Facts Allegheny County, Pennsylvania."}
+{"id": "36d1d1f8-c368-4285-b51c-fd8af307e4a2", "page": 7, "type": "paragraph", "text": "Accessed"}
+{"id": "1ef6e529-3751-4c3e-afe2-5052cfb70b28", "page": 7, "type": "paragraph", "text": "2/7/2023,"}
+{"id": "e76f57d2-f999-4442-b555-b84607222bd4", "page": 7, "type": "paragraph", "text": "https://www.census.gov/quickfacts/"}
+{"id": "3ce08c93-43e2-4e21-b4c0-5e073f2ec294", "page": 7, "type": "paragraph", "text": "alleghenycountypennsylvania."}
+{"id": "9fb78c83-8155-47b0-af65-07c11e72a625", "page": 7, "type": "paragraph", "text": "[18] Nowalk MP, D\u2019Agostino HEA, Zimmerman RK, Saul SG, Susick M, Raviotta JM,"}
+{"id": "891ac648-1f19-4b91-b80e-3d0057155e9a", "page": 7, "type": "paragraph", "text": "et al. Agreement among sources of adult in\ufb02uenza vaccination in the age of"}
+{"id": "b421adb6-c411-464d-ab59-5d1aa321e17c", "page": 7, "type": "paragraph", "text": "immunization information systems. Vaccine 2021;39(47):6829\u201336."}
+{"id": "da118bef-a9bd-440f-aa79-8e1a575979f1", "page": 7, "type": "paragraph", "text": "[19] Balasubramani GK, Saul S, Nowalk MP, Middleton DB, Ferdinands JM,"}
+{"id": "4654b01a-87ab-4f42-a2e8-69e6cec03544", "page": 7, "type": "paragraph", "text": "Zimmerman"}
+{"id": "d6fc9272-b973-4dd2-a77f-b3418b1274c8", "page": 7, "type": "paragraph", "text": "RK."}
+{"id": "6c59d276-6eaf-4eba-b878-549f577752ce", "page": 7, "type": "paragraph", "text": "Does"}
+{"id": "e008d0d0-312d-41d2-9301-889bd3d6dd69", "page": 7, "type": "paragraph", "text": "in\ufb02uenza"}
+{"id": "18656278-161c-41d8-8a68-a42f48bf1c7a", "page": 7, "type": "paragraph", "text": "vaccination"}
+{"id": "530505b5-8690-4e44-93b7-fd20db8edaa0", "page": 7, "type": "paragraph", "text": "status"}
+{"id": "96a2e442-6b7e-4d4e-bd1c-49ee8ff1ea10", "page": 7, "type": "paragraph", "text": "change"}
+{"id": "cd384676-a6eb-4d76-a8f5-cf55128e1e0d", "page": 7, "type": "paragraph", "text": "physician"}
+{"id": "31b5804e-f977-400d-9848-7d4ab51b4607", "page": 7, "type": "paragraph", "text": "ordering patterns for respiratory viral panels? Inspection for selection bias."}
+{"id": "93c31884-1f3b-4805-b8b6-5d2e47ce9231", "page": 7, "type": "paragraph", "text": "Hum Vaccin Immunother 2019;15(1):91\u20136."}
+{"id": "968b12f1-07eb-4c62-87c9-d828c1d62da6", "page": 7, "type": "paragraph", "text": "R.K. Zimmerman, M. Patricia Nowalk, K. Dauer et al."}
+{"id": "8cf68e04-eea2-4148-b8b4-f88e94734414", "page": 7, "type": "paragraph", "text": "Vaccine 41 (2023) 5134\u20135140"}
+{"id": "4ddc06d9-47d1-424e-96e3-de768adc6d0f", "page": 7, "type": "paragraph", "text": "5140"}
