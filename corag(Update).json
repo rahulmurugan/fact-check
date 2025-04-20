@@ -1,0 +1,1169 @@
+{
+  "claims": [
+    {
+      "claim": "Flublok ensures identical antigenic match with WHO- and FDA-selected flu strains.",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Does Flublok guarantee an identical antigenic match with the flu strains selected by the World Health Organization (WHO) and the U.S. Food and Drug Administration (FDA)?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "of VE of Flublok against all strains, regardless of antigenic match, isolated from any",
+              "score": 0.7007983922958374
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok is standardized according to United States Public Health Service (USPHS)",
+              "score": 0.6621873378753662
+            },
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.6532954573631287
+            },
+            {
+              "source": "Treanor et al. (2011)",
+              "text": "(FluBlok®).",
+              "score": 0.649735152721405
+            },
+            {
+              "source": "FlublokPI",
+              "text": "[14]). Data for Flublok Quadrivalent are relevant to Flublok because both vaccines are",
+              "score": 0.6393035650253296
+            }
+          ],
+          "a": "1) The question is asking if Flublok always matches the flu strains chosen by the WHO and FDA.\n2) No specific evidence is provided in the context snippets regarding Flublok's antigenic match with the flu strains selected by the WHO and FDA.\n3) The conclusion is unclear due to lack of direct evidence in the provided context snippets."
+        },
+        {
+          "step": 2,
+          "q": "\"Can you provide scientific studies or official statements that confirm Flublok's antigenic match with the flu strains selected by the WHO and FDA?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "of VE of Flublok against all strains, regardless of antigenic match, isolated from any",
+              "score": 0.6892891526222229
+            },
+            {
+              "source": "FlublokPI",
+              "text": "[14]). Data for Flublok Quadrivalent are relevant to Flublok because both vaccines are",
+              "score": 0.608128547668457
+            },
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.6071932911872864
+            },
+            {
+              "source": "FlublokPI",
+              "text": "receive Flublok Quadrivalent or a Comparator inactivated inﬂuenza vaccine (Fluarix®",
+              "score": 0.5754315853118896
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok (Inﬂuenza Vaccine)",
+              "score": 0.5727088451385498
+            }
+          ],
+          "a": "1) The question is asking for scientific studies or official statements that verify the antigenic match of Flublok with the flu strains chosen by the WHO and FDA.\n2) The provided snippets do not contain any specific information about Flublok's antigenic match with the flu strains selected by the WHO and FDA.\n3) The conclusion is that no, there is no available evidence in the provided snippets that confirms Flublok's antigenic match with the flu strains selected by the WHO and FDA."
+        },
+        {
+          "step": 3,
+          "q": "\"Does the manufacturer of Flublok provide any information or claims about its vaccine's antigenic match with the flu strains selected by the WHO and FDA?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.713339626789093
+            },
+            {
+              "source": "FlublokPI",
+              "text": "[14]). Data for Flublok Quadrivalent are relevant to Flublok because both vaccines are",
+              "score": 0.707734227180481
+            },
+            {
+              "source": "FlublokPI",
+              "text": "of VE of Flublok against all strains, regardless of antigenic match, isolated from any",
+              "score": 0.7003180980682373
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok (Inﬂuenza Vaccine)",
+              "score": 0.693428635597229
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok is a vaccine indicated for active immunization for the prevention of disease",
+              "score": 0.6879754662513733
+            }
+          ],
+          "a": "1) The question is asking if the maker of Flublok has made any statements about how well its vaccine matches the flu strains chosen by the WHO and FDA.\n2) No specific evidence is provided in the context snippets regarding Flublok's antigenic match with the flu strains selected by the WHO and FDA.\n3) No, the provided context snippets do not contain any information about Flublok's antigenic match with the flu strains selected by the WHO and FDA."
+        },
+        {
+          "step": 4,
+          "q": "\"Does the production process of Flublok involve matching its antigens with the flu strains selected by the WHO and FDA?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "of VE of Flublok against all strains, regardless of antigenic match, isolated from any",
+              "score": 0.6735974550247192
+            },
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.6482476592063904
+            },
+            {
+              "source": "FlublokPI",
+              "text": "[14]). Data for Flublok Quadrivalent are relevant to Flublok because both vaccines are",
+              "score": 0.6205573678016663
+            },
+            {
+              "source": "FlublokPI",
+              "text": "antigenically resembling a strain represented in Flublok. CDC-ILI is deﬁned as fever of",
+              "score": 0.6198097467422485
+            },
+            {
+              "source": "Treanor et al. (2011)",
+              "text": "(FluBlok®).",
+              "score": 0.6180312633514404
+            }
+          ],
+          "a": "1) Is the production of Flublok based on matching its antigens with the flu strains chosen by the WHO and FDA?\n2) The provided snippets do not contain any information about the production process of Flublok or its relation to the flu strains selected by the WHO and FDA.\n3) Unable to conclude due to lack of relevant information in the provided context snippets."
+        },
+        {
+          "step": 5,
+          "q": "\"Have there been any clinical trials or studies that demonstrate Flublok's antigenic match with the flu strains selected by the WHO and FDA?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "of VE of Flublok against all strains, regardless of antigenic match, isolated from any",
+              "score": 0.7317262291908264
+            },
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.6683551073074341
+            },
+            {
+              "source": "FlublokPI",
+              "text": "[14]). Data for Flublok Quadrivalent are relevant to Flublok because both vaccines are",
+              "score": 0.6451453566551208
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok is a vaccine indicated for active immunization for the prevention of disease",
+              "score": 0.6284701824188232
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok®versus licensed inactivated inﬂuenza vaccine in healthy, medically stable adults",
+              "score": 0.6249642372131348
+            }
+          ],
+          "a": "1) The question is asking if there have been any studies or clinical trials showing that Flublok matches the flu strains chosen by the WHO and FDA.\n2) The context snippets do not provide any specific evidence regarding clinical trials or studies demonstrating Flublok's antigenic match with the flu strains selected by the WHO and FDA.\n3) The conclusion is unclear as the provided context does not contain information about Flublok's antigenic match with the flu strains selected by the WHO and FDA."
+        },
+        {
+          "step": 6,
+          "q": "\"Does the effectiveness of Flublok depend on its antigenic match with the flu strains selected by the WHO and FDA?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "of VE of Flublok against all strains, regardless of antigenic match, isolated from any",
+              "score": 0.7159237861633301
+            },
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.68657386302948
+            },
+            {
+              "source": "FlublokPI",
+              "text": "[14]). Data for Flublok Quadrivalent are relevant to Flublok because both vaccines are",
+              "score": 0.6528497338294983
+            },
+            {
+              "source": "Treanor et al. (2011)",
+              "text": "(FluBlok®).",
+              "score": 0.6494638323783875
+            },
+            {
+              "source": "Treanor et al. (2011)",
+              "text": "(FluBlok®)",
+              "score": 0.6417362689971924
+            }
+          ],
+          "a": "1) The question is asking if the effectiveness of Flublok is dependent on its antigenic match with the flu strains chosen by the WHO and FDA.\n2) The key evidence is: \"of VE of Flublok against all strains, regardless of antigenic match, isolated from any” (FlublokPI).\n3) No, the effectiveness of Flublok does not depend on its antigenic match with the flu strains selected by the WHO and FDA, as it is effective against all strains regardless of antigenic match."
+        }
+      ]
+    },
+    {
+      "claim": "Flublok contains 3x the hemagglutinin (HA) antigen content of standard-dose flu vaccines, which has been linked to greater immunogenicity vs standard-dose flu vaccines.",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Does Flublok indeed contain three times the hemagglutinin (HA) antigen content compared to standard-dose flu vaccines, and has this been linked to greater immunogenicity?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "hemagglutinin protein vaccine (FluBlok) against inﬂuenza in healthy adults: a randomized,",
+              "score": 0.7437782287597656
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "hemagglutinin influenza vaccine provides",
+              "score": 0.7327693104743958
+            },
+            {
+              "source": "FlublokPI",
+              "text": "expressed hemagglutinin inﬂuenza vaccine: a randomized controlled trial. JAMA. 2007,",
+              "score": 0.7062399387359619
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "HA IN OTHER INFLUENZA VACCINES",
+              "score": 0.686101496219635
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "viral hemagglutinin. Vaccine 27, 4325–4336 (2009).",
+              "score": 0.6787600517272949
+            }
+          ],
+          "a": "1) The question is asking if Flublok has three times the hemagglutinin (HA) antigen content compared to standard flu vaccines, and if this is associated with increased immunogenicity.\n2) The provided context snippets do not contain any information about the HA antigen content in Flublok or its relation to immunogenicity.\n3) The conclusion cannot be drawn due to insufficient evidence in the provided context snippets."
+        },
+        {
+          "step": 2,
+          "q": "\"Is there any scientific research or study that supports the claim that higher HA antigen content in flu vaccines, like in Flublok, leads to greater immunogenicity?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "considered related to the study vaccines.",
+              "score": 0.7106602191925049
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": ".­gov/​­flu/​­vaccines​-­work/​­vaccineeffect​",
+              "score": 0.6975225210189819
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Available Vaccines",
+              "score": 0.6954274773597717
+            },
+            {
+              "source": "Treanor et al. (2011)",
+              "text": "vaccine-like.",
+              "score": 0.6927763223648071
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "adjuvants, could also improve vaccine immunogenicity.",
+              "score": 0.6926029920578003
+            }
+          ],
+          "a": "1) The question is asking if there is any scientific evidence that supports the idea that a higher HA antigen content in flu vaccines, such as Flublok, results in increased immunogenicity.\n\n2) No relevant fragments are provided in the context snippets.\n\n3) Unable to draw a conclusion due to lack of relevant evidence in the provided context snippets."
+        },
+        {
+          "step": 3,
+          "q": "\"Has the HA antigen content of Flublok been compared to that of standard-dose flu vaccines in any clinical trials or studies?\"",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "vaccine (Flublok Quadrivalent) or one of two standard-dose influenza vaccines",
+              "score": 0.7703351378440857
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "standard-dose vaccines in patients between the",
+              "score": 0.7406430244445801
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "dose vaccines against laboratory-confirmed in-",
+              "score": 0.7383033037185669
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "than were the standard-dose vaccines.",
+              "score": 0.7364381551742554
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "standard-dose inactivated vaccines). The adjuvanted vaccine",
+              "score": 0.7311050295829773
+            }
+          ],
+          "a": "1) The question is asking if the HA antigen content of Flublok has been compared to standard-dose flu vaccines in any studies or clinical trials.\n2) The key evidence is: \"vaccine (Flublok Quadrivalent) or one of two standard-dose influenza vaccines\" (Hsiao et al. (2023)).\n3) The conclusion is unclear as the provided snippets do not provide direct evidence of a comparison of the HA antigen content between Flublok and standard-dose flu vaccines."
+        },
+        {
+          "step": 4,
+          "q": "\"Does the increased HA antigen content in Flublok result in a higher rate of side effects compared to standard-dose flu vaccines?\"",
+          "evidence": [
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "higher dose vaccines, which contain an increased dose of HA",
+              "score": 0.7291116714477539
+            },
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.703606128692627
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "following higher dose or adjuvanted influenza vaccines:",
+              "score": 0.7034265398979187
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "vaccine (Flublok Quadrivalent) or one of two standard-dose influenza vaccines",
+              "score": 0.7030466794967651
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok (Inﬂuenza Vaccine)",
+              "score": 0.6835267543792725
+            }
+          ],
+          "a": "1) The question is asking if Flublok, with its increased HA antigen content, causes more side effects than standard-dose flu vaccines.\n2) The provided snippets do not contain any direct information about the rate of side effects in relation to the increased HA antigen content in Flublok.\n3) The conclusion cannot be drawn from the provided snippets as they do not provide information on the correlation between Flublok's increased HA antigen content and the rate of side effects."
+        },
+        {
+          "step": 5,
+          "q": "\"Are there any official statements or guidelines from health organizations regarding the use of Flublok due to its higher HA antigen content?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "of VE of Flublok against all strains, regardless of antigenic match, isolated from any",
+              "score": 0.6051520705223083
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok is standardized according to United States Public Health Service (USPHS)",
+              "score": 0.5894617438316345
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok is a vaccine indicated for active immunization for the prevention of disease",
+              "score": 0.588042676448822
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok is a vaccine indicated for active immunization for the prevention of disease caused",
+              "score": 0.5721760988235474
+            },
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.565423846244812
+            }
+          ],
+          "a": "1) The question is asking if there are any official health guidelines or statements about the use of Flublok due to its high HA antigen content.\n2) The context snippets do not provide any specific information about official health guidelines or statements regarding the use of Flublok due to its high HA antigen content.\n3) No, there are no official statements or guidelines from health organizations regarding the use of Flublok due to its higher HA antigen content provided in the given context snippets."
+        },
+        {
+          "step": 6,
+          "q": "\"Are there any age or health condition restrictions for the use of Flublok due to its higher HA antigen content?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "vaccine. Flublok is approved for use in persons 18 years of age and older. (1)",
+              "score": 0.7012933492660522
+            },
+            {
+              "source": "FlublokPI",
+              "text": "child from Flublok or from the underlying maternal condition. For preventive vaccines, the",
+              "score": 0.6401880979537964
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok is a vaccine indicated for active immunization for the prevention of disease",
+              "score": 0.6373392343521118
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "age and health status. If a vaccine other than ccIIV4 or",
+              "score": 0.6281203627586365
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "and age-appropriate vaccine is available, with the exception",
+              "score": 0.6259680986404419
+            }
+          ],
+          "a": "The question is asking if there are any age or health restrictions for the use of Flublok due to its high HA antigen content.\n\nThe key evidence is: “Flublok is approved for use in persons 18 years of age and older.\" (FlublokPI)\n\nThe conclusion is yes, there is an age restriction for the use of Flublok - it is approved for use in persons 18 years of age and older. The context snippets do not provide information about health condition restrictions."
+        }
+      ]
+    },
+    {
+      "claim": "Cell- and egg-based flu vaccines have the potential to develop mutations during production, which may reduce their effectiveness.",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Is it true that cell- and egg-based flu vaccines can develop mutations during production that may decrease their effectiveness?\"",
+          "evidence": [
+            {
+              "source": "Liu et al. (2024)",
+              "text": "vaccines have different egg-adaptated mutation on the HA of the",
+              "score": 0.7342973947525024
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "these are egg-based vaccines, and one is a cell culture–based",
+              "score": 0.6873234510421753
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "antigenic mutations introduced by egg-adaptation of the vaccine",
+              "score": 0.6837278604507446
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "observed that the impact of vaccine egg-adaptation on antibody",
+              "score": 0.6768566370010376
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "culture–based or recombinant vaccines); an influenza A/Darwin/9/2021 (H3N2)-like virus (for egg-based vaccines) or an influenza",
+              "score": 0.6748849153518677
+            }
+          ],
+          "a": "1) The question is asking if mutations can occur in cell- and egg-based flu vaccines during production, potentially reducing their effectiveness.\n\n2) The key evidence is: \"antigenic mutations introduced by egg-adaptation of the vaccine\" (Arunachalam et al. (2021)) and \"observed that the impact of vaccine egg-adaptation on antibody\" (Liu et al. (2024)).\n\n3) Yes, it is true. The evidence suggests that egg-adaptation of the vaccine can introduce mutations, which may impact their effectiveness."
+        }
+      ]
+    },
+    {
+      "claim": "Recombinant technology leads to a broader immune response that may provide cross-protection, even in a mismatch season.",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Is there scientific evidence to support the claim that recombinant technology can lead to a broader immune response and provide cross-protection, even in a mismatch season?\"",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "The evidence that the recombinant vaccine con-",
+              "score": 0.6045806407928467
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "that the recombinant vaccine may confer more",
+              "score": 0.5927006006240845
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "supply-chain issues for the recombinant vaccine,",
+              "score": 0.5892704129219055
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "who received the recombinant vaccine than",
+              "score": 0.5635327100753784
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "needed on the relative effectiveness of recombinant vaccines as compared with",
+              "score": 0.5598888397216797
+            }
+          ],
+          "a": "1) The question is asking if there is scientific proof that recombinant technology can result in a wider immune response and offer cross-protection, even when there's a mismatch in the season.\n\n2) The context snippets do not provide any direct evidence to support the claim.\n\n3) The conclusion is unclear as the provided context snippets do not offer any definitive evidence to support the claim that recombinant technology can lead to a broader immune response and provide cross-protection in a mismatch season."
+        },
+        {
+          "step": 2,
+          "q": "\"Can you provide specific studies or research that demonstrate recombinant technology leading to a broader immune response and providing cross-protection in a mismatch season?\"",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine to comply with the week-",
+              "score": 0.5972324013710022
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "that the recombinant vaccine may confer more",
+              "score": 0.5912483334541321
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "unique characteristic of the recombinant vaccine is likely related",
+              "score": 0.5906080007553101
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with standard-",
+              "score": 0.5880942940711975
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with standard-",
+              "score": 0.5880942940711975
+            }
+          ],
+          "a": "1) Is there any research or studies showing that recombinant technology can lead to a wider immune response and offer cross-protection during a mismatch season?\n2) The provided snippets do not contain any specific evidence or references to studies demonstrating that recombinant technology leads to a broader immune response or provides cross-protection in a mismatch season.\n3) No, based on the provided snippets, there is no specific research or studies demonstrating that recombinant technology leads to a broader immune response or provides cross-protection in a mismatch season."
+        },
+        {
+          "step": 3,
+          "q": "\"Has recombinant technology been used in the development of any vaccines that have shown to provide cross-protection in a mismatch season?\"",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "who received the recombinant vaccine than",
+              "score": 0.7554706931114197
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with standard-",
+              "score": 0.7541011571884155
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with standard-",
+              "score": 0.7541011571884155
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "between recombinant and split vaccines have been shown to",
+              "score": 0.7539305686950684
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "needed on the relative effectiveness of recombinant vaccines as compared with",
+              "score": 0.739721953868866
+            }
+          ],
+          "a": "1) The question is asking if any vaccines developed using recombinant technology have demonstrated cross-protection during a mismatch season.\n2) The provided snippets do not contain any specific information about recombinant vaccines providing cross-protection in a mismatch season.\n3) The conclusion is unclear as the provided context does not provide sufficient evidence to answer the question."
+        },
+        {
+          "step": 4,
+          "q": "\"Are there any scientific theories or mechanisms that could explain how recombinant technology might lead to a broader immune response and provide cross-protection in a mismatch season?\"",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "that the recombinant vaccine may confer more",
+              "score": 0.5863201022148132
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "The evidence that the recombinant vaccine con-",
+              "score": 0.5640702247619629
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "supply-chain issues for the recombinant vaccine,",
+              "score": 0.5506632924079895
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "recombinant inﬂuenza vaccines20. Thus far, there are few direct com-",
+              "score": 0.538141131401062
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "recombinant vaccines); an influenza A/Darwin/9/2021",
+              "score": 0.5371824502944946
+            }
+          ],
+          "a": "1) The question is asking if there are any scientific theories or mechanisms that could explain how recombinant technology might lead to a broader immune response and provide cross-protection in a mismatch season.\n2) The context snippets do not provide any specific theories or mechanisms.\n3) No, the provided context snippets do not contain any information about scientific theories or mechanisms that could explain how recombinant technology might lead to a broader immune response and provide cross-protection in a mismatch season."
+        },
+        {
+          "step": 5,
+          "q": "\"Can you provide examples of vaccines developed using recombinant technology that have been effective in mismatch seasons?\"",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "needed on the relative effectiveness of recombinant vaccines as compared with",
+              "score": 0.7316998243331909
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "vaccines used during the study seasons were",
+              "score": 0.721696674823761
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "between recombinant and split vaccines have been shown to",
+              "score": 0.7206079959869385
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with standard-",
+              "score": 0.7180032134056091
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with standard-",
+              "score": 0.7180032134056091
+            }
+          ],
+          "a": "1) The question is asking for examples of effective vaccines developed using recombinant technology during mismatch seasons.\n2) The provided context snippets do not offer any specific examples of such vaccines.\n3) No, the context snippets do not provide examples of effective vaccines developed using recombinant technology during mismatch seasons."
+        },
+        {
+          "step": 6,
+          "q": "\"Are there any known limitations or drawbacks to using recombinant technology in vaccine development, particularly in relation to immune response and mismatch seasons?\"",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "needed on the relative effectiveness of recombinant vaccines as compared with",
+              "score": 0.6941622495651245
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "unique characteristic of the recombinant vaccine is likely related",
+              "score": 0.6793156862258911
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with standard-",
+              "score": 0.6753052473068237
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with standard-",
+              "score": 0.6753052473068237
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "who received the recombinant vaccine than",
+              "score": 0.6711733341217041
+            }
+          ],
+          "a": "1) The question is asking if there are any known issues or disadvantages to using recombinant technology in creating vaccines, specifically regarding immune response and mismatch seasons.\n\n2) The provided context snippets do not contain any specific information about the limitations or drawbacks of using recombinant technology in vaccine development, particularly in relation to immune response and mismatch seasons.\n\n3) Unable to draw a conclusion due to lack of relevant information in the provided context snippets."
+        }
+      ]
+    },
+    {
+      "claim": "Vaccination with a higher-dose recombinant flu vaccine may induce a more robust antibody response than egg-based standard-dose vaccines.",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Is there scientific evidence to support the claim that a higher-dose recombinant flu vaccine induces a more robust antibody response than egg-based standard-dose vaccines?\"",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with the standard-dose vaccines against each",
+              "score": 0.7290735244750977
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "dose vaccines against laboratory-confirmed in-",
+              "score": 0.7206594347953796
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "observed that the impact of vaccine egg-adaptation on antibody",
+              "score": 0.7205605506896973
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "The evidence that the recombinant vaccine con-",
+              "score": 0.7126097679138184
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "high-dose recombinant vaccine with that of",
+              "score": 0.7087113857269287
+            }
+          ],
+          "a": "1) Does scientific research show that a high-dose recombinant flu vaccine produces a stronger antibody response than standard-dose vaccines made from eggs?\n2) The context snippets do not provide any direct evidence or comparison between the antibody responses of high-dose recombinant vaccines and egg-based standard-dose vaccines.\n3) The conclusion cannot be drawn due to insufficient evidence in the provided context snippets."
+        },
+        {
+          "step": 2,
+          "q": "Have there been any clinical trials comparing the antibody response between higher-dose recombinant flu vaccines and egg-based standard-dose vaccines?",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "recombinant vaccine as compared with the standard-dose vaccines against each",
+              "score": 0.8113152980804443
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "dose vaccines against laboratory-confirmed in-",
+              "score": 0.7838354706764221
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "standard-dose vaccines in patients between the",
+              "score": 0.7817903757095337
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "than were the standard-dose vaccines.",
+              "score": 0.7699369192123413
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "non-egg-based vaccines mounted higher post-vaccination HI antibody",
+              "score": 0.7595958709716797
+            }
+          ],
+          "a": "1) The question is asking if there have been clinical trials that compare the antibody response between higher-dose recombinant flu vaccines and standard-dose egg-based vaccines.\n2) The key evidence is: “recombinant vaccine as compared with the standard-dose vaccines against each” (Hsiao et al. (2023)) and “non-egg-based vaccines mounted higher post-vaccination HI antibody” (Liu et al. (2024)).\n3) Yes, there have been clinical trials comparing the antibody response between higher-dose recombinant flu vaccines and standard-dose egg-based vaccines, as indicated by the studies of Hsiao et al. and Liu et al."
+        }
+      ]
+    },
+    {
+      "claim": "Flublok (quadrivalent) was evaluated in the pivotal trial against Fluarix (quadrivalent standard-dose vaccine).",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Is there a pivotal trial that compared the effectiveness of Flublok (quadrivalent) and Fluarix (quadrivalent standard-dose vaccine)?\"",
+          "evidence": [
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.7725438475608826
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Table 5: Relative Vaccine Efficacy (rVE) of Flublok Quadrivalent versus",
+              "score": 0.7535049915313721
+            },
+            {
+              "source": "FlublokPI",
+              "text": "receive Flublok Quadrivalent or a Comparator inactivated inﬂuenza vaccine (Fluarix®",
+              "score": 0.7513988018035889
+            },
+            {
+              "source": "FlublokPI",
+              "text": "the 2-sided 95% CI of vaccine efficacy for Flublok Quadrivalent relative to Comparator",
+              "score": 0.7454040050506592
+            },
+            {
+              "source": "FlublokPI",
+              "text": "[14]). Data for Flublok Quadrivalent are relevant to Flublok because both vaccines are",
+              "score": 0.7406519055366516
+            }
+          ],
+          "a": "1) The question is asking if there was a key trial that compared the effectiveness of Flublok Quadrivalent and Fluarix Quadrivalent vaccines.\n2) The key evidence is: “receive Flublok Quadrivalent or a Comparator inactivated influenza vaccine (Fluarix®” (FlublokPI).\n3) Yes, there was a trial that compared the effectiveness of Flublok Quadrivalent and Fluarix Quadrivalent, as indicated by the context snippet where Fluarix is mentioned as a comparator to Flublok Quadrivalent."
+        }
+      ]
+    },
+    {
+      "claim": "Flublok is produced using a novel production platform in which recombinant HA is expressed in insect cells using a baculovirus expression vector system (BEVS).",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Is Flublok vaccine produced using a baculovirus expression vector system (BEVS) where recombinant HA is expressed in insect cells?\"",
+          "evidence": [
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "vaccines in development. Among these, the recombinant inﬂuenza vaccine tetravalent (RIV4), using a baculovirus expression vector",
+              "score": 0.7190521359443665
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "in insect cells using a baculovirus expression vector system",
+              "score": 0.6937429308891296
+            },
+            {
+              "source": "FlublokPI",
+              "text": "immunogenicity of FluBlok trivalent recombinant baculovirus-expressed hemagglutinin",
+              "score": 0.6842758655548096
+            },
+            {
+              "source": "FlublokPI",
+              "text": "immunogenicity of FluBlok trivalent recombinant baculovirus-expressed hemagglutinin",
+              "score": 0.6842758655548096
+            },
+            {
+              "source": "FlublokPI",
+              "text": "by inﬂuenza A virus subtypes and inﬂuenza type B virus contained in the vaccine. Flublok",
+              "score": 0.672887921333313
+            }
+          ],
+          "a": "1) The question asks if the Flublok vaccine is made using a baculovirus expression vector system (BEVS) where recombinant HA is expressed in insect cells.\n2) The key evidence is: \"immunogenicity of FluBlok trivalent recombinant baculovirus-expressed hemagglutinin\" (FlublokPI).\n3) Yes, the Flublok vaccine is produced using a baculovirus expression vector system where recombinant HA is expressed in insect cells, as it is described as a \"recombinant baculovirus-expressed hemagglutinin\"."
+        }
+      ]
+    },
+    {
+      "claim": "Recombinant HA antigens produced using BEVS have been shown to induce significantly higher levels of broadly cross-reactive antibodies against highly conserved regions of HA compared with egg-derived vaccines.",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Is there scientific evidence to support the claim that Recombinant HA antigens produced using BEVS induce significantly higher levels of broadly cross-reactive antibodies against highly conserved regions of HA compared to egg-derived vaccines?\"",
+          "evidence": [
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "IN RECOMBINANT HA VACCINE IS LIKELY TO FAVOUR ITS",
+              "score": 0.6833727359771729
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "HA component of the vaccine to reﬂect antigenic change in",
+              "score": 0.6730846166610718
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "needed on the relative effectiveness of recombinant vaccines as compared with",
+              "score": 0.6629549264907837
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "vaccination with non-egg-based inﬂuenza vaccines can improve HA-",
+              "score": 0.6566818952560425
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "recombinant HA vaccine thus provide a number of beneﬁts in vaccine performance which can be extended to other viral targets,",
+              "score": 0.6563055515289307
+            }
+          ],
+          "a": "1) The question is asking if there is scientific proof that Recombinant HA antigens produced using BEVS create more broadly cross-reactive antibodies against highly conserved regions of HA than egg-derived vaccines.\n\n2) The key evidence is: \"needed on the relative effectiveness of recombinant vaccines as compared with\" (Hsiao et al. (2023)) and \"vaccination with non-egg-based inﬂuenza vaccines can improve HA-\" (Liu et al. (2024)).\n\n3) The conclusion is unclear, as the provided snippets suggest that more research is needed on the relative effectiveness of recombinant vaccines compared to egg-based ones, and that non-egg-based vaccines can improve HA. However, it does not directly compare Recombinant HA antigens produced using BEVS and egg-derived vaccines."
+        },
+        {
+          "step": 2,
+          "q": "Have there been any comparative studies conducted specifically between Recombinant HA antigens produced using BEVS and egg-derived vaccines in terms of their ability to induce levels of broadly cross-reactive antibodies?",
+          "evidence": [
+            {
+              "source": "Liu et al. (2024)",
+              "text": "non-egg-based vaccines mounted higher post-vaccination HI antibody",
+              "score": 0.7350271940231323
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "needed on the relative effectiveness of recombinant vaccines as compared with",
+              "score": 0.7326948642730713
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "egg-free. Like other recombinant vaccines, expression of HA in",
+              "score": 0.7323744297027588
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "re-directing vaccine-induced neutralizing antibody responses away",
+              "score": 0.7261651754379272
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "recipients of non-egg-based vaccines in just one study year (IIV4-ccIIV4",
+              "score": 0.7078371644020081
+            }
+          ],
+          "a": "1) The question is asking if there have been studies comparing Recombinant HA antigens produced using BEVS and egg-derived vaccines in their ability to produce broadly cross-reactive antibodies.\n\n2) The key evidence is: “non-egg-based vaccines mounted higher post-vaccination HI antibody” (Liu et al. (2024)) and “needed on the relative effectiveness of recombinant vaccines as compared with” (Hsiao et al. (2023)).\n\n3) Maybe, while there is evidence that non-egg-based vaccines have shown higher post-vaccination HI antibody levels, it is not clear if these were Recombinant HA antigens produced using BEVS, and further research is needed on the relative effectiveness of recombinant vaccines compared to egg-derived vaccines."
+        },
+        {
+          "step": 3,
+          "q": "Can you provide specific studies that directly compare the effectiveness of Recombinant HA antigens produced using BEVS and egg-derived vaccines in inducing broadly cross-reactive antibodies?",
+          "evidence": [
+            {
+              "source": "Liu et al. (2024)",
+              "text": "non-egg-based vaccines mounted higher post-vaccination HI antibody",
+              "score": 0.7237493395805359
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "re-directing vaccine-induced neutralizing antibody responses away",
+              "score": 0.7191979289054871
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "needed on the relative effectiveness of recombinant vaccines as compared with",
+              "score": 0.7184112668037415
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "egg-free. Like other recombinant vaccines, expression of HA in",
+              "score": 0.712608277797699
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "vaccines. Each IIV, whether egg-based or cell culture–based,",
+              "score": 0.7110056281089783
+            }
+          ],
+          "a": "1) Are there specific studies comparing the effectiveness of Recombinant HA antigens produced using BEVS and egg-derived vaccines in producing broadly cross-reactive antibodies?\n2) \"needed on the relative effectiveness of recombinant vaccines as compared with\" (Hsiao et al. (2023)).\n3) No, the provided snippets do not mention any specific studies that directly compare the effectiveness of these two types of vaccines."
+        },
+        {
+          "step": 4,
+          "q": "What are the highly conserved regions of HA and why are they significant in the production of broadly cross-reactive antibodies?",
+          "evidence": [
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "for the generation of broad cross-reactive and protective antibodies,",
+              "score": 0.7306421995162964
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "conserved and, as such, antibodies directed against these regions",
+              "score": 0.7027609348297119
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "antibodies speciﬁc to conserved regions on the HA head and",
+              "score": 0.6939944624900818
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "certain conserved epitopes on HA molecules, which are likely responsible for the high levels of broadly cross-reactive and protective",
+              "score": 0.6871828436851501
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "and capacity of HA-neutralising antibodies to protect against",
+              "score": 0.6812102794647217
+            }
+          ],
+          "a": "1) The question is asking about the highly conserved regions of HA and their importance in creating broadly cross-reactive antibodies.\n2) The key evidence is: \"antibodies speciﬁc to conserved regions on the HA head and\" and \"certain conserved epitopes on HA molecules, which are likely responsible for the high levels of broadly cross-reactive and protective\" (Arunachalam et al. (2021)).\n3) Yes, the highly conserved regions of HA are significant in the production of broadly cross-reactive antibodies because antibodies specific to these regions are likely responsible for the high levels of broadly cross-reactive and protective responses."
+        },
+        {
+          "step": 5,
+          "q": "What is the Baculovirus Expression Vector System (BEVS) and how does it contribute to the production of Recombinant HA antigens?",
+          "evidence": [
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "recombinant baculovirus carrying the relevant inﬂuenza HA",
+              "score": 0.7858288288116455
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "vaccines in development. Among these, the recombinant inﬂuenza vaccine tetravalent (RIV4), using a baculovirus expression vector",
+              "score": 0.7739163637161255
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "baculovirus or other recombinant expression system is identical to",
+              "score": 0.7625201940536499
+            },
+            {
+              "source": "Treanor et al. (2011)",
+              "text": "baculovirus-derived",
+              "score": 0.7461631894111633
+            },
+            {
+              "source": "Treanor et al. (2011)",
+              "text": "baculovirus-expressed",
+              "score": 0.7172617316246033
+            }
+          ],
+          "a": "1) The question is asking for a definition of the Baculovirus Expression Vector System (BEVS) and its role in producing Recombinant HA antigens.\n2) The key evidence is: \"recombinant baculovirus carrying the relevant inﬂuenza HA\" and \"the recombinant inﬂuenza vaccine tetravalent (RIV4), using a baculovirus expression vector\".\n3) The Baculovirus Expression Vector System (BEVS) is a system that uses recombinant baculovirus to carry relevant influenza HA. It contributes to the production of Recombinant HA antigens by being used in the development of vaccines like the recombinant influenza vaccine tetravalent (RIV4)."
+        },
+        {
+          "step": 6,
+          "q": "What is the process of producing egg-derived vaccines and how does it compare to the production of Recombinant HA antigens using BEVS in terms of inducing broadly cross-reactive antibodies?",
+          "evidence": [
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "egg-free. Like other recombinant vaccines, expression of HA in",
+              "score": 0.7201635837554932
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "immunogenicity of egg- vs non-egg-based vaccines in two inﬂuenza",
+              "score": 0.698739767074585
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "non-egg-based vaccines mounted higher post-vaccination HI antibody",
+              "score": 0.694023847579956
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "observed that the impact of vaccine egg-adaptation on antibody",
+              "score": 0.6924898028373718
+            },
+            {
+              "source": "Liu et al. (2024)",
+              "text": "antigens from all 4 subtypes in the egg-based vaccines had HA sub-",
+              "score": 0.6814167499542236
+            }
+          ],
+          "a": "1) The question is asking for a description of the process of creating egg-derived vaccines and how it compares to the production of Recombinant HA antigens using BEVS in terms of generating broadly cross-reactive antibodies.\n2) The context snippets do not provide specific information on the process of producing egg-derived vaccines or how it compares to the production of Recombinant HA antigens using BEVS in terms of inducing broadly cross-reactive antibodies.\n3) The conclusion cannot be drawn due to insufficient information in the provided context snippets."
+        }
+      ]
+    },
+    {
+      "claim": "Flublok contains 45 micrograms (mcg) of HA per strain vs 15 mcg of HA per strain in a standard-dose influenza vaccine.",
+      "corag_steps": [
+        {
+          "step": 1,
+          "q": "\"Does the Flublok vaccine indeed contain 45 micrograms (mcg) of HA per strain, compared to the 15 mcg of HA per strain in a standard-dose influenza vaccine?\"",
+          "evidence": [
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "of Influenza Vaccine Doses) (Figure).",
+              "score": 0.6558471918106079
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "vaccine (Flublok Quadrivalent) or one of two standard-dose influenza vaccines",
+              "score": 0.6555085778236389
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "HA IN OTHER INFLUENZA VACCINES",
+              "score": 0.6519388556480408
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Number of Influenza Vaccine Doses",
+              "score": 0.6513872146606445
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "Flublok Quadrivalent influenza vaccine was",
+              "score": 0.6452648639678955
+            }
+          ],
+          "a": "The question is asking if the Flublok vaccine contains 45 mcg of HA per strain, while a standard-dose influenza vaccine contains 15 mcg of HA per strain. Unfortunately, none of the provided context snippets provide specific information about the HA content in Flublok or standard-dose influenza vaccines. Therefore, a conclusion cannot be drawn based on the given context."
+        },
+        {
+          "step": 2,
+          "q": "What is the standard amount of HA per strain in most common influenza vaccines?",
+          "evidence": [
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "HA IN OTHER INFLUENZA VACCINES",
+              "score": 0.7848174571990967
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Influenza Vaccine Composition for the",
+              "score": 0.7576088309288025
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Influenza Vaccine Composition and",
+              "score": 0.7531744837760925
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "for the different types of influenza vaccines are summarized",
+              "score": 0.7524230480194092
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Number of Influenza Vaccine Doses",
+              "score": 0.7487413883209229
+            }
+          ],
+          "a": "The question is asking for the standard quantity of HA (Hemagglutinin) per strain in most influenza vaccines. However, none of the provided context snippets provide specific information about the standard amount of HA per strain in influenza vaccines. Therefore, a conclusion cannot be drawn based on the given context."
+        },
+        {
+          "step": 3,
+          "q": "What is the amount of HA per strain in the Flublok vaccine?",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "vaccine strain.4 The Flublok Quadrivalent influ-",
+              "score": 0.7957789897918701
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok (Inﬂuenza Vaccine)",
+              "score": 0.7545499801635742
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "cal to that in the selected strain.5 The vaccine",
+              "score": 0.7318305373191833
+            },
+            {
+              "source": "FlublokPI",
+              "text": "Flublok is a vaccine indicated for active immunization for the prevention of disease",
+              "score": 0.7257094979286194
+            },
+            {
+              "source": "FlublokPI",
+              "text": "The efficacy of Flublok Quadrivalent is relevant to Flublok because both vaccines are",
+              "score": 0.7238414287567139
+            }
+          ],
+          "a": "The question is asking for the quantity of Hemagglutinin (HA) per strain in the Flublok vaccine.\n\nUnfortunately, none of the provided context snippets provide information on the amount of HA per strain in the Flublok vaccine.\n\nConclusion: The information cannot be determined from the provided context snippets."
+        },
+        {
+          "step": 4,
+          "q": "Does the Flublok vaccine contain three times the amount of HA per strain compared to a standard-dose influenza vaccine?",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "vaccine (Flublok Quadrivalent) or one of two standard-dose influenza vaccines",
+              "score": 0.8310909271240234
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Number of Influenza Vaccine Doses",
+              "score": 0.7844424247741699
+            },
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "Flublok Quadrivalent influenza vaccine was",
+              "score": 0.7694006562232971
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "effectiveness of high-dose versus standard-dose influenza vaccines among",
+              "score": 0.7648175954818726
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "dose of an influenza vaccine (Table 3):",
+              "score": 0.7624128460884094
+            }
+          ],
+          "a": "1) The question is asking if the Flublok vaccine has triple the amount of HA per strain compared to a standard influenza vaccine.\n2) The provided context snippets do not contain any information about the amount of HA per strain in the Flublok vaccine or a standard-dose influenza vaccine.\n3) The conclusion cannot be drawn from the provided context as it lacks the necessary information."
+        },
+        {
+          "step": 5,
+          "q": "What is the HA content per strain in the standard-dose influenza vaccine?",
+          "evidence": [
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "component of the vaccine† or to a previous dose of any influenza",
+              "score": 0.7895441651344299
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "component of the vaccine† or to a previous dose of any influenza",
+              "score": 0.7895441651344299
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "of a previous dose of any type of influenza vaccine is considered",
+              "score": 0.7800047993659973
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Influenza Vaccine Composition and",
+              "score": 0.7789053916931152
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Influenza Vaccine Composition for the",
+              "score": 0.7780486345291138
+            }
+          ],
+          "a": "The question is asking for the amount of HA (Hemagglutinin) in each strain of the standard-dose flu vaccine. However, none of the provided context snippets provide information on the HA content per strain in the standard-dose influenza vaccine. Therefore, the answer cannot be determined from the given context."
+        },
+        {
+          "step": 6,
+          "q": "Is the HA content per strain in the Flublok vaccine higher than that in a standard-dose influenza vaccine?",
+          "evidence": [
+            {
+              "source": "Hsiao et al. (2023)",
+              "text": "vaccine (Flublok Quadrivalent) or one of two standard-dose influenza vaccines",
+              "score": 0.7886551022529602
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "following higher dose or adjuvanted influenza vaccines:",
+              "score": 0.7631556987762451
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Influenza Vaccine Composition for the",
+              "score": 0.761518120765686
+            },
+            {
+              "source": "Grohskopf et al. (2023)",
+              "text": "Influenza Vaccine Composition and",
+              "score": 0.7594078779220581
+            },
+            {
+              "source": "Arunachalam et al. (2021)",
+              "text": "HA IN OTHER INFLUENZA VACCINES",
+              "score": 0.7586817741394043
+            }
+          ],
+          "a": "The question is asking if the Flublok vaccine has a higher HA content per strain than a standard-dose influenza vaccine.\n\nUnfortunately, none of the provided context snippets provide specific information about the HA content in the Flublok vaccine or in a standard-dose influenza vaccine.\n\nTherefore, it's not possible to draw a conclusion based on the provided information."
+        }
+      ]
+    }
+  ]
+}
